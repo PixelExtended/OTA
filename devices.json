@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Mi A2",
+      "brand": "Xiaomi",
+      "codename": "jasmine_sprout",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "Pavel K (ctwoon)",
+            "maintainer_url": "https://github.com/rebenok90x",
+            "xda_thread": "https://google.com"
+         }
+      ]
+   },
+   {
+      "name": "Mi 6X",
+      "brand": "Xiaomi",
+      "codename": "wayne",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "Ten",
+            "maintainer_name": "Pavel K (ctwoon)",
+            "maintainer_url": "https://github.com/rebenok90x",
+            "xda_thread": "https://google.com"
+         }
+      ]
+   }
+]
