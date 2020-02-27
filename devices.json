@@ -7,24 +7,9 @@
          {
             "version_code": "ten",
             "version_name": "Ten",
-            "maintainer_name": "Nikita C (ctwoon)",
-            "maintainer_url": "https://github.com/rebenok90x",
-            "xda_thread": "https://google.com"
-         }
-      ]
-   },
-   {
-      "name": "Mi 6X",
-      "brand": "Xiaomi",
-      "codename": "wayne",
-      "supported_versions": [
-         {
-            "version_code": "ten",
-            "version_name": "Ten",
-            "maintainer_name": "Pavel K (ctwoon)",
-            "maintainer_url": "https://github.com/rebenok90x",
-            "xda_thread": "https://google.com"
+            "maintainer_name": "Aryan Gupta",
+            "maintainer_url": "https://github.com/darkbeast69",
+            "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
          }
       ]
    }
-]
