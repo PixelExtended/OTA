@@ -10,6 +10,8 @@
             "maintainer_name": "Aryan Gupta",
             "maintainer_url": "https://github.com/darkbeast69",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
+               }
+            ]
          },
          {
             "version_code": "ten_plus",
@@ -17,6 +19,25 @@
             "maintainer_name": "Aryan Gupta",
             "maintainer_url": "https://github.com/darkbeast69",
             "xda_thread": "https://forum.xda-developers.com/mi-a2/development/rom-pixel-experience-t3968163"
+         },
+      {
+      "name": "Redmi Note 6 Pro",
+      "brand": "Xiaomi",
+      "codename": "twolip",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Niteshkumar (niti)",
+            "maintainer_url": "https://github.com/niteshkumar2000",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t4047809/"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Niteshkumar (niti)",
+            "maintainer_url": "https://github.com/niteshkumar2000",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-plus-t4065441"
          }
       ]
    }
