@@ -40,5 +40,27 @@
             "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-plus-t4065441"
          }
       ]
+   },
+   {
+      "name": "Redmi Note 4",
+      "brand": "Xiaomi",
+      "codename": "mido",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Aryan Kedare",
+            "maintainer_url": "https://github.com/aryankedare",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-t4047809/"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Aryan Kedare",
+            "maintainer_url": "https://github.com/aryankedare",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-pixel-experience-plus-t4065441"
+         }
+      ]
    }
 ]
+
