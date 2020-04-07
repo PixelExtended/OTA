@@ -1,0 +1,440 @@
+=======================
+     2020/04/07
+=======================
+
+
+   * build/make/
+f1b66e7 build: Allow supplying a prebuilt recovery ramdisk cpio
+d2ad248 Merge https://github.com/PixelExperience/build into ten-plus
+a38869c Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/build into HEAD
+0a29392 edify: Don't append capabilities if path starts with /tmp
+c97ab27 edify: Don't append capabilities if path starts with /tmp
+
+   * build/soong/
+445231e Merge pull request #1 from PixelExperience/ten
+
+   * external/asus/stitchimage/
+6227a05 Automatic translation import
+
+   * external/motorola/faceunlock/
+6b03cdf Automatic translation import
+
+   * external/skia/
+b742e51 Allow to rebind GL texture if AHB content has changed
+
+   * frameworks/av/
+ab0ccfb Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/frameworks/av into HEAD
+6e0d702 Adapt session API for newly added AudioPolicyService code
+558c6bb Merge "[2/2] av: Remove restrictions for system audio record" into ten
+
+   * frameworks/base/
+1cf5a87 derp
+0dd7708 base: media_seekbar: make it sexy
+334c203  storage: Set all sdcards to visible
+ea9eea4 ViewConfiguration: Set scroll friction to 0.012
+1aa6f7e SystemUI: Tiny expanding improvement
+25b6668 base: set scrolling friction to 0.006f
+e65725d Improve scrolling cache
+868c18a ListView: Disable dividers by default
+1133eb5 Forward Port: Smoother Upload and Download Animation
+5e1324a PackageInstaller: Show current and new version on APK installation
+19abc0a base: Change dividers from Holo Blue to Pixel Blue
+286d7db Status bar notification: Use Material icons for missed calls
+108e8c0 Support UnifiedNlp (microG)
+4329e14 Use Cloudflare DNS servers as hints
+6949e6c Use Cloudflare DNS as the default fallback
+3af5f3b NetworkDiagnostics: switch to Cloudflare DNS
+e4bc305 Use Cloudflare DNS servers as defaults for tethering
+16e64f5 SystemUI: Add VoLTE switch in tuner
+05db839 Allow to dismiss notifications with back FP left/right swipe [1/2]
+d3d910d Add a custom Settings observer
+3c5a45c op volte icon
+c5dade3 SystemUI: Fix VoLTE icon color on Light statusbar
+7d3082e SystemUI: Fix padding for VoLTE icon
+ff89a1e SystemUI: Add VoLTE icon for Android 10
+7f2fc02 Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/frameworks/base into HEAD
+3c1a054 SystemUI: Fix NPE on OpaEnableDispatcher
+1e7a18f Merge "Automatic translation import" into ten-plus
+04e2f0a Automatic translation import
+f643223 SystemUI: Make fastbootd string untranslatable
+9b037e4 Merge "Implement edge long swipe gesture [1/2]" into ten-plus
+bd6ed06 Merge "base: Navigation mode settings [1/2]" into ten-plus
+b274f4c SystemUI: Improve qs detail theming
+5900a00 Implement edge long swipe gesture [1/2]
+f9c65b8 base: Navigation mode settings [1/2]
+5989e76 fwb: Port long screenshot implementation from Asus
+c0e094e Automatic translation import
+6bc7884 UninstallAlertDialogFragment: Catch IllegalArgumentException
+2ba6ad1 SystemUI: Allow listening for face only on pin/pass view
+311e613 fwb: Guard some functions against face unlock
+b496f8c [3/4] Port face unlock feature
+f103c33 GlobalActionsDialog: Disable screen recorder shorcut
+d7943d4 SystemUI: Whitelist our recorder on CastController
+0352cb4 [1/2] base: Remove restrictions for system audio record
+
+   * hardware/custom/interfaces/
+6b29d71 [AWARE] Protect string copy against buffer overflow
+
+   * hardware/qcom/sdm845/media/
+76abea6 Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/hardware/qcom/sdm845/media into HEAD
+
+   * manifest/
+b72b159 Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/manifest into ten-plus
+daad1b4 Manifest for Android 10.0.0 Release 33 (QQ2A.200405.005)
+4244645 Track skia
+
+   * packages/apps/Recorder/
+59c8873 Fix leftovers missed on 6dc4265535cabf9ee7bade2c793ae0fd090ad753
+ec5242f Automatic translation import
+703f179 Rename string name
+4685fc4 Improve qs tile
+6dc4265 Remove recording when screen off
+2ad0d2a ScreenRecorder: Fix exception handling
+ca44de6 Add missing permission
+ba2df6f Revert "Android studio import"
+9a96230 Android studio import
+b15cb73 Cleanup inline build
+d842285 Refactor for ten
+3196828 Merge "Recorder: Use getExternalFilesDir() for recording paths" into ten
+76dc0a4 Recorder: Drop WRITE_EXTERNAL_STORAGE permission
+
+   * packages/apps/Settings/
+286bb75 Update custom_strings.xml
+0fd5d4b Move custom dp settings under Display
+2583761 Open app when clicking on icon in App Info
+ff4b25e Allow to dismiss notifications with back FP left/right swipe [2/2]
+a935250 [DNM] Settings: Enable ota for unofficial
+fd21fd0 Merge https://github.com/PixelExperience/packages_apps_Settings into HEAD
+00723ba Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/packages/apps/Settings into HEAD
+f10a60b Automatic translation import
+86db752 Settings: Reword a qs animation style string
+796ccf0 Implement edge long swipe gesture [2/2]
+b8cb2bd Settings: Move the hide pill toggle to gesture settings dialog
+61cf666 Settings: Navigation mode settings [2/2]
+504856c Revert "Settings: Keep system navigation gestures in one place"
+50b9ab0 Automatic translation import
+e759614 Settings: Merge extra strings in one file
+916516e [4/4] Port face unlock feature
+3a57144 Automatic translation import
+2429684 Merge "Settings: Merge extra strings in one file" into ten
+74e231a Merge "[4/4] Port face unlock feature" into ten
+
+   * packages/providers/DownloadProvider/
+f8c5b18 Automatic translation import
+
+   * packages/resources/devicesettings-custom/
+dcbc284 Automatic translation import
+
+   * packages/services/BuiltInPrintService/
+d396f1d Automatic translation import
+
+   * system/bt/
+09c41b3 Merge tag 'android-10.0.0_r33' of https://android.googlesource.com/platform/system/bt into HEAD
+
+   * vendor/aosp/
+920fe53 Add Mixplorer
+8fba6df Enable OTA
+3db2c4b repopick: Use git apply instead of git am
+a22d79b repopick: Silent curl output
+7374201 vendor: pixelgerrit: Improve push function
+bb14048 repopick: Add git am method
+976edd8 vendor: Build StitchImage
+014229d extract_utils: Generate deodexed apk/jar with consistent checksum
+a2afad0 extract_utils: Fix doubled path separator
+fdb1bcb [2/5] Port face unlock feature
+6c67cb5 vendor: Build Recorder
+
+=======================
+     2020/04/06
+=======================
+
+
+   * external/asus/stitchimage/
+5511f5d stitchimage: Imports blobs
+
+   * frameworks/base/
+4960b67 LocationTile: Check for secure keyguard also on handleClick
+19b6648 SystemUI: Restore keyguard dimens after b40a3db3313f13b2af86f818a83afbb5e777be55
+3a3a96a framework: Implement light for popup camera
+aabbf37 Add back battery light switch [1/2]
+
+   * packages/apps/Settings/
+72981bd Settings: Add switch for battery led
+33fdc83 Settings: Add switch for battery led
+
+   * vendor/aosp/
+820028b vendor: Revert caf sf commits
+925970f vendor: Improve roomservice fallback branch
+
+   * vendor/gapps/
+dbce4aa Remove GooglePackageInstaller and GooglePermissionControllerPrebuilt
+
+=======================
+     2020/04/05
+=======================
+
+
+   * bootable/recovery/
+716b07f otautil: add support for unmounting entire volumes
+34a5908 recovery: allow A/B updater to downgrade
+12acb75 recovery: use ensure_volume_unmounted in format_volume
+6655582 recovery: fixup `Add runtime checks for A/B vs traditional updates`
+ca6dbaa recovery: Add runtime checks for A/B vs traditional updates
+63ead5c recovery: clean up ask_to_continue_unverified
+
+   * build/make/
+1271d06 Merge https://github.com/PixelExperience/build into HEAD
+0ca4a53 Add mke2fs.conf to otatools
+ec146f3 Don't package mke2fs.conf in otatools.zip
+42975c9 Compute the needed shared libs for otatools.
+7d56e65 Remove unused shared libs from otatools.
+febf51c Update the references to verity tools.
+
+   * build/soong/
+053b543 soong: Allow python3.6
+
+   * device/custom/sepolicy/
+a4c8f94 vendor: Introduce a new flag to exclude fuseblk sepolicy
+
+   * device/qcom/sepolicy/
+6441ef2 Merge https://github.com/LineageOS/android_device_qcom_sepolicy into ten
+
+   * external/libcxx/
+d903fff Make libc++fs vendor available and as a shared lib
+
+   * external/motorola/faceunlock/
+f79c7fe faceunlock: Import blobs
+
+   * frameworks/av/
+f4eff13 media utils: dump audio HAL service before restarting audioserver
+c3ffd94 media utils: fix UAF in TimeCheckThread
+7c185e2 audiopolicy: Fixup 7f84dfd and re-sync with CAF
+660384d TimeCheck: fix use of uninitialized variable
+9b7f91f Revert "Revert "Request to reset effect buffer in clearInputBuffer""
+32cde15 Revert "Revert "audiopolicy: Add AudioSessionInfo API""
+
+   * frameworks/base/
+f48b52d FODCircleView: Fix build after 1dbb3fca77587bc8c85b779f0fafe37829d4a626
+2a5c688 SystemUI: Keyguard: Only apply padding if fod view showing
+6f36622 FODCircleView: Fix high brightness after unlocking
+78d6df7 FOD: Show fod circle below pattern/pin view
+dd44993 SystemUI: Disable the FOD animation on AOD
+0e515ae SystemUI: Cleanup pixel live wallpapers changes
+87027d7 fwb: Start device specific popup camera service conditionally
+a169d3d FodScreenOffHandler: Add hasEnrolledFingerprints callback
+06186f6 DisplayPolicy: Fix watchdog when adding new display
+4313ce3 Revert "SystemUI: Show charging status in addition to trust granted/transient status"
+29def4e Prevent HandlerThread from losing interrupted flag
+b77190f FODCircleView: update position of icon before show
+7fe3b3e AudioService: communicate audio HAL process pids to native audioserver
+70196ee Audioservice:do not supress music volume adjustment
+b91ad80 a11y: don't crash the system when illegal component name encounted
+040b681 Modify start/stop condition for mScreenDozeTimer.
+0d1772c Don't include the data dir in zygote library paths.
+ae2f49d Fix for recycling key events when sending global button broadcast
+e85d44e Make sure the right DND config is used
+9abe700 Fix wrong variable in AccountManagerService's TokenCache
+960f9dc Fix ThumbnailUtils thumbnail pts calculation
+
+   * frameworks/native/
+4a936ca Forward port 'Swap volume buttons' (2/3)
+a720cf4 Add dalvik-heap device-configs for 4/6GB devices
+edb2c97 Change the position of addAndGetFrameTimestamps when queueBuffer
+fef1bb6 Fix testVerifyStatsExternalConsistent case
+77683c8 Vulkan: Improve error translation in CreateSwapChainKHR
+dc81bc2 add the OMX_VIDEO_CodingAV1 in the OMX_VIDEO_CODINGTYPE
+7a884f3 Vulkan: correctly expose Vulkan entry points
+6443c76 sensorservice: Register orientation sensor if HAL doesn't provide it
+e634bd9 sensorservice: customize sensor fusion mag filter via prop
+30c306b input: Adjust priority
+92553ac surfaceflinger: Pass proper transform orientation to setProjection()
+ac3e2a0 InputDispatcher: On keypress, deliver keycode to pokeUserActivity
+4ed7392 PowerManager.h: Define USER_ACTIVITY_FLAG values
+a240e60 libui: Allow invalid bits from callers conditionally
+7014d61 libui: Allow extension of valid gralloc 1.0 buffer usage bits
+766fed0 Add vendor version for libgui
+
+   * manifest/
+cc501fc manifest: Track devicesettings-custom
+59cd1ac crowdin: Track stitchimage
+7068d08 manifest: Track some nfc packages from lineage
+4a77404 Track libcxx
+4c0bea1 Track Recorder
+
+   * packages/apps/FMRadio/
+80d82e8 Automatic translation import
+
+   * packages/apps/Recorder/
+ea41be2 Recorder: Use getExternalFilesDir() for recording paths
+
+   * packages/apps/Settings/
+8a2dbc1 Settings: Merge extra strings in one file
+1f59d13 [4/4] Port face unlock feature
+
+   * packages/apps/Snap/
+5cf5e4d Automatic translation import
+bbab0ce Revert "Do not override Camera2 for targets using vanilla AOSP"
+
+   * packages/resources/devicesettings-custom/
+1daf501 devicesettings-custom: Remove dc dimming strings
+
+   * system/extras/
+264027a mkuserimg_mke2fs.py: Package mke2fs.conf
+ae7ef86 verity: Update the build rules for verity tools.
+
+   * system/netd/
+5f048c0 netd: Don't fail on FTP or PPTP conntrack failure
+
+   * system/sepolicy/
+2b28b9b audioserver: allow audioserver to generate audio HAL tombstones
+
+   * vendor/aosp/
+3264c2a Merge branch 'ten' of https://github.com/PixelExperience/vendor_aosp into ten-plus
+96d3fe3 Allow A/B OTA downgrades on debuggable builds
+807d992 vendor: Remove AmbientPlay leftovers
+6b6a949 soong_config: Add TARGET_IGNORES_FTP_PPTP_CONNTRACK_FAILURE
+
+   * vendor/qcom/opensource/fm-commonsys/
+7ca9b64 Merge https://github.com/LineageOS/android_vendor_qcom_opensource_fm-commonsys into ten
+
+   * vendor/qcom/opensource/power/
+e9bf518 Add Powerhal support for bengal
+ce0c476 Power: Add Camera Powerhal settings for Bitra
+7afd4e3 qvr powerhints
+
+=======================
+     2020/04/04
+=======================
+
+
+   * external/asus/stitchimage/
+0996667 Initial empty repo
+
+   * external/motorola/faceunlock/
+c3ea72e Initial empty repo
+
+=======================
+     2020/04/03
+=======================
+
+
+   * manifest/
+61a4c5e Track asus/stitchimage
+
+=======================
+     2020/04/02
+=======================
+
+
+=======================
+     2020/04/01
+=======================
+
+
+   * system/update_engine/
+6569cce Allow skipping timestamp check in certain debug conditions
+
+=======================
+     2020/03/31
+=======================
+
+
+   * manifest/
+be78905 [1/5] Port face unlock feature
+
+   * packages/apps/Updates/
+9432de9 Modify OTA end points for our servers
+
+   * packages/resources/devicesettings/
+0b16352 Automatic translation import
+
+   * packages/resources/devicesettings-custom/
+74bf4a3 Initial commit
+
+   * vendor/qcom/opensource/fm-commonsys/
+cc7dc91 Automatic translation import
+
+=======================
+     2020/03/30
+=======================
+
+
+   * device/qcom/sepolicy/
+c662fab Fix broken userdebug_or_eng checks
+
+=======================
+     2020/03/29
+=======================
+
+
+   * vendor/nxp/opensource/sn100x/halimpl/
+e747bcc sn100x: halimpl: ignore autonomous mode writes if the feature is disabled
+
+=======================
+     2020/03/28
+=======================
+
+
+=======================
+     2020/03/27
+=======================
+
+
+=======================
+     2020/03/26
+=======================
+
+
+=======================
+     2020/03/25
+=======================
+
+
+   * build/make/
+698a285 Merge branch 'ten' of https://github.com/PixelExperience/build into ten-plus
+
+   * frameworks/av/
+09d6e56 [2/2] av: Remove restrictions for system audio record
+
+   * frameworks/base/
+0af5c55 NetworkTraffic: Include tethering hw offload statistics
+50a5df8 Merge branch 'ten' of https://github.com/PixelExperience/frameworks_base into ten-plus
+9676c07 FODAnimation: Check if view is null before adding a new one
+8b648c2 FODCircleView: Don't show on certain cases
+d71094b FODCircleView: Also hide circle on auth error
+d41af5c Fod: Implement FodScreenOffHandler
+5b6aaa2 Merge "pm: Add flags for UFS card for encryption in vold" into ten
+a74af13 Merge "Revert "storage: Do not notify for volumes on non-removable disks"" into ten
+9447b0e Merge "Fixes a system crash in VibratorService on x86 hosts" into ten
+5e98c29 Merge "Apply proper displayCutout rotation in density 480 dpi and 270 degrees rotation." into ten
+e0b0f61 Merge "Visualizer: Ensure multi-thread safety" into ten
+7dff851 Merge "bugfix for noteResetVideoLocked" into ten
+2327a85 Merge "AlarmManagerService: Fix FWR before boot completed" into ten
+315a9d3 Merge "MediaCodec: Release lock before calling onFrameRendered()" into ten
+af278c1 Merge "Sanitize Bluetooth device names without regex" into ten
+dc45bcd FODCircleView: fix incorrect position on keyguard
+9884375 SystemUI: Conditionally hide extra biometric help on keyguard
+4549ec3 FODCircleView: Hide animation when auth fails
+bced592 Fix FodUtils path
+c1b2512 SystemUI: Port more Assist things from Pixel SystemUI
+708b708 Revert "Add colors to assistant animation"
+78fa49c Revert "SystemUI: assist: disable old Assistant animations"
+db8f24b pm: Add flags for UFS card for encryption in vold
+fed73af Revert "storage: Do not notify for volumes on non-removable disks"
+9c3e83d Fixes a system crash in VibratorService on x86 hosts
+14569b5 Apply proper displayCutout rotation in density 480 dpi and 270 degrees rotation.
+cf02987 Visualizer: Ensure multi-thread safety
+95fdceb bugfix for noteResetVideoLocked
+8860316 AlarmManagerService: Fix FWR before boot completed
+14c3b4d MediaCodec: Release lock before calling onFrameRendered()
+1fff9b4 Sanitize Bluetooth device names without regex
+
+   * manifest/
+d2de91b Merge branch 'ten' of https://github.com/PixelExperience/manifest into ten-plus
+
+   * packages/apps/Settings/
+2d19c15 Merge branch 'ten' of https://github.com/PixelExperience/packages_apps_Settings into ten-plus
+
+   * vendor/aosp/
+57324f7 Merge branch 'ten' of https://github.com/PixelExperience/vendor_aosp into HEAD
+
