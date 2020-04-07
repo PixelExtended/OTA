@@ -13,5 +13,6 @@ Added MiXplorer
 
 Device Changelog :-
 Implemented EAS
+Removed Ugly HD Notfication for existing all carriers
 Fixed an issue where internet sometime don't work on hotspot
 Performance and Battery Improvments
