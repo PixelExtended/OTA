@@ -1,0 +1,21 @@
+Source :-
+
+Restored New lockscreen layout for face unlock bypass (was removed in last build)
+Added Default Wall (Thanks to tulip walls)
+OTA fixes
+Custom Clock Improvments
+
+Device :-
+Added ANX Camera
+Sepolicy Cleanup
+Address few denials
+Removed obsolete HMP tunables 
+import blkio tunables from mata
+Add back missing msm-irqbalance
+Updated Powerhints
+Audio: Add hph-lowpower-mode
+Update blobs from LA.UM.8.2.r1-06200-sdm660.0
+Use full LA.UM.8.2.r1-05700-sdm660.0 SDM graphic stack
+Imported necessary DRM blobs for Netflix to work correctly 
+
+
