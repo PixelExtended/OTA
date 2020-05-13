@@ -1,4 +1,4 @@
-ROMDIR=~/plus
+ROMDIR=~/pe
 cd $ROMDIR
 DATETIME=$(grep "org.pixelexperience.build_date_utc=" out/target/product/jasmine_sprout/system/build.prop | cut -d "=" -f 2)
 FILENAME=$(find out/target/product/jasmine_sprout/PixelExperience*.zip | cut -d "/" -f 5)
