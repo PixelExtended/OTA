@@ -1,0 +1,9 @@
+• Source
+   - New Redesigned Volume Dialog Ported Directly From AOSPA
+   - Added 5 new lockscreen clock styles
+   - Added Google Sound Search tile
+   - Media Seekbar Improvments
+   - Fixed Oneplus Slate font
+   - Readjusted padding between signal and battery icons
+• Device
+   - Changed vibration patterns (softer)
