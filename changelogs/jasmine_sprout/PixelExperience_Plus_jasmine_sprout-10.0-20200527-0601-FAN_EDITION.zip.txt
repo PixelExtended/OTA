@@ -19,5 +19,13 @@ Source:-
 
  
 Device:-
-       Added XiaomiParts
-       Synced Latest tree changes from org
+-Added XiaomiParts
+-New kernel rebased on sdm660 tag without blown shit
+- fixed manual network
+- fix native video call
+- updated light hal
+- new blobs all updated now
+- 24 bit audio
+- new gps and data hal
+- switched to qcom audio effects
+- few performance tweaks
