@@ -1,0 +1,70 @@
+[CENTER]
+[img]https://imgur.com/sE9wjFa.png[/img]
+[SIZE="5"][b][color=#1a73e8]PixelExperience Fan-Edition for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="3"]Pixel Experience Fan-Edition is an AOSP based ROM modified orginally from Pixel Experience , with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation) and added some Extra Basic Fetures you will be needing in a Custom ROM with stability Of Pixel Experience.
+
+Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
+
+Based on Android 10.0
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound / vibration[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
+[SIZE="3"]Reworked OOS like network traffic (Different from original project)
+Volte icon
+QS blur 
+R style Notification Header
+FP Swipe Gestures
+Smart Charging
+Adaptive Media Playback 
+Redesigned Volume Dialog like PA
+FP unlock after system reboot
+Notification Logs
+Some few New accents
+Some few New Fonts 
+Some few New lockscreen clocks
+Some few  New icon shapes
+
+As only Essesntial Features will be added so this list will updated whenever there is a new feature[/SIZE]
+
+[SIZE="3"]NOTE :- All possible features are toggleable and sources are always based on Pixel Experience but[B] "It's not an Unofficial Build" [/B]as we implement OTA support too .[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="6"][url="https://sourceforge.net/projects/private-dir/files/PixelExperience-Fan_Edition/Decrypted/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/pixeljasmine"][b][color=#1a73e8][u]Device Support Group[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 10.0.0_r33
+[*][b]Security patch level:[/b] April 2020
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
+[*][b]Source code:[/b] [url=https://github.com/PixelExperience]https://github.com/PixelExperience-FanEdition[/url]
+[*][b]FAN_EDITION Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=6519039]jhenrique09[/url]
+[/list][/SIZE][/LEFT]
