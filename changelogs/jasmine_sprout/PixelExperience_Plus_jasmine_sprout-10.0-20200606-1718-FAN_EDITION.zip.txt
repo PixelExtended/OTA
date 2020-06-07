@@ -1,0 +1,23 @@
+Source :-
+June Sec Patch
+Improved Traffic Indicators Layout 
+Bluetooth icon improvmets
+KeyGurad Charging Animation
+Font Fixes
+Blurred Behind Power menu
+Fixed a case where systemui crashing when changing to ringer mode in volume 
+FP swipe gesture improvments
+Fixed SystemUI crash in certain Cases
+Implemented Quick QS brightness slider
+Little Fan_Edition branding in about page
+Update PixelLauncher , ThemeStubs and Gapps from QQ3
+Recorder Improvments
+Improved Performance and Smoothness 
+
+Device Source :-
+June FP sec patch 
+Update blobs from LA.UM.8.2.r1-06700-sdm660
+Update Gps Hal to LA.UM.8.2.r1-06700-sdm660
+Added Missing Perf related props
+Updated IOP and Esepowermanager blobs from LA.UM.8.2.r1-06500-sdm660
+Kernel Upstreamed to 4.4226
