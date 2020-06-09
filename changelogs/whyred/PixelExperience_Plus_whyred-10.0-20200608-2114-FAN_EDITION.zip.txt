@@ -3,7 +3,7 @@ Changelogs for 2020-06-08 build:
 Source :-
    • Merged June Security Patch
    • Updated Fingerprint to Coral June
-   • New fix for BT icon
+   • Finally BT icon fixed
    • Added Quick QS Brightness slider
    • Reduced padding between clock and notification icons (more usable space)
    • Added Blur behind Power Menu
