@@ -1,4 +1,4 @@
-Changelogs for 2020-06-07 build:
+Changelogs for 2020-06-08 build:
 
 Source :-
    • Merged June Security Patch
