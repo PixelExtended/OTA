@@ -41,6 +41,7 @@ Adaptive Media Playback
 Redesigned Volume Dialog like PA
 FP unlock after system reboot
 Notification Logs
+Theming Customisation
 Some few New accents
 Some few New Fonts 
 Some few New lockscreen clocks
