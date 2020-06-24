@@ -1,0 +1,20 @@
+Changelogs for 2020-06-24 build:
+
+Source :-
+   • Added Themes section into Display settings
+   • Added more primary colors
+   • Now you can switch between Q and R accent style
+   • Fixed Divided Lines clock margin
+   • Fixed QS detail header
+   • Tinted Power Menu icons with accent color
+   • Added central Text Clock
+   • Changed "Status bar" settings to "Device customization"
+   • Fixed Auto Brightness icon showing even if disabled
+   • Removed Blur in Power Menu (it doesn't look very well yet)
+   • Updated ROM info in Recovery installer
+   • Increased Blur radius a bit
+   • Added Data switch tile
+
+Device :-
+   • Reverted back to stock Oreo FP (to pass CTS)
+   • Removed LiveDisplay (Buggy with ROM source at the moment)
