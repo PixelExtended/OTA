@@ -1,0 +1,21 @@
+Device Changelog :-
+
+> Reduce StatusBar Padding to 2dp to save some space 
+> Nuked XiaomiParts As of now 
+> Switch to Flame Build Fingerprint
+> Switched to QTI bt stack and enabled a2dp offload 
+
+Source Changelog :-
+
+> Added Gesture Haptic feedback on back gestures 
+> Fixed a case where QS UI is bugged
+> Added Quick Unlock 
+> Implemented Aggressive Battery 
+> Added 2 New Lockscreen Clocks 
+> Improved QS header , It's Blur now 
+> Added Reset Battery Stats option 
+> So You Have Two Physical Sims ? Added Data Switch Tile and Physical Sim toogle to enhance experience and ease of use .
+> Added New Q quick Settings tint style
+> Fixed Default Blue Accent with Dark Theme (Thanks to @jhonse02)
+> Bored with current fonts ? Added 4 new Handpicked Font style for u.
+> Added Back Amoled Dark Theme and Other New Primary Overlays
