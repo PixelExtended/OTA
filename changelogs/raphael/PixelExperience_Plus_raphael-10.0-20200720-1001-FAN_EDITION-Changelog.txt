@@ -1,0 +1,413 @@
+=======================
+     2020/07/20
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+2c15a531bb5 Revert "Export all font configs"
+
+
+=======================
+     2020/07/19
+=======================
+
+
+=======================
+     2020/07/18
+=======================
+
+
+=======================
+     2020/07/17
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+fd1515392e0 Export all font configs
+
+
+=======================
+     2020/07/16
+=======================
+
+
+=======================
+     2020/07/15
+=======================
+
+
+=======================
+     2020/07/14
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/device_custom_sepolicy/commits/ten
+
+6a3439d sepolicy: Add selinux policy for pocket bridge
+0e94ef0 sepolicy: Add pocket judge selinux policy
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+67e5e8bdc2b Revert "NetworkTraffic: Ensure icon visibility after overflow occurs"
+0d624dc0f95 Revert "Enable non-market apps install by default, disable verifier"
+46f64475257 Revert "Fix MediaProjection cast crash"
+dbb73c90971 Revert "Add "android.permission.READ_PHONE_STATE" to manifest"
+c01c75df7c9 pocket: Reduce sleep timeout for pocket lock
+52d5b795187 PocketLock: Remove animations
+33563ac4df7 pocket: Use MD2 lock drawable
+f88029c372f StatusBarIconController: Avoid cast exceptions
+62f86949a85 Avoid casting network traffic to StatusBarIconView to prevent crash
+6e10d1e5d0c Pocket lock improvements
+082524f0bcb pocket: Fix pocket lock view for display cutouts
+44bc037e508 pocket: Adjust sleep timeout for pocket lock view to 10 secs
+0a38c2fd907 pocket: introduce pocket bridge
+769a38dbc34 PocketService: Adjust light sensor rate to 400ms
+9700071eb1a pocket: Add hardware acceleration and properly maintain SYSTEM_UI flags
+24b6f8b6e4f policy: introduce pocket lock
+3cf3d3ec7cb pocket: introduce pocket judge
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten-plus
+
+82e678d manifest: Add mediatek sepolicy
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Settings/commits/ten-plus
+
+bdc8c40224 pocket: make judge toggle always available
+cb6b383f26 Settings: Add pocket lock toggle
+190632d4d1 DevelopmentSettings: Always show ClearAdbKeysPreference
+
+* Repository: https://github.com/PixelExperience-FanEdition/vendor_aosp/commits/ten-plus
+
+004c87c8 Add sysfs permissions for pocket bridge
+
+
+=======================
+     2020/07/13
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+7d79b38d9ed Calm down attention service logspam
+ae26be51b26 NetworkTraffic: Ensure icon visibility after overflow occurs
+8935d21d194 Revert "fonts: Make custom fonts look thicker"
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Settings/commits/ten-plus
+
+9bc2a0c8b7 Settings: Use global fonts in styles
+c52f91dee4 Add Switch Style Utils
+381b8eada4 Revert "Revert "Switch styles [2/3]""
+028916e56b Revert "Revert "Settings: Add charging vibration settings""
+cbf2ecf9d6 Settings: Lottie Animations
+
+
+=======================
+     2020/07/12
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+5e27f7c6675 fonts: Make custom fonts look thicker Actually they look so thin
+800ff7adf5c SystemUI: strings: adapt "Alerting notifications" for spanish
+e693f0086b1 import some missing packages
+c6e755f1235 Add 4 More fonts
+881a208a946 base: Add back gesture haptic feedback toggle [1/2]
+df84a4a992b fuck my life !!!
+6503aa686fb Use Bolder font for Traffic
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Settings/commits/ten-plus
+
+8e788dcaba Settings: strings: Adapt "Device Customization" string to spanish
+6f7c54abbb Revert "Settings: Add charging vibration settings"
+318257f7cf Settings: Add back gesture haptic feedback toggle [2/2]
+
+* Repository: https://github.com/PixelExperience-FanEdition/vendor_pixelstyle/commits/ten
+
+c18e882 Build Font Packages
+5759a48 Not all devices have a capable vibrator
+5ce562b Update fonts.mk
+ce4a977 Add 4 moar fonts
+
+
+=======================
+     2020/07/11
+=======================
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth/commits/lineage-17.1
+
+2ca8b3cbd Clean up duplicate uses-permission entries
+
+
+=======================
+     2020/07/10
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+133e3b7 Automatic translation import
+
+* Repository: https://github.com/PixelExperience-FanEdition/base/commits/ten-plus
+
+50edd3e9732 Automatic translation import
+c197f337a06 Automatic translation import
+6ce9032a397 Set Assistant UID of the current user.
+5e40a61c427 fw/b: Add support for per app network isolation
+17c565b8c54 SystemUI: Improve qs detail theming
+be925cbbbed SystemUI: QS Details: Fix layout issues
+a4f69714e3d SystemUI: Fix issue with Bluetooth tile
+0c742a2595e SystemUI: Fix QS Detail Header
+396ac05eb46 Revert qs details commits
+99225fe6ac8 fixup: Add an option to change the device hostname (1/2)
+f60bc5c2a23 LineageHardwareManager: Sync LiveDisplay feature bits with lineage sdk
+1e1758a29de LineageHardwareManager: Sync touch gestures feature bits with lineage sdk
+8f24e883ed3 fixup - Touch: Add keydisabler support
+1b2deb8f4f3 Update Switch Styles
+65e19849271 Traffic indicators: Prevent logspam caused by improperly calling requestLayout()
+a775f8c9178 Traffic indicators: code cleanup and improvements
+0ce31e36178 BLE: Fix NPE during start advertising
+7fc71e2666e Fix build errors
+b95c3809157 Fix BLE transport discovery scan filter
+e9b4ec0a60f BT: Relocate A2DP codec strings for translation
+af050db3240 Enable codec change request when mode changes in aptX-adaptive
+51921ef689d Keep a null check before accessing the BluetoothA2dpWrapper APIs.
+77439e01c4f Bluetooth: Fix for out of bound exception
+57029a79d0f BT Dev: Increase array size for codec selection in Dev Op
+38108b29151 Keep the BluetoothHeadset finalize() method protected
+d2209a45b2c Bluetooth: Fix for Global reference table overflow issue[1/2]
+372df4eb417 BT: Add new intent to broadcast IOT device details
+92890bc7780 BT_Audio: Updated Check for TWS+ switch
+13d344728cb TWS_A2DP: Handle active device change between TWS+ earbuds
+e5e4437bb57 audio: Add support for APTX TWSP audio codec
+b8abd6faec8 audio: Add support for audio extended codecs
+8565ade689a Use BluetoothUtils instead of Utils
+d6b423caa48 GAP: Handle the race condition cases in auto connect logic
+a3e07b176e7 Obex: Squashed commit of the following
+106239a210a Add scan filter for Transport Discovery data
+c148d570c6f Support CALLBACK_TYPE_SENSOR_ROUTING
+a25439f6217 Add support for Transport discovery AD type (1/2)
+54f8f2ca65b Bluetooth: TWSP: Support Battery Status information display
+f56e43ac2e8 BT: Send info if call is CS type from telecomm service to BT apps.
+5d706b077bb GAP: Reset bondingInitiatedLocally flag(1/3)
+c1ceedc8023 Bluetooth-TWS: Disable outgoing connection to 2nd earbud
+5ac7e38a0ae Bluetooth-TWS: Disable outgoing connection for 2nd earbud.
+e82c0a200c8 Bluetooth: Rename bluetooth property to support new P Treble rules
+6a62ad51cb2 Bluetooth: Unpair both earbuds on unpair.
+e56a7f19085 Bluetooth: Add SDK API support for TWS feature (2)
+e4621d54202 Revert the change: AudioService: remove dead BT code.
+93cf997b5da TWS-A2DP: Add TWS+ codec to DevUI support
+eb567b17fbb BT: Adding aptX-Adaptive codec entry to Framework
+84b0f2addd2 Add BluetoothQualityReport class(1/2)
+246069943d4 Fix typos related to sortSelectionIndices
+2eab713cae3 Fix app crash if the selection is from reverse direction.
+c74df2aeda8 SystemUI: Call setOnlyAlertOnce(true) for PowerShare notification
+ef0b62ec11a derp
+09a745ee2b3 Revert "Purge unused native memory before Zygote fork events"
+eac616e4403 nuke placebo patches
+77224aa26e0 Kang moar switch styles
+691c133260e base: Switch styles [1/3]
+2f5635f4a5a Keyguard: Forward port lockscreen quick unlock (1/2)
+26c2362b2cf services: Use real values for aggressive idle
+c4d17216ddc Aggressive Battery: fix auto enable on battery saver
+552017f8da9 services: Increase aggressive standby wheight to 5
+b155468fada base: Implement Aggressive Battery [1/2]
+cad91643ab7 Explicitly grant START_ACTIVITIES_FROM_BACKGROUND to com.android.phone.
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Recorder/commits/ten
+
+255cefd Merge pull request #2 from PixelExperience/ten
+435a95c Automatic translation import
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Settings/commits/ten-plus
+
+18f341b75a Revert "Switch styles [2/3]"
+b84fb43403 Automatic translation import
+adda67da9b Improve summary of per app network isolation
+cd84689844 Automatic translation import
+9b55459053 Settings: Add support for per app network isolation
+12cd4e4746 Switch styles [2/3]
+2ed934fed6 BT: Use translated a2dp codec strings
+2555b69f39 codec support for DevUI am: f915bd9438
+a29bc11eba BT Settings: Adding aptX Adaptive codec entry in Settings
+92a91f5a33 Bluetooth-TWS: UI updates based on Filter matched
+249eda724c Bluetooth-TWS: UI updates based on profile connection.
+c08633d2b7 Fix build error
+cacd270f19 Bluetooth-TWS: Filter TWS devices
+676a4f0e45 Bluetooth: Create new catogory for earbuds
+30b29d4692 Settings: Fix fallback summary for power_button_instantly_locks preference
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+fd54269 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+5ac7363 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+5de92bd Automatic translation import
+
+* Repository: https://github.com/PixelExperience/system_netd/commits/ten-plus
+
+23b2f13e system/netd: Add support for per app network isolation
+
+* Repository: https://github.com/PixelExperience-FanEdition/vendor_aosp/commits/ten-plus
+
+4f338ccc Switch Styles : telegram style [3/3]
+6e712972 Add MD2 Switch
+8738085a Add Switch Styles [3/3]
+57682da4 vendor: Update and fix apns-conf for better IMS support
+c1649fab Drop backuptool
+9a33b31e repopick: Fallback to name when project path is empty
+a9b064b1 Export CAF msm-4.14 audio headers
+d7190c5a qcom: Add UM 4.19 platforms
+b032df3d qcom: Add atoll platform
+037ae896 kernel: Replace KERNEL_LD with KERNEL_SUPPORTS_LLD
+6ac1152d kernel: Add KERNEL_SUPPORTS_LLVM_TOOLS to permit building with LLVM Build Tools
+da169856 enable always debugging and enforce priv app permission
+49f2387a disable priv-app permission and enable debugging
+a4d2a2b7 derp
+ca0b207b Build TouchGestures
+1cbcecdd vendor: Add permissions for lineagehw
+635e90f0 vendor: Split lineagehw permissions
+c82a97f2 Add Gallery
+d6837e85 Revert "vendor: soong: add target_needs_client_info"
+fd9b98cd Revert "vendor: Allow providing camera server and service"
+979f55e3 qcom: Permit overriding TRINKET, STEPPE, NILE from board trees
+c332a25c BoardConfigKernel: Opt-in for bison and flex
+1530dfd9 soong: Add flag for fod extension
+2b177585 kernel: Add bison and flex to build environment
+16231194 extract-utils: Fix usage for ETC files which need sub_dir
+a4290ebb Export qcom UM hal root to soong
+b2357955 Sort soong variables alphabetically
+66219842 extract_utils: Fix vendor Android.bp creation with subdirectory
+63d2f02b Revert "Revert "vendor: Revert caf sf commits""
+
+* Repository: https://github.com/PixelExperience-FanEdition/vendor_pixelstyle/commits/ten
+
+39ab1dc Merge pull request #3 from PixelExperience/ten
+
+
+=======================
+     2020/07/09
+=======================
+
+* Repository: https://github.com/PixelExperience-FanEdition/build/commits/ten-plus
+
+8f1ba93ce Fan edition branding
+d5e01c735 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/build into ten-plus
+8749e1841 releasetools: support dynamic partitions for backuptool
+a2c5ffafa releasetools: Move system mount handling to backuptool
+51887654a releasetools: squash backuptool support
+08cdfbcae build: Revert backup tool commits
+39a7d63c4 Generate block based OTA for product partitions
+1f69ce1b8 Refactor how MODULES-IN-* is defined
+bd72f3988 base_rules.mk optimizations
+47d3366e1 Fix test suite data files issue.
+227901b8e Export list of "installable" files to soong_ui
+95acf0004 Avoid adding VINTF manifest fragment more than once.
+
+* Repository: https://github.com/PixelExperience/frameworks_native/commits/ten-plus
+
+ddf1dde60 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/frameworks/native into HEAD
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
+
+729408e83 wifi: Add StaState API
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_msm8998_audio/commits/ten
+
+3b99c72c hal: msm8974: Use stereo recording depending on camera orientation
+e4e28661 hal: msm8974: Fix the wrong device for AUDIO_SOURCE_CAMCORDER
+
+* Repository: https://github.com/PixelExperience/hardware_qcom-caf_sdm845_display/commits/ten
+
+92531aed gralloc: Add option for unaligned YCrCb pixel format
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten-plus
+
+21cf005 Track Email packages
+2048408 Revert "Add back Email/UnifiedEmail apps"
+ab2b071 Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/manifest into ten-plus
+fdd742f Add back Email/UnifiedEmail apps
+47bcfb0 manifest: Track qti bt repos from lineage
+abc1858 Track sm8250 hals from Lineage
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+6d10226c Stub TWS related APIs
+6ce3654f GAP: Reset bondingInitiatedLocally flag(2/3)
+5a48a60b BT: API to update quiet mode status in Adapter service [1/3]
+d022613d Bluetooth: Enable Hybrid Audio from App
+799fef7a Add BLE Scan Phy parameter to scan API
+
+* Repository: https://github.com/PixelExperience/packages_apps_FMRadio/commits/ten
+
+3365d0f Automatic translation import
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Recorder/commits/ten
+
+6bc03ca Merge pull request #1 from PixelExperience/ten
+
+* Repository: https://github.com/PixelExperience-FanEdition/packages_apps_Settings/commits/ten-plus
+
+874902564f Keyguard: Forward port lockscreen quick unlock (2/2)
+5e5c373b35 Implement Aggressive Battery [2/2]
+
+* Repository: https://github.com/PixelExperience/packages_apps_Snap/commits/ten
+
+38dd7fc59 Snap: Report device orientation to Audio HAL
+c6b14e3ef Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+2bfa4a5 Mark dc dimming title as non-translatable
+669cf6c devicesettings-custom: Anti-Flicker Mode -> DC Dimming
+
+* Repository: https://github.com/PixelExperience/packages_services_Telecomm/commits/ten-plus
+
+558ca59e Bluetooth: Support to know if there is High Def call
+
+* Repository: https://github.com/PixelExperience/packages_services_Telephony/commits/ten
+
+5698ca27a Merge tag 'android-10.0.0_r40' of https://android.googlesource.com/platform/packages/services/Telephony into ten
+682afe242 Explicitly grant START_ACTIVITIES_FROM_BACKGROUND to com.android.phone.
+7d45a49d2 Revert "Grant START_ACTIVITIES_FROM_BACKGROUND"
+
+* Repository: https://github.com/PixelExperience-FanEdition/platform_prebuilts_clang_host_linux-x86/commits/ten
+
+95770bb Merge pull request #4 from AOSiP/ten
+
+* Repository: https://github.com/PixelExperience/system_bt/commits/ten
+
+f8919524f GAP: Reset bondingInitiatedLocally flag(3/3)
+67d7cfdc0 Bluetooth: Enable Hybrid Audio from stack
+7aa7a29b7 Add scan filter for Transport Discovery data
+54389bef4 TWS-A2DP: Add TWS+ codec index
+abf95326a Bluetooth: Support to know if there is High Def call
+fdfc0248c BT: API to update quiet mode status in Adapter service [3/3]
+de45ba50f BT: Adding APTX-Adaptive codec to BT HAL
+a45a01373 Add BLE Scan Phy parameter to scan API
+bc329c673 Bluetooth: Add SDK API support for TWS feature (1)
+
+* Repository: https://github.com/PixelExperience-FanEdition/vendor_pixelstyle/commits/ten
+
+3527bc2 Move audio props to product partition
+
+* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_fm-commonsys/commits/ten
+
+a8ba5e8 Automatic translation import
+
+
+=======================
+     2020/07/08
+=======================
+
+
+=======================
+     2020/07/07
+=======================
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten-plus
+
+5383244 Manifest for Android 10.0.0 Release 40
+
+
