@@ -1,0 +1,15 @@
+Source Changelog :-
+
+Network Traffic Improvments (works flawlessly now)
+
+Added Pocket Lock (Supported devices only however it's enabled on jasmine)
+
+Nuked Some Placebo Patches from FWB and Code Cleanup
+
+Switch Styles Support
+
+Notification Counters (Enabled By Default)
+
+Volume Panel 1.1 (Animation Refactoring and some fixes)
+
+USAP Support (Should Imporve Performance by a margin)
