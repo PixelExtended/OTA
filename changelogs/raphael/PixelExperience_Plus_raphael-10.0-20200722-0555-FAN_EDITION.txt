@@ -1,0 +1,17 @@
+Changelogs for 2020-07-22 build:
+
+Source :-
+   • Added Pocket Lock
+   • Nuked Some Placebo Patches from FWB and Code Cleanup
+   • Switch Styles Support (custom toggles)
+   • Notification Counters (Enabled By Default)
+   • New Setting Animation Like Bliss
+   • New Volte Icon
+   • Volume Panel 1.1 (animation refactoring and some fixes)
+   • USAP Support (should imporve performance a bit)
+
+Device :-
+   • Fixed Smart Charging
+   • FOD improvement
+   • OTA Support Added
+   • Other small changes
