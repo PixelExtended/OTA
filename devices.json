@@ -80,6 +80,25 @@
             "maintainer_url": "https://github.com/Jhonse02",
          }
       ]
+   },
+   {
+      "name": "Redmi Note 8",
+      "brand": "Xiaomi",
+      "codename": "ginkgo",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "KhuongHung",
+            "maintainer_url": "https://github.com/khuonghung1423",
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "KhuongHung",
+            "maintainer_url": "https://github.com/khuonghung1423",
+         }
+      ]
    }
 ]
 
