@@ -1,0 +1,11 @@
+Changelogs for 2020-08-12 build:
+
+Raphael :-
+   • Fixed Ambient Display afther reboot
+   • Fixed loockscreen flikering
+   • Add Screen OFF FOD
+   • Add Google Recorder
+   • import vendor overlay
+   • enable iwlan assisted
+   • update props from latest miui
+   • Set dynamic thermal interval to 5 sec
