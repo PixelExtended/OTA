@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExperience_Plus_whyred-10.0-20200721-2140-FAN_EDITION.zip,
-"datetime": 1595367600,
-"size":1308643392, 
-"url":"https://sourceforge.net/projects/whymeme-roms/files/PE-FE/PixelExperience_Plus_whyred-10.0-20200721-2140-FAN_EDITION.zip/download", 
-"filehash":"03658c88462b05ccb32b945e66ecf085", 
+"filename": PixelExperience_Plus_whyred-10.0-20200815-0250-FAN_EDITION.zip,
+"datetime": 1597459800,
+"size":1203606600, 
+"url":"https://sourceforge.net/projects/whymeme-roms/files/PE-FE/PixelExperience_Plus_whyred-10.0-20200815-0250-FAN_EDITION.zip/download", 
+"filehash":"f27efde26fdc96603abfc178016077ed", 
 "version": "10", 
-"id": "03658c88462b05ccb32b945e66ecf085",
+"id": "f27efde26fdc96603abfc178016077ed",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://sourceforge.net/projects/whymeme-roms/files/PE-FE/",
 "news_url":"https:\/\/t.me\/whymemeReleases",
-"maintainer":"Sebastián López",
+"maintainer":"Sebastián López (Jhonse02)",
 "maintainer_url":"https:\/\/t.me/Jhonse02",
 "forum_url":"#"
 }
