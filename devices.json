@@ -118,6 +118,25 @@
             "maintainer_url": "https://github.com/amith07",
          }
       ]
-    }  
+    },
+    {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Aditya Ramakrishnan",
+            "maintainer_url": "https://github.com/adiatul16/",
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Aditya Ramakrishnan",
+            "maintainer_url": "https://github.com/adiatul16/",
+         }
+      ]
+    }
 ]
 
