@@ -99,6 +99,25 @@
             "maintainer_url": "https://github.com/khuonghung1423",
          }
       ]
-   }
+    },
+    {
+      "name": "Redmi S2",
+      "brand": "Xiaomi",
+      "codename": "ysl",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Amith Acharya",
+            "maintainer_url": "https://github.com/amith07",
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Amith Acharya",
+            "maintainer_url": "https://github.com/amith07",
+         }
+      ]
+    }  
 ]
 
