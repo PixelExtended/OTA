@@ -1,0 +1,16 @@
+Changelogs for 2020-08-18 build:
+
+Source :-
+* August SP is finally here 
+* Added 5 new animated lockscreen clocks 
+* Touch response animation (fwb)
+* Added 2 new Primary Colors
+* Added battery temparature in battery page 
+* Network Traffic Improvemnts 
+
+Device :-
+* Add add FOD Animation picker
+* Update Fingerprint To Coral August Security Patch
+* Decrease light sensor warmup time
+* bump minimum vendor variant for IN (12.0.2.0)
+* Enable fluence voice recording (fix google recorder)
