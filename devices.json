@@ -137,6 +137,24 @@
             "maintainer_url": "https://github.com/adiatul16/",
          }
       ]
-    }
+    },
+    {
+      "name": "Redmi K20/Mi 9T",
+      "brand": "Xiaomi",
+      "codename": "davinci",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "Patryk "ArixElo" Zimnicki",
+            "maintainer_url": "https://github.com/ArixElo/",
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "Patryk "ArixElo" Zimnicki",
+            "maintainer_url": "https://github.com/ArixElo/",
+         }
+      ]
+   }
 ]
-
