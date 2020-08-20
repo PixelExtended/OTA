@@ -1,0 +1,9 @@
+Changelogs for 2020-08-20 build:
+
+ Device changes:
+* Switch to Pixel Extended OFFICIAL
+* Fixed Screenoff FOD
+* Restored AOSPA volume panel (to follow changes from ROM)
+
+ROM changes:
+* None
