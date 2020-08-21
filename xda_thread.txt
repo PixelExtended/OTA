@@ -1,9 +1,9 @@
 [CENTER]
-[img]https://imgur.com/sE9wjFa.png[/img]
+[img]https://imgur.com/likQDEZ.png[/img]
 [SIZE="5"][b][color=#1a73e8]PixelExperience Fan-Edition for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
-[SIZE="3"]Pixel Experience Fan-Edition is an AOSP based ROM modified orginally from Pixel Experience , with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, bootanimation) and added some Extra Basic Fetures you will be needing in a Custom ROM with stability Of Pixel Experience.
+[SIZE="3"]PixelExtended ROM (or PEX for short) is is a fork of Pixel Experience , Combining Pixel Goodies with some essential features you were missing in Pixel Experience, delivers a ROM that promise you stabilty and being feature-rich at the same time . TBH this ROM will keep it's Pixel' idea intact and won't be bloat with unwanted features .
 
 Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
 
