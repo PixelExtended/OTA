@@ -1,0 +1,8 @@
+PixelExtended Redmi K20/Mi 9T (davinci) Changelog for 2020-08-24:
+Device stuff:
+-> Changed build tag to release-keys and build type to user,
+-> Better implementation of Pixel's libperfmgr power HAL with some fixes for us,
+-> Fixed OTA Updates (finally xD).
+Source stuff (yes, i can tell now what's inside):
+-> FOD Animations (yay, finally!),
+-> Changed bunny logo in about device to own one.
