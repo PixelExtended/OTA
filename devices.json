@@ -175,5 +175,26 @@
             "maintainer_url": "https://github.com/chdelacr/",
          }
       ]
+   },
+   {
+      "name": "Redmi Note 7 Pro",
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "version_name": "10",
+            "maintainer_name": "SammyShaurya",
+            "maintainer_url": "https://github.com/sammyshaurya/",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-plus-fan-edition-t4142809/"
+         },
+         {
+            "version_code": "ten_plus",
+            "version_name": "10 (Plus edition)",
+            "maintainer_name": "SammyShaurya",
+            "maintainer_url": "https://github.com/sammyshaurya/",
+            "xda_thread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-plus-fan-edition-t4142809/"
+         }
+      ]
    }
 ]
