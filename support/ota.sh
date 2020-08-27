@@ -1,6 +1,6 @@
+DEVICE=$1
 ROMDIR=~/pex
 cd $ROMDIR
-DEVICE=DEVICE_NAME
 DATETIME=$(grep "org.pixelexperience.build_date_utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 FILENAME=$(find out/target/product/$DEVICE/PixelExperience*.zip | cut -d "/" -f 5)
 ID=$(md5sum out/target/product/$DEVICE/PixelExperience*.zip | cut -d " " -f 1)
