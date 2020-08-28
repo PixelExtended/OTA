@@ -22,7 +22,7 @@ Xiaomi Redmi Y2/S2 - Amith Acharya
 
 Redmi Note 4/4X (mido) - Aryan Kedare
 
-Redmi Note 7 Pro (violet) - Sammy Shauria
+Redmi Note 7 Pro (violet) - SammyShaurya
 
 Mi 6X (wayne) - Christian de la Cruz
 
