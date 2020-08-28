@@ -20,6 +20,8 @@ Xiaomi Redmi Note 9/S/Pro/Pro Max (curtana & joyeuse) - Ahmed Tohamy (Agmad)
 
 Xiaomi Redmi Y2/S2 - Amith Acharya
 
+Xiaomi Redmi 4 (Santoni) - Amith Acharya
+
 Redmi Note 4/4X (mido) - Aryan Kedare
 
 Redmi Note 7 Pro (violet) - SammyShaurya
@@ -32,3 +34,12 @@ Mi 8 (Dipper) - Jullian14
 Asus devices
 ------------------------------------------
 Zenfone Max Pro M1 (X00TD) - Aditya
+
+Realme devices
+------------------------------------------
+Reaalme 5 Pro (RMX1971) - TestoBuzz
+
+
+YU devices
+------------------------------------------
+YU YU Yureka black (garlic) - Shirohige
