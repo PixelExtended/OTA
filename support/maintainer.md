@@ -4,9 +4,9 @@ Xiaomi/Redmi devices
 ------------------------------------------
 Xiaomi Mi A2 (jasmine) - Aryan Gupta
 
-Xiaomi Redmi Note 6 Pro - Nitesh Kumar
+Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
 
-Xiaomi Redmi Note 5 AI/Pro - Sebastián López (Jhonse)
+Xiaomi Redmi Note 5 AI/Pro (whyred) - Sebastián López (Jhonse)
 
 Xiaomi Redmi Note 7 (lavender) - Aditya
 
@@ -18,9 +18,9 @@ Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
 
 Xiaomi Redmi Note 9/S/Pro/Pro Max (curtana & joyeuse) - Ahmed Tohamy (Agmad)
 
-Xiaomi Redmi Y2/S2 - Amith Acharya
+Xiaomi Redmi Y2/S2 (ysl) - Amith Acharya
 
-Xiaomi Redmi 4 (Santoni) - Amith Acharya
+Xiaomi Redmi 4 (santoni) - Amith Acharya
 
 Redmi Note 4/4X (mido) - Aryan Kedare
 
@@ -37,7 +37,7 @@ Zenfone Max Pro M1 (X00TD) - Aditya
 
 Realme devices
 ------------------------------------------
-Reaalme 5 Pro (RMX1971) - TestoBuzz
+Realme 5 Pro (RMX1971) - TestoBuzz
 
 
 YU devices
