@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_violet-10.0-20200824-0744-OFFICIAL.zip,
-"datetime": 1598255040,
-"size":1441901634,
-"url":"https://sourceforge.net/projects/pixelextended-violet/files/Releases/PixelExtended_violet-10.0-20200824-0744-OFFICIAL.zip/download", 
-"filehash":"44cd9c87e2b37305ce4f20652f174bd7",
+"filename": PixelExtended_violet-10.0-20200829-1416-OFFICIAL.zip,
+"datetime": 1598710560,
+"size":1494897084,
+"url":"https://sourceforge.net/projects/pixelextended-violet/files/Releases/PixelExtended_violet-10.0-20200829-1416-OFFICIAL.zip/download",
+"filehash":"55203c0a5fc36d6d208c504b09e4b024",
 "version": "10",
-"id": "44cd9c87e2b37305ce4f20652f174bd7",
-"donate_url": "upi:   shammy.shaury@okaxis",
-"website_url":"https://github.com/PixelExtended",
-"news_url":"https:\/\/t.me\/pixelExtendedFor_violet",
-"maintainer":"Sammy Shaurya",
+"id": "55203c0a5fc36d6d208c504b09e4b024",
+"donate_url": "https://www.paypal.me/sammyshaurya",
+"website_url":"https://pixelex.ml/",
+"news_url":"https:\/\/t.me\/pixelextended",
+"maintainer":"SammyShaurya",
 "maintainer_url":"https:\/\/t.me/sammyshaurya",
-"forum_url":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixel-experience-plus-fan-edition-t4142809"
+"forum_url":"XDA_THREAD"
 }
