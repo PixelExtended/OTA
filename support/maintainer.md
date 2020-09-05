@@ -22,6 +22,8 @@ Xiaomi Redmi Y2/S2 (ysl) - Amith Acharya
 
 Xiaomi Redmi 4 (santoni) - Amith Acharya
 
+Xiaomi Redmi 4a (rolex) - Zubair Khan
+
 Redmi Note 4/4X (mido) - Aryan Kedare
 
 Redmi Note 7 Pro (violet) - SammyShaurya
