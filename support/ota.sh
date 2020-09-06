@@ -9,12 +9,12 @@ if [ $# -lt 3 ]; then
 fi
 
 # Ensures that optional parameters are entered
-if [-z "$4"]; then
+if [ -z "$4" ]; then
     MAINTAINER_URL=""
 else
     MAINTAINER_URL="$4"
 fi
-if [-z "$5"]; then
+if [ -z "$5" ]; then
     FORUM_URL=""
 else
     FORUM_URL="$5"
