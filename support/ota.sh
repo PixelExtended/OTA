@@ -1,23 +1,19 @@
 DEVICE=$1
-ROMDIR=$2
-MAINTAINER="$3"
+ROMDIR=~/$2
+MAINTAINER=$3
+MAINTAINER_URL=$4
 
 # Ensures that mandatory parameters are entered
-if [ $# -lt 3 ]; then
+if [ $# -lt 4 ]; then
     echo "Missing mandatory parameters"
     exit 1
 fi
 
 # Ensures that optional parameters are entered
-if [ -z "$4" ]; then
-    MAINTAINER_URL=""
-else
-    MAINTAINER_URL="$4"
-fi
 if [ -z "$5" ]; then
     FORUM_URL=""
 else
-    FORUM_URL="$5"
+    FORUM_URL=$5
 fi
 
 cd $ROMDIR
