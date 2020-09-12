@@ -1,0 +1,214 @@
+=======================
+     2020/09/12
+=======================
+
+* Repository: https://github.com/PixelExtended/build/commits/ten-plus
+
+b4ee4ef Merge pull request #2 from PixelExperience/ten-plus
+
+* Repository: https://github.com/PixelExtended/base/commits/ten-plus
+
+db1c874 Automatic translation import
+
+* Repository: https://github.com/PixelExtended/frameworks_native/commits/ten-plus
+
+3ef9610 Merge pull request #1 from PixelExperience/ten-plus
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_telephony/commits/ten
+
+f2924f1 Use FLAG_IMMUTABLE for MultiSimSettingController
+
+* Repository: https://github.com/PixelExtended/manifest/commits/ten-plus
+
+6cbf7d7 manifest: Track PackageInstaller
+
+* Repository: https://github.com/PixelExtended/packages_apps_Settings/commits/ten-plus
+
+58ab128 Automatic translation import
+
+* Repository: https://github.com/PixelExtended/vendor_aosp/commits/ten-plus
+
+bcd8ba2 extract_utils: Add support for system_ext
+
+
+=======================
+     2020/09/11
+=======================
+
+* Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
+
+c30549a Automatic translation import
+
+* Repository: https://gitlab.pixelexperience.org/android/external_motorola_faceunlock/commits/ten
+
+c53f4c2 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/external_sonivox/commits/ten
+
+b3c2452 Check data consistency in mdls parsing
+
+* Repository: https://github.com/PixelExperience/frameworks_av/commits/ten
+
+88e67eb AudioFlinger: fix fast capture silence
+
+* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
+
+404c346 [Passpoint] Remove R2 broadcasts
+
+* Repository: https://github.com/PixelExperience/packages_apps_Bluetooth/commits/ten
+
+b9c0417 SAP: Ensure pending intent is immutable
+
+* Repository: https://github.com/PixelExperience/packages_apps_PackageInstaller/commits/ten
+
+fe806f5 DO NOT MERGE Use permission group definintion if defined in PermissionController
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+cb7f9ea Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_Telephony/commits/ten
+
+4802f00 Use PendingIntent.FLAG_IMMUTABLE in PendingIntent in NotificationMgr
+
+* Repository: https://github.com/PixelExperience/system_bt/commits/ten
+
+0a1e6d1 Fix possible OOB when receive gatt read type response data
+
+* Repository: https://github.com/PixelExperience/system_core/commits/ten
+
+daf242b libutils: check vsnprintf error
+
+* Repository: https://github.com/PixelExperience/system_sepolicy/commits/ten
+
+e208123 Don't give uid-based categories to app_zygote and isolated processes.
+
+* Repository: https://github.com/PixelExperience/vendor_qcom_opensource_commonsys_packages_apps_Bluetooth/commits/ten
+
+606b96a SAP: Ensure pending intent is immutable
+
+
+=======================
+     2020/09/10
+=======================
+
+* Repository: https://github.com/PixelExtended/vendor_pixelstyle/commits/ten
+
+d91ca7f Merge pull request #4 from PixelExperience/ten
+
+
+=======================
+     2020/09/09
+=======================
+
+* Repository: https://github.com/PixelExperience/packages_apps_EmergencyInfo/commits/ten
+
+6f4c0f8 More theming improvement
+
+* Repository: https://github.com/PixelExperience/packages_apps_SettingsIntelligence/commits/ten
+
+dc8f9fc fixup - InstalledAppResultTask: Remove overlays from search results
+
+* Repository: https://github.com/PixelExperience/packages_apps_TouchGestures/commits/ten
+
+719936f Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+7ab5e01 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+c0dd239 Automatic translation import
+
+* Repository: https://github.com/LineageOS/android_vendor_qcom_opensource_system_bt/commits/lineage-17.1
+
+614a3e2 Changed HID_DEV_MTU_SIZE from 64 to 512
+
+
+=======================
+     2020/09/08
+=======================
+
+* Repository: https://github.com/PixelExperience/device_mediatek_sepolicy/commits/ten
+
+4185aa0 device: mtk: sepolicy: Address Blobs Related Denials
+
+
+=======================
+     2020/09/07
+=======================
+
+* Repository: https://github.com/PixelExperience/system_netd/commits/ten-plus
+
+d9a4a9b netd: Support wildcards in cached hosts file
+
+
+=======================
+     2020/09/06
+=======================
+
+
+=======================
+     2020/09/05
+=======================
+
+* Repository: https://github.com/PixelExperience/build_soong/commits/ten
+
+21e7687 Add support for macOS 11 SDK
+
+* Repository: https://github.com/PixelExperience/external_toybox/commits/ten
+
+13596d5 Fix cp -r dir/. symlink child.
+
+* Repository: https://github.com/PixelExperience/hardware_custom_interfaces/commits/ten
+
+73bf5a7 gnss-legacy: Bring back Beidou
+
+* Repository: https://github.com/PixelExperience/packages_apps_Nfc/commits/ten
+
+e17e403 Avoid NFC continuous crash
+
+* Repository: https://github.com/PixelExperience/system_libufdt/commits/ten
+
+249e851 mkdtboimg: Sanitize dt filename
+
+
+=======================
+     2020/09/04
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+8f97c4e updater: Ignore ENOENT in some functions
+
+
+=======================
+     2020/09/03
+=======================
+
+
+=======================
+     2020/09/02
+=======================
+
+* Repository: https://github.com/LineageOS/android_prebuilts_tools-lineage/commits/lineage-17.1
+
+b0e4e6a tools-lineage: Add prebuilt DTC
+
+
+=======================
+     2020/09/01
+=======================
+
+
+=======================
+     2020/08/31
+=======================
+
+
+=======================
+     2020/08/30
+=======================
+
+
