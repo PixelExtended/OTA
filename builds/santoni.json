@@ -1,16 +1,17 @@
 {
 "error":false,
-"filename": PixelExtended_santoni-10.0-20200913-0309-OFFICIAL.zip,
-"datetime": 1599966540,
-"size":1043004437, 
-"url":"https://sourceforge.net/projects/pixelextendedrom/files/santoni/PixelExtended_santoni-10.0-20200913-0309-OFFICIAL.zip/download", 
-"filehash":"44a8de82019c35590222d9a4eba2e0e3", 
+"filename": PixelExtended_santoni-10.0-20200913-1114-OFFICIAL.zip,
+"datetime": 1599995640,
+"size":1041321034, 
+"url":"https://sourceforge.net/projects/pixelextendedrom/files/santoni/PixelExtended_santoni-10.0-20200913-1114-OFFICIAL.zip/download", 
+"filehash":"87ee94d3b7058b9826612fe619f0961c", 
 "version": "10", 
-"id": "44a8de82019c35590222d9a4eba2e0e3",
+"id": "87ee94d3b7058b9826612fe619f0961c",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
-"news_url":"https://t.me/pexupdates",
+"news_url":"https:\/\/t.me\/pexupdates",
 "maintainer":"Amith Acharya",
 "maintainer_url":"https://t.me/amith_acharya",
 "forum_url":"https://forum.xda-developers.com/member.php?u=10601659"
 }
+
