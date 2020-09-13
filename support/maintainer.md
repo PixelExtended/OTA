@@ -16,7 +16,7 @@ Xiaomi Mi 9T/K20 (davinci) - Patryk "ArixElo" Zimnicki
 
 Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
 
-Xiaomi Redmi Note 9/S/Pro/Pro Max (curtana & joyeuse) - Ahmed Tohamy (Agmad)
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
 Xiaomi Redmi Y2/S2 (ysl) - Amith Acharya
 
