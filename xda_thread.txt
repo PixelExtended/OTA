@@ -1,6 +1,6 @@
 [CENTER]
 [img]https://imgur.com/likQDEZ.png[/img]
-[SIZE="5"][b][color=#1a73e8]PixelExtended ROM (Fan-Edition) for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
+[SIZE="5"][b][color=#1a73e8]PixelExtended ROM (Fan-Edition) for YOUR_DEVICE_NAME [DEVICE_CODE_NAME][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
 [SIZE="3"]PixelExtended ROM (or PEX for short) is a fork of Pixel Experience , Combining Pixel Goodies with some essential features you were missing in Pixel Experience, delivers a ROM that promise you stabilty and being feature-rich at the same time . TBH this ROM will keep it's Pixel' idea intact and won't be bloat with unwanted features .
@@ -52,10 +52,10 @@ As only Essesntial Features will be added so this list will updated whenever the
 [SIZE="3"]NOTE :- All possible features are toggleable so you always can choose to be stockish.[/SIZE]
 
 [SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE="6"][url="https://sourceforge.net/projects/pixelextendedrom/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][url="https://sourceforge.net/projects/pixelextended/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
-[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked this work? Give lead dev a beer[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
 [SIZE="3"][url="https://t.me/pixeljasmine"][b][color=#1a73e8][u]Device Support Group[/u][/color][/b][/url][/SIZE]
@@ -66,6 +66,7 @@ As only Essesntial Features will be added so this list will updated whenever the
 [*][b]Security patch level:[/b] September 2020
 [*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
 [*][b]Source code:[/b] [url=https://github.com/PixelExperience]https://github.com/PixelExtended[/url]
+[*][b]KernelSource:[/b] https://github.com/yourname/kernel/source
 [*][b]PixelExtended Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
 [*][b]Specail Thanks to:[/b] [url=https://forum.xda-developers.com/member.php?u=6519039]jhenrique09[/url]
 [/list][/SIZE][/LEFT]
