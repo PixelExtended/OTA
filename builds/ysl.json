@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_ysl-10.0-20200817-2224-OFFICIAL.zip,
-"datetime": 1597703040,
-"size":1021096439, 
-"url":"https://sourceforge.net/projects/aareleases/files/PEX-ysl/PixelExtended_ysl-10.0-20200817-2224-OFFICIAL.zip/download", 
-"filehash":"485881759b9eeb326e13fddfe192cb56", 
+"filename": PixelExtended_ysl-10.0-20200917-0534-OFFICIAL.zip,
+"datetime": 1600320840,
+"size":1146212483, 
+"url":"https://sourceforge.net/projects/pixelextended/files/ysl/PixelExtended_ysl-10.0-20200917-0534-OFFICIAL.zip/download", 
+"filehash":"fc03d09e8fba70d918335926d2c368b9", 
 "version": "10", 
-"id": "485881759b9eeb326e13fddfe192cb56",
-"donate_url": "https://paypal.me/amith07",
-"website_url":"https://t.me/pixelextended",
-"news_url":"Amith Acharya",
-"maintainer":"https://t.me/amith_acharya",
-"maintainer_url":"https://t.me/amith_acharya"",
-"forum_url":"https://forum.xda-developers.com/member.php?u=10601659"
+"id": "fc03d09e8fba70d918335926d2c368b9",
+"donate_url": "https://www.paypal.me/aryan65",
+"website_url":"https://pixelextended.me/",
+"news_url":"https:\/\/t.me\/pexupdates",
+"maintainer":"Amith Acharya",
+"maintainer_url":"https://amith.tech",
+"forum_url":"https://forum.xda-developers.com/redmi-s2/development/rom-pixel-extended-xiaomi-redmi-s2-y2-t4155589"
 }
