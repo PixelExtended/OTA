@@ -1,4 +1,19 @@
 =======================
+     2020/09/20
+=======================
+
+
+=======================
+     2020/09/19
+=======================
+
+
+=======================
+     2020/09/18
+=======================
+
+
+=======================
      2020/09/17
 =======================
 
@@ -254,6 +269,10 @@ d91ca7f Merge pull request #4 from PixelExperience/ten
      2020/09/09
 =======================
 
+* Repository: https://github.com/PixelExperience/device_mediatek_sepolicy/commits/ten
+
+4185aa0 device: mtk: sepolicy: Address Blobs Related Denials
+
 * Repository: https://github.com/PixelExperience/external_asus_stitchimage/commits/ten-plus
 
 825e1a2 Automatic translation import
@@ -327,10 +346,6 @@ eb974a1 Revert "Import and build SafetyHub and SettingsIntelligenceGooglePrebuil
 
 6afbad75b build_image: Allow disabling custom inode count calculation
 
-* Repository: https://github.com/PixelExperience/device_mediatek_sepolicy/commits/ten
-
-4185aa0 device: mtk: sepolicy: Address Blobs Related Denials
-
 * Repository: https://gitlab.pixelexperience.org/android/external_motorola_faceunlock/commits/ten
 
 64ce698 Update prebuilt apk
@@ -343,74 +358,5 @@ eb974a1 Revert "Import and build SafetyHub and SettingsIntelligenceGooglePrebuil
 * Repository: https://github.com/PixelExperience/system_netd/commits/ten-plus
 
 d9a4a9b7 netd: Support wildcards in cached hosts file
-
-
-=======================
-     2020/09/06
-=======================
-
-
-=======================
-     2020/09/05
-=======================
-
-* Repository: https://github.com/PixelExperience/build_soong/commits/ten
-
-21e76870 Add support for macOS 11 SDK
-b95d812c Add support for 10.15 SDK
-
-* Repository: https://github.com/PixelExperience/external_toybox/commits/ten
-
-13596d51 Fix cp -r dir/. symlink child.
-5180ec76 Add failing test for cp -r dir/. symlink child.
-
-* Repository: https://github.com/PixelExperience/frameworks_opt_net_wifi/commits/ten
-
-75e9592ca HDM: Resolve concurrent access issue - defer execution
-42533d65c [HDM] Fix concurrency failure
-
-* Repository: https://github.com/PixelExperience/hardware_custom_interfaces/commits/ten
-
-73bf5a7 gnss-legacy: Bring back Beidou
-
-* Repository: https://github.com/PixelExperience/packages_apps_Nfc/commits/ten
-
-e17e403f Avoid NFC continuous crash
-
-* Repository: https://github.com/PixelExperience/system_libufdt/commits/ten
-
-249e851 mkdtboimg: Sanitize dt filename
-7c9976a mkdtboimg: Allow specifying full path for dtb
-94aa200 mkdtboimg: Add support to V0 DTBO image creation
-0033a69 mkdtboimg: Make filepath search recursive
-
-* Repository: https://github.com/PixelExperience/system_netd/commits/ten-plus
-
-2d062c79 netd: Sort and cache hosts file data for fast lookup
-
-* Repository: https://github.com/PixelExperience/system_sepolicy/commits/ten
-
-a5258e1a Fix sepolicy_tests on Mac 10.15
-
-
-=======================
-     2020/09/04
-=======================
-
-* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
-
-8f97c4e8 updater: Ignore ENOENT in some functions
-
-* Repository: https://github.com/PixelExtended/base/commits/ten-plus
-
-02e23c01e2f SystemUI: Fix SystemUI failed to go to doze issue
-
-* Repository: https://github.com/PixelExtended/packages_apps_Settings/commits/ten-plus
-
-f8223ca3d9 Add PEX Animation to firmware
-
-* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
-
-30aec73 devicesettings-custom: Add Strings needed for phoenix
 
 
