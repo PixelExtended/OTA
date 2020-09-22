@@ -22,4 +22,5 @@
 - Letting legacy apps scale fully to the display's aspect ratio
 - Some minor FOD improvments
 - Made Battery Icon on QS clickable
+- New Default wall thanks to @CustomArtsSB
 - END OF A10 SUPPORT . PEACE OUT !!
