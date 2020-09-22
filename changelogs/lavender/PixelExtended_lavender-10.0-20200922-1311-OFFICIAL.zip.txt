@@ -1,0 +1,13 @@
+Changelog v 1.0 (23.09.2020)
+	
+Source:
+* Introducing AOSPA App Lock
+* Letting legacy apps scale fully to the display's aspect ratio
+* Some minor FOD improvments
+* Made Battery Icon on QS clickable
+* New Default wall thanks to @CustomArtsSB
+* END OF A10 SUPPORT . PEACE OUT !!
+
+Device:
+* Kernel upstreamed to 4.4.236
+* Some fixes and improvements
