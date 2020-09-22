@@ -16,7 +16,7 @@
  - Rebranded Fan_Edition To Pixel Extended and added a new lottie branding animation .
  
 
-## v 1.0 (22.10.2020) FINAL A10 BUILD 
+## v 1.0 (22.09.2020) FINAL A10 BUILD 
 
 - Introducing AOSPA App Lock 
 - Letting legacy apps scale fully to the display's aspect ratio
