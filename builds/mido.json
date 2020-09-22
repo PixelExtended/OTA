@@ -1,16 +1,17 @@
 {
 "error":false,
-"filename": "PixelExtended_mido-10.0-20200820-1958-OFFICIAL.zip",
-"datetime": 1597953480,
-"size": 1061186685,
-"url":"https://github.com/AryanKedare/OTA/releases/download/2020821/PixelExtended_mido-10.0-20200820-1958-OFFICIAL.zip",
-"filehash": "c8855097d154e2889b31aa4cc3fcf6ec",
-"version": "10",
-"id": "c8855097d154e2889b31aa4cc3fcf6ec",
-"donate_url": "https://www.paypal.me/shindesharad71",
-"website_url":"https://github.com/AryanKedare/OTA/releases/",
-"news_url": "https:\/\/t.me\/devilproject",
-"maintainer": "Aryan Kedare",
-"maintainer_url":"https:\/\/t.me/aryankedare",
-"forum_url": "https://t.me/pixelexperiencemido"
+"filename": "PixelExtended_mido-10.0-20200917-2244-Fan-Edition.zip",
+"datetime": 1600382640,
+"size":1057535709, 
+"url":"https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-10.0-20200917-2244-Fan-Edition.zip",
+"filehash": "f050d1a99859244ec7c47d4cef6c3cb6", 
+"version": "10", 
+"id": "f050d1a99859244ec7c47d4cef6c3cb6",
+"donate_url": "https://www.paypal.me/aryan65",
+"website_url":"https://pixelextended.me/",
+"news_url":"https:\/\/t.me\/pexupdates",
+"maintainer":"aryankedare",
+"maintainer_url":"https://t.me/aryankedare",
+"forum_url":""
 }
+
