@@ -12,13 +12,9 @@ Xiaomi Redmi Note 7 (lavender) - Aditya
 
 Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
-Xiaomi Mi 9T/K20 (davinci) - Patryk "ArixElo" Zimnicki
-
 Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
 
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
-
-Xiaomi Redmi Y2/S2 (ysl) - Amith Acharya
 
 Xiaomi Redmi 4 (santoni) - Amith Acharya
 
@@ -32,10 +28,6 @@ Mi 6X (wayne) - Christian de la Cruz
 
 Mi 8 (Dipper) - Jullian14
 
-
-Asus devices
-------------------------------------------
-Zenfone Max Pro M1 (X00TD) - Aditya
 
 Realme devices
 ------------------------------------------
