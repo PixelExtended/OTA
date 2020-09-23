@@ -1,0 +1,11 @@
+• Add App locker
+• Add KCAL color control ( thanks @mg712702 )
+• Fixed bootanimation theming (Now dark mode sets dark bootanimation correctly)
+• updated blobs from miui 20.9.16
+• reduced cpu usage during audio playback
+• fixed minor issues with fp
+• merged upstream linux 4.14.198 
+• reduced scheduler latency
+• fixed power button issue for some users
+• fixed potential random reboots while using 4g
+• blocked qupuart wakelock when BT connected
