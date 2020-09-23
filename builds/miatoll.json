@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_miatoll-10.0-20200915-0544-OFFICIAL.zip,
-"datetime": 1600148640,
-"size":1420534127, 
-"url":"https://sourceforge.net/projects/pixelextended/files/Miatoll/PixelExtended_miatoll-10.0-20200915-0544-OFFICIAL.zip/download", 
-"filehash":"c47b58e0ef819aa35a121333aa4df7ce", 
+"filename": PixelExtended_miatoll-10.0-20200923-0826-OFFICIAL.zip,
+"datetime": 1600849560,
+"size":1421831816, 
+"url":"https://sourceforge.net/projects/pixelextended/files/Miatoll/PixelExtended_miatoll-10.0-20200923-0826-OFFICIAL.zip/download", 
+"filehash":"5658a92159a1d9dca11103799536f72f", 
 "version": "10", 
-"id": "c47b58e0ef819aa35a121333aa4df7ce",
+"id": "5658a92159a1d9dca11103799536f72f",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
 "maintainer":"AtlanPrime",
-"maintainer_url":"t.me/atlanprime",
-"forum_url":"https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixelextended-01-official-unified-t4162773"
+"maintainer_url":"https://t.me/AtlanPrime",
+"forum_url":"https://forum.xda-developers.com/redmi-note-9-pro/development/rom-pixelextended-01-official-unified-t4162773#post83497557"
 }
