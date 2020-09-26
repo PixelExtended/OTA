@@ -1,17 +1,16 @@
 {
 "error":false,
-"filename": "PixelExtended_mido-10.0-20200917-2244-Fan-Edition.zip",
-"datetime": 1600382640,
-"size":1057535709, 
-"url":"https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-10.0-20200917-2244-Fan-Edition.zip",
-"filehash": "f050d1a99859244ec7c47d4cef6c3cb6", 
+"filename": "PixelExtended_mido-10.0-20200926-0020-OFFICIAL.zip",
+"datetime": 1601079600,
+"size":1059906027,
+"url":"https://sourceforge.net/projects/pixelextended/files/mido/PixelExtended_mido-10.0-20200926-0020-OFFICIAL.zip/download", 
+"filehash":"932eff9ce5052fb31b4b52a842a2aee3", 
 "version": "10", 
-"id": "f050d1a99859244ec7c47d4cef6c3cb6",
+"id": "932eff9ce5052fb31b4b52a842a2aee3",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"aryankedare",
+"maintainer":"AryanKedare",
 "maintainer_url":"https://t.me/aryankedare",
 "forum_url":""
 }
-
