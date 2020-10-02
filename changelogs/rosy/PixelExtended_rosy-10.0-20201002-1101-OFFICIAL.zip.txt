@@ -1,0 +1,15 @@
+Device side :- 
+ - Enabled WiFi MAC randomization
+ - reverted back to old audio acdbdata (fixes mic issues and in call inadjustable for now tho its TEMP fix)
+ - uprev'ed pref HAL to 2.1
+ - Updated proprietary blobs from LA.UM.8.6.r1-04700-89xx.0 (except radio and CNE)
+ - Updated Radio and CNE blobs from LA.UM.8.6.2.r1-08400-89xx.0
+ - dropped few 32bit blobs and vendor cleanup
+
+Source Side :- 
+ - Introducing AOSPA App Lock
+ - Letting legacy apps scale fully to the display's aspect ratio
+ - Some minor FOD improvments
+ - Made Battery Icon on QS clickable
+ - New Default wall thanks to @CustomArtsSB
+ - END OF A10 SUPPORT . PEACE OUT !!
