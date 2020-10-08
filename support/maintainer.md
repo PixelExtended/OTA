@@ -16,8 +16,6 @@ Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
 
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
-Xiaomi Redmi 4 (santoni) - Amith Acharya
-
 Xiaomi Redmi 4a (rolex) - Zubair Khan
 
 Xiaomi Redmi 5 (rosy) - ElytrA8
