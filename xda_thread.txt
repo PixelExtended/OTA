@@ -1,13 +1,13 @@
 [CENTER]
 [img]https://imgur.com/likQDEZ.png[/img]
-[SIZE="5"][b][color=#1a73e8]PixelExtended ROM (Fan-Edition) for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
+[SIZE="5"][b][color=#1a73e8]PixelExtended ROM for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
-[SIZE="3"]PixelExtended ROM (or PEX for short) is a fork of Pixel Experience , Combining Pixel Goodies with some essential features you were missing in Pixel Experience, delivers a ROM that promise you stabilty and being feature-rich at the same time . TBH this ROM will keep it's Pixel' idea intact and won't be bloat with unwanted features .
+[SIZE="3"]PixelExtended ROM (or PEX for short), We are Combining Pixel Goodies with some essential features you were missing in Pixel Experience, delivering a ROM that promise you stabilty and being feature-rich at the same time . TBH this ROM will keep it's Pixel' idea intact and won't be bloat with unwanted features .
 
 Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
 
-Based on Android 10.0
+Based on Android 11 (R)
 [/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
@@ -31,28 +31,11 @@ Sound / vibration[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
 
 [SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
-[SIZE="3"]Reworked OOS like network traffic (Different from original project)
-Volte icon
-QS blur 
-R style Notification Header
-FP Swipe Gestures
-Smart Charging
-Adaptive Media Playback 
-Redesigned Volume Dialog like PA
-FP unlock after system reboot
-Notification Logs
-Theming Customisation
-Some few New accents
-Some few New Fonts 
-Some few New lockscreen clocks
-Some few  New icon shapes
+[SIZE="3"]This Is very Initial Build Of Android 11 (Stock) , some features will be adapted in near future .[/SIZE]
 
-As only Essesntial Features will be added so this list will updated whenever there is a new feature[/SIZE]
-
-[SIZE="3"]NOTE :- All possible features are toggleable so you always can choose to be stockish.[/SIZE]
 
 [SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE="6"][url="https://sourceforge.net/projects/pixelextendedrom/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][url="https://sourceforge.net/projects/pixelextended/Android-11/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
 [SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
@@ -62,10 +45,9 @@ As only Essesntial Features will be added so this list will updated whenever the
 [/CENTER]
 
 [LEFT][SIZE="3"][list]
-[*][b]Android OS version:[/b] 10.0.0_r33
-[*][b]Security patch level:[/b] September 2020
+[*][b]Android OS version:[/b] 11
+[*][b]Security patch level:[/b] October 2020
 [*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
-[*][b]Source code:[/b] [url=https://github.com/PixelExperience]https://github.com/PixelExtended[/url]
+[*][b]Source code:[/b] [url=https://github.com/PixelExtended]https://github.com/PixelExtended[/url]
 [*][b]PixelExtended Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
-[*][b]Specail Thanks to:[/b] [url=https://forum.xda-developers.com/member.php?u=6519039]jhenrique09[/url]
 [/list][/SIZE][/LEFT]
