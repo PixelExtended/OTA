@@ -31,3 +31,12 @@ Realme devices
 ------------------------------------------
 Realme 5 Pro (RMX1971) - TestoBuzz
 
+
+To Be Deprecated  devices
+------------------------------------------
+
+Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
+
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
+
+Realme 5 Pro (RMX1971) - TestoBuzz
