@@ -20,6 +20,8 @@ Xiaomi Redmi 4a (rolex) - Zubair Khan
 
 Xiaomi Redmi 5 (rosy) - ElytrA8
 
+Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
+
 Redmi Note 4/4X (mido) - Aryan Kedare
 
 Redmi Note 7 Pro (violet) - SammyShaurya
