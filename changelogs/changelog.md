@@ -1,26 +1,45 @@
 # Changelog
 
 
-## v 0.1 (12.09.2020)
+## v2.1 (20.11.2020) Initial Android R Feature Update !
  
- - Merged September Security Patch 
- - Imporvments For Pocket Lock 
- - Custom FOD Icon Support
- - Moved Battery Icon to QS Header
- - Auto Brightness too low ? We added a setting to clamp min auto bs 
- - Added Support for POSP' Mi/Dirac Sound 
- - Fixed an issue where device ain't going to deep sleep cz of pocket lock 
+ - Merged November Security Patch 
+ - Fixed sensor (gyro accelerometer etc.) not working on some apps
+ - Moved Battery Icon to QS Header with estimates
+ - Added Pixel' Den where you'll find your features
+ - Added Volte/Vowifi Icon Toogle 
+ - Added In Call Vibrations
+ - Show current and new version on APK installation  
  - Capture Your Screen now at 0 delay 
- - Touch Optimisations
- - Fixed a case where device is detected as rooted , apps that was causing it should be fine now .
- - Rebranded Fan_Edition To Pixel Extended and added a new lottie branding animation .
- 
-
-## v 1.0 (22.09.2020) FINAL A10 BUILD 
-
-- Introducing AOSPA App Lock 
-- Letting legacy apps scale fully to the display's aspect ratio
-- Some minor FOD improvments
-- Made Battery Icon on QS clickable
-- New Default wall thanks to @CustomArtsSB
-- END OF A10 SUPPORT . PEACE OUT !!
+ - Reset Battery Stats
+ - Allow user to add/remove QS with one click 
+ - Screen Recoder Dialog Improvments 
+ - Now, QS will only reduce row count when media player is there
+ - Add support to manually pause/resume downloads
+ - FOD Support
+ - Introduced Primary Overlays 
+ - Added back 2-button navigation bar overlay 
+ - Added Bluetooth Battery Level 
+ - SystemUI now follows custom Fonts
+ - Removed black QS status bar background
+ - Added three-fingers-swipe to screenshot
+ - Add auto brightness toggle to Quick Settings
+ - Added Caffine/Data Switch/Sync/Heads Up and Google Sound Search Tile
+ - Added DT2S on lockscreen and DT2S on statusbar
+ - Screenshot sound toogle and adpated ss sound to ringer modes
+ - Locscreen Charging info toogle 
+ - Added Vooc Charge / Warp Charge Support
+ - Fixed showing duplicated charging status 
+ - Implemented Smart space 
+ - Made blur crossfading more gradual
+ - Unlock keystore with fingerprint after reboot and Quick Unlock 
+ - Lockscreen power off torch toogle
+ - FingerPrint Gestures Support
+ - Adaptive Playback Support
+ - Haptic Feedback to QS tiles
+ - Materialized Toast notifications
+ - Added Face Unlock Form PE 10
+ - QS Improvments
+ - Added New Icon/Fonts Overlays from Android 11 r_7
+ - Added Advance Reboot toogle
+ - FOD icon customisation
