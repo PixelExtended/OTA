@@ -2,7 +2,8 @@
 
 
 ## v2.1 (20.11.2020) Initial Android R Feature Update !
- 
+  
+ - Bumped version to 2.1
  - Merged November Security Patch 
  - Fixed sensor (gyro accelerometer etc.) not working on some apps
  - Moved Battery Icon to QS Header with estimates
