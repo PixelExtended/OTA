@@ -1,0 +1,9 @@
+- Coral Nov FP
+- Safety Net passes by default
+- Fixed mic issues 
+- Fixed audio recording in video mode
+- Added back Doze and XiaomiParts
+- Set Default Density to 400
+- Enabled HAL3 for whatsapp , fixed Web login too
+- Switched to AOSP location support
+- Updated Qcom Hals
