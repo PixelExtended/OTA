@@ -14,8 +14,6 @@ Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
 Xiaomi Poco X2 (Phoenix) - Sanjheevi
 
-Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
-
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
 Xiaomi Redmi 4a (rolex) - Zubair Khan
@@ -38,9 +36,5 @@ Realme 5 Pro (RMX1971) - TestoBuzz
 
 To Be Deprecated  devices
 ------------------------------------------
-
-Xiaomi Redmi Note 8 (ginkgo) - Khuong Hung
-
-Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
 Realme 5 Pro (RMX1971) - TestoBuzz
