@@ -24,11 +24,13 @@ Xiaomi Redmi 5 Plus/Note 5 (vince) - Srinand.E.K
 
 Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
 
-Redmi Note 4/4X (mido) - Aryan Kedare
+Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare
 
-Redmi Note 7 Pro (violet) - SammyShaurya
+Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
 
-Mi 6X (wayne) - Christian de la Cruz
+Xiaomi Redmi Note 8 Pro (begonia) - Himanshu
+
+Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
 
 Realme devices
