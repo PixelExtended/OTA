@@ -30,7 +30,7 @@ Redmi Note 7 Pro (violet) - SammyShaurya
 
 Mi 6X (wayne) - Christian de la Cruz
 
-Redmi Note 8 Pro (begonia) - Himanshu
+Redmi Note 8 Pro (begonia) - Himanshu bh
 
 Realme devices
 ------------------------------------------
