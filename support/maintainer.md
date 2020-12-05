@@ -37,6 +37,10 @@ Realme devices
 ------------------------------------------
 Realme 5 Pro (RMX1971) - TestoBuzz
 
+OnePlus devices
+------------------------------------------
+OnePlus 5 (Cheeseburger) - Maitreya29
+OnePlus 5T (Dumpling) - Maitreya29
 
 To Be Deprecated  devices
 ------------------------------------------
