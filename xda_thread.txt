@@ -3,9 +3,9 @@
 [SIZE="5"][b][color=#1a73e8]PixelExtended ROM for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
-[SIZE="3"]PixelExtended ROM (or PEX for short), We are Combining Pixel Goodies with some essential features you were missing in Pixel Experience, delivering a ROM that promise you stabilty and being feature-rich at the same time . TBH this ROM will keep it's Pixel' idea intact and won't be bloat with unwanted features .
+[SIZE="3"]PixelExtended ROM (or PEX for short), aims to combine Pixel goodies with some essential features missing in Pixel Experience, delivering a ROM that promises you stabilty a large amount of features at the same time. The ROM will keep it's Pixel ideologies it's primary focus and wont stary into the dark and deep void that is bloat.
 
-Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
+Our mission is to offer maximum possible stability and security along with essential and useful features for proper functioning of a device.
 
 Based on Android 11 (R)
 [/SIZE]
@@ -24,21 +24,21 @@ Fingerprint reader
 Face unlock
 NFC
 Lights
-Sound / vibration[/SIZE]
+Sound/Vibration[/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
 [SIZE="3"]Nothing yet[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
 
-[SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
-[SIZE="3"]This Is very Initial Build Of Android 11 (Stock) , some features will be adapted in near future .[/SIZE]
+[SIZE="5"][b][color=#1a73e8]Features which are curently available: [/color][/b][/SIZE] 
+[SIZE="3"]This is a very Initial build of Android 11 (Stock), some features will be adapted in near future.[/SIZE]
 
 
 [SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
 [SIZE="6"][url="https://sourceforge.net/projects/pixelextended/Android-11/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
-[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Gift me a beer[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
 [SIZE="3"][url="https://t.me/pixeljasmine"][b][color=#1a73e8][u]Device Support Group[/u][/color][/b][/url][/SIZE]
@@ -46,7 +46,7 @@ Sound / vibration[/SIZE]
 
 [LEFT][SIZE="3"][list]
 [*][b]Android OS version:[/b] 11
-[*][b]Security patch level:[/b] October 2020
+[*][b]Security patch level:[/b] November 2020
 [*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
 [*][b]Source code:[/b] [url=https://github.com/PixelExtended]https://github.com/PixelExtended[/url]
 [*][b]PixelExtended Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
