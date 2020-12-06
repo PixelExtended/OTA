@@ -3,7 +3,7 @@
 [SIZE="5"][b][color=#1a73e8]PixelExtended ROM for Mi A2 [jasmine_sprout][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
-[SIZE="3"]PixelExtended ROM (or PEX for short), aims to combine Pixel goodies with some essential features missing in Pixel Experience, delivering a ROM that promises you stabilty a large amount of features at the same time. The ROM will keep it's Pixel ideologies it's primary focus and wont stary into the dark and deep void that is bloat.
+[SIZE="3"]PixelExtended ROM (or PEX for short), aims to combine Pixel goodies with some essential features missing in Pixel Experience, delivering a ROM that promises you stabilty and a large amount of features at the same time. The ROM will keep it's Pixel ideologies it's primary focus and wont stray into the dark and deep void that is bloat.
 
 Our mission is to offer maximum possible stability and security along with essential and useful features for proper functioning of a device.
 
