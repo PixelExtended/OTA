@@ -44,3 +44,17 @@
  - Added New Icon/Fonts Overlays from Android 11 r_7
  - Added Advance Reboot toogle
  - FOD icon customisation
+
+# V2.2 (25.12.2020) Yeah We're alive but no major feature update 
+
+ - December Security Patch
+ - Rebased Upon Pixel Experience
+ - Pixel Goodies finally here
+ - Smart battery / Extreme Battery Saver / Wallpapers / Themes and what not
+ - Some minor cleanup to features and moved all features to pixel den to keep your settings to stock feel
+ - Added Screen Off FOD gesture
+ - Added Support for Vol. Panel on left side
+ - Enabled NFC tile
+ - Removed major placebo patches and we promise u now more stability 
+ 
+ 
