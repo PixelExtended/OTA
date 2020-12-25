@@ -36,6 +36,7 @@ Xiaomi Mi 6X (wayne) - Christian de la Cruz
 Realme devices
 ------------------------------------------
 Realme 5 Pro (RMX1971) - TestoBuzz
+Realme X (RMX1901) - Icecracker_hem
 
 OnePlus devices
 ------------------------------------------
