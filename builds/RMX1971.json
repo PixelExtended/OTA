@@ -1,12 +1,12 @@
 {
 "error":false,
-"filename": PixelExtended_RMX1971-10.0-20200920-0358-OFFICIAL.zip,
-"datetime": 1600574280,
-"size":1503643947, 
-"url":"https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-10.0-20200920-0358-OFFICIAL.zip/download", 
-"filehash":"1fcc57478d21458eeed816af3f9adb2e", 
+"filename": PixelExtended_RMX1971-11.0-20201225-1227-OFFICIAL.zip,
+"datetime": 1608899220,
+"size":1591998781, 
+"url":"https://sourceforge.net/projects/pixelextended/files/RMX1971/PixelExtended_RMX1971-11.0-20201225-1227-OFFICIAL.zip/download", 
+"filehash":"3e90aec969a572f48096e5060d1f7128", 
 "version": "10", 
-"id": "1fcc57478d21458eeed816af3f9adb2e",
+"id": "3e90aec969a572f48096e5060d1f7128",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
@@ -14,4 +14,3 @@
 "maintainer_url":"https://t.me/TestoBuzz",
 "forum_url":"https://forum.xda-developers.com/member.php?u=9247195"
 }
-
