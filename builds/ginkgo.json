@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_ginkgo-10.0-20200923-1454-OFFICIAL.zip,
-"datetime": 1600878801,
-"size":1268470287,
-"url":"https://sourceforge.net/projects/pixelextended/files/Ginkgo/PixelExtended_ginkgo-10.0-20200923-1454-OFFICIAL.zip/download", 
-"filehash":"f44df0b3333c8bfb1f8a85f02e96ee15", 
-"version": "10", 
-"id": "f44df0b3333c8bfb1f8a85f02e96ee15",
-"donate_url": "https://www.paypal.com/paypalme/AdityaRamakrishnan",
-"website_url":"https://sourceforge.net/projects/khuonghung/files/PE-FanEdition/",
-"news_url":"https://t.me/pixelextended",
-"maintainer":"KhuongHung",
-"maintainer_url":"https://t.me/hung2408",
-"forum_url":"#"
-} 
+"filename": PixelExtended_ginkgo-11.0-20201225-1955-OFFICIAL.zip,
+"datetime": 1608926100,
+"size":1410644911, 
+"url":"https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended_ginkgo-11.0-20201225-1955-OFFICIAL.zip/download", 
+"filehash":"3dee90c2f4e1d34b3953f4ecccc40944", 
+"version": "11", 
+"id": "3dee90c2f4e1d34b3953f4ecccc40944",
+"donate_url": "https://www.paypal.me/aryan65",
+"website_url":"https://pixelextended.me/",
+"news_url":"https:\/\/t.me\/pexupdates",
+"maintainer":"VitorSSSouza",
+"maintainer_url":"https://t.me/VitorSSSouza",
+"forum_url":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-11-0-ginkgo-willow.4208107/"
+}
