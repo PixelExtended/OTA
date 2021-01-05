@@ -37,6 +37,7 @@ Xiaomi Redmi Note 8/8T (ginkgo/willow) - VitorSSSouza
 Realme devices
 ------------------------------------------
 Realme 5 Pro (RMX1971) - TestoBuzz
+Realme X (RMX1901) - Icecracker_hem
 
 OnePlus devices
 ------------------------------------------
