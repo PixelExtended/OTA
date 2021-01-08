@@ -1,12 +1,18 @@
 {
 "error":false,
-"filename": PixelExtended_ginkgo-11.0-20201225-1955-OFFICIAL.zip,
-"datetime": 1608926100,
-"size":1410644911, 
-"url":"https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended_ginkgo-11.0-20201225-1955-OFFICIAL.zip/download", 
-"filehash":"3dee90c2f4e1d34b3953f4ecccc40944", 
-"version": "11", 
-"id": "3dee90c2f4e1d34b3953f4ecccc40944",
+"filename": PixelExtended_ginkgo-11.0-20210107-0122-OFFICIAL.zip
+PixelExtended_ginkgo-11.0-20210108-0456-OFFICIAL.zip,
+"datetime": 1610081760,
+"size":1531713615
+1451835111
+2983548726, 
+"url":"https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended_ginkgo-11.0-20210107-0122-OFFICIAL.zip
+PixelExtended_ginkgo-11.0-20210108-0456-OFFICIAL.zip/download", 
+"filehash":"74652dbfa835cf17afcd18ddbb27a28b
+4d2bd0915aba6d9197bdc10e44916d46", 
+"version": "10", 
+"id": "74652dbfa835cf17afcd18ddbb27a28b
+4d2bd0915aba6d9197bdc10e44916d46",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",

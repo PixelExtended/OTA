@@ -1,0 +1,8 @@
+- Fixed Bluetooth.
+- Fixed audio in Bluetooth @kleidione.
+- Uptade kernel for Quicksilver  V4.4.213
+- Fix PT-BR Xiami Parts and Doze.
+- Fix translator PT-BR in the battery menu by @kleidione.
+- Fix translator PT-BR in Pixel Den´s.
+- Fix Lag SystemUI, disabled Live Wallpaper.
+- Fix NFC for Willow.
