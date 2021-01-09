@@ -2,7 +2,7 @@ Here's the list of supported devices and their mantainers:
 
 Xiaomi/Redmi devices
 ------------------------------------------
-Xiaomi Mi A2 (jasmine) - Aryan Gupta
+Xiaomi Mi A2 (jasmine) - Immanuel Raj
 
 Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
 
