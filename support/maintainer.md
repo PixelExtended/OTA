@@ -2,7 +2,7 @@ Here's the list of supported devices and their mantainers:
 
 Xiaomi/Redmi devices
 ------------------------------------------
-Xiaomi Mi A2 (jasmine) - Aryan Gupta
+Xiaomi Mi A2 (jasmine) - Immanuel Raj
 
 Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
 
@@ -47,4 +47,3 @@ OnePlus 5T (Dumpling) - Maitreya29
 To Be Deprecated  devices
 ------------------------------------------
 
-Realme 5 Pro (RMX1971) - TestoBuzz
