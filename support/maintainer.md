@@ -4,8 +4,6 @@ Xiaomi/Redmi devices
 ------------------------------------------
 Xiaomi Mi A2 (jasmine) - Immanuel Raj
 
-Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
-
 Xiaomi Redmi Note 5 AI/Pro (whyred) - Sebastián López (Jhonse)
 
 Xiaomi Redmi Note 7/7S (lavender) - Raiyan Shishir
@@ -46,4 +44,4 @@ OnePlus 5T (Dumpling) - Maitreya29
 
 To Be Deprecated  devices
 ------------------------------------------
-
+Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
