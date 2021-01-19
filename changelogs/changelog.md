@@ -57,4 +57,23 @@
  - Enabled NFC tile
  - Removed major placebo patches and we promise u now more stability 
  
+ # V2.3 (19.01.2021) Year of Hope ? 
  
+ - Jan Security Patch 
+ - Added Your Favourite Marvel Superheros FOD icons
+ - Added Pocket Lock 
+ - BT QTI stuffs 
+ - Added A delete button to screenshot menu
+ - Added support for per app network isolation
+ - Allowed Hotspot to use VPN upstreams
+ - QS blur improvements for a glass effect 
+ - Lockscreen Media art toogle
+ - Added Blur toogle under display settings
+ - Optional haptic feedback on back gesture
+ - Smart Charging 
+ - Notification Counters
+ - Allow to suppress notifications sound/vibration if screen is ON
+ - Volume Key Music Control
+ - Added Soft Reboot option
+ - POSP volume panel styles
+ - Enforced Pixel FP so moaar pissel goodies
