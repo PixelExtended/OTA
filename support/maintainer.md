@@ -16,8 +16,6 @@ Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
 Xiaomi Redmi 4a (rolex) - Zubair Khan
 
-Xiaomi Redmi 5 (rosy) - ElytrA8
-
 Xiaomi Redmi 5 Plus/Note 5 (vince) - Srinand.E.K
 
 Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
