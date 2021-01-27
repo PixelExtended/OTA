@@ -30,7 +30,6 @@ Xiaomi Redmi Note 8/8T (ginkgo/willow) - VitorSSSouza
 
 Realme devices
 ------------------------------------------
-Realme 5 Pro (RMX1971) - TestoBuzz
 Realme X (RMX1901) - Icecracker_hem
 
 OnePlus devices
@@ -38,6 +37,4 @@ OnePlus devices
 OnePlus 5 (Cheeseburger) - Maitreya29
 OnePlus 5T (Dumpling) - Maitreya29
 
-To Be Deprecated  devices
-------------------------------------------
-Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
+If You Don't See your device here , ask someone to build and Officially Support it . 
