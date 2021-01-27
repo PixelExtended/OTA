@@ -1,1 +1,16 @@
-Initial OTA json
+{
+"error":false,
+"filename": PixelExtended_raphael-11.0-20210127-1549-OFFICIAL.zip,
+"datetime": 1611762540,
+"size":1346539693, 
+"url":"https://sourceforge.net/project/ralf979-rom/Test/PixelExtended_raphael-11.0-20210127-1549-OFFICIAL.zip/download", 
+"filehash":"ddb8aa12427c5d83ec606cf1085c1817", 
+"version": "10", 
+"id": "ddb8aa12427c5d83ec606cf1085c1817",
+"donate_url": "https:\/\/paypal.me/ralf979",
+"website_url":"https:\/\/sourceforge.net/projects/pixelextended/files/Raphael/",
+"news_url":"https:\/\/t.me\/PEX",
+"maintainer":"ralf979",
+"maintainer_url":"https:\/\/t.me/ralf979",
+"forum_url":"N/A"
+}
