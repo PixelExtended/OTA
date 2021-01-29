@@ -1,0 +1,13 @@
+-Moved to Westcoast superfast eas+ kernel
+-Removed Camera 2 (can install miui/gcam if needed from @yaa2g(telegram))
+-Added back live wallaper
+-Fixed lags in live wallaper
+-Added some ram optimization
+-Impoved perfomance
+-Optimised swap for performance
+-Some optimization for 24bit audio
+-Improved Thermals
+-Moved to qti thermal
+-Fixed some camera video stuff
+-Optimised gps
+-Fixed Network reset issues
