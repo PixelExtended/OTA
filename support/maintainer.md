@@ -26,8 +26,6 @@ Xiaomi Redmi Note 8 Pro (begonia) - Himanshu
 
 Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
-Xiaomi Redmi Note 8/8T (ginkgo/willow) - VitorSSSouza
-
 Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Icecracker_hem
@@ -36,5 +34,9 @@ OnePlus devices
 ------------------------------------------
 OnePlus 5 (Cheeseburger) - Maitreya29
 OnePlus 5T (Dumpling) - Maitreya29
+
+Motorola devices
+------------------------------------------
+Motorola Moto G7 (river) - VitorSSSouza
 
 If You Don't See your device here , ask someone to build and Officially Support it . 
