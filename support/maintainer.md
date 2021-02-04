@@ -22,8 +22,6 @@ Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare
 
 Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
 
-Xiaomi Redmi Note 8 Pro (begonia) - Himanshu
-
 Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
 Xiaomi Redmi Note 8/8T (ginkgo/willow) - VitorSSSouza
