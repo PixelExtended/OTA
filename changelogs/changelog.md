@@ -90,8 +90,9 @@
  - Dark theme fixes where colors are abnormal/different in some scenarios
  - Enabled Adaptive Connectivity 
  - Customisable QS Rows & Columns
- - Optional Clipboard Access Toast (See how Google is Spying on You 👀)
+ - Optional Clipboard Access Toast (Now see when Google is Spying on You 👀)
  - Compass QS Tile
  - New Brightness Slider
+ - Optimised Animations
  
-I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
+I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE WILL MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
