@@ -77,3 +77,16 @@
  - Added Soft Reboot option
  - POSP volume panel styles
  - Enforced Pixel FP so moaar pissel goodies
+
+ # V2.4 (05.02.2021) I hate this Month . 
+
+ - February Patch Merged
+ - Added New QS tint Toogle
+ - LockScreen Charging animation/info is fixed 
+ - Added HW keys Customisation Support 
+ - Gesture Bar length/hide ab Customisation 
+ - Statubar Battery and clock Customisation 
+ - Enabled LockScreen Shortcut icons
+ - Dark theme fixes where colors are abnormal/different in some scenerieo
+
+I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
