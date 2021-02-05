@@ -1,0 +1,7 @@
+- Inicial Release.
+- Added MotoCam2.
+- SElinux Enforcing.
+- Pixel´s Dens, Translated to Portuguese Brazil.
+- Fix Live Wallpaper.
+- BT Audio Work.
+- Improvement in the 4G network and wifi.
