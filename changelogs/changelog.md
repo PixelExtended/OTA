@@ -84,7 +84,7 @@
  - Added New QS tint Toogle
  - LockScreen Charging animation/info is fixed 
  - Added HW keys Customisation Support 
- - Gesture Bar length/hide ab Customisation 
+ - Gesture Bar length/hide Customisation 
  - Statubar Battery and clock Customisation 
  - Enabled LockScreen Shortcut icons
  - Dark theme fixes where colors are abnormal/different in some scenerieo
