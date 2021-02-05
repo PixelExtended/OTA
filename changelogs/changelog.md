@@ -87,6 +87,11 @@
  - Gesture Bar length/hide Customisation 
  - Statubar Battery and clock Customisation 
  - Enabled LockScreen Shortcut icons
- - Dark theme fixes where colors are abnormal/different in some scenerieo
-
+ - Dark theme fixes where colors are abnormal/different in some scenarios
+ - Enabled Adaptive Connectivity 
+ - Customisable QS Rows & Columns
+ - Optional Clipboard Access Toast (See how Google is Spying on You 👀)
+ - Compass QS Tile
+ - New Brightness Slider
+ 
 I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
