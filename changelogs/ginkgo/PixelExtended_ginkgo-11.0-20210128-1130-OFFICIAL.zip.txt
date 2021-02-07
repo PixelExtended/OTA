@@ -1,0 +1,8 @@
+- Bluetooth audio finally fixed.
+- Fixed Live Wallpaper.
+- Added YMusic by @TogoFire
+- Added Anx Camera (is miui camera edit).
+- Added Gcam Go.
+- Kernel uptade 4.14.217 (QuickSilver V2 by  @Call190Now).
+- SElinux : Enforcing
+
