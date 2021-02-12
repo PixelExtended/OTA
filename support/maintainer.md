@@ -28,11 +28,7 @@ Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Icecracker_hem
 Realme 6 (RMX2001) - Tanmay
-
-OnePlus devices
-------------------------------------------
-OnePlus 5 (Cheeseburger) - Maitreya29
-OnePlus 5T (Dumpling) - Maitreya29
+Realme 6 Pro (RMX206X) -Rounak1619
 
 Motorola devices
 ------------------------------------------
