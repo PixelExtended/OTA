@@ -27,7 +27,9 @@ Xiaomi Mi 6X (wayne) - Christian de la Cruz
 Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Icecracker_hem
+
 Realme 6 (RMX2001) - Tanmay
+
 Realme 6 Pro (RMX206X) -Rounak1619
 
 Motorola devices
