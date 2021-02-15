@@ -11,4 +11,4 @@ bash OTA/support/ota.sh wayne pex "Christian de la Cruz" https://t.me/chdelacr h
 NOTES:
 - ROM directory will look for *home/<os_username>/<rom_directory>*.
 - Add doble quotes for parameters with more than a single word, like maintainer name in the example above.
-- Forum URL parameter is optional.
+- All parameters are mandatory.
