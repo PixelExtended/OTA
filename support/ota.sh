@@ -23,6 +23,7 @@ WEBSITE_URL="https://pixelextended.me/"
 NEWS_URL="https:\/\/t.me\/pexupdates"
 JSON_FMT='{\n"error":false,\n"filename": %s,\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"id": "%s",\n"donate_url": "%s",\n"website_url":"%s",\n"news_url":"%s",\n"maintainer":"%s",\n"maintainer_url":"%s",\n"forum_url":"%s"\n}'
 printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$ID" "$DONATE_URL" "$WEBSITE_URL" "$NEWS_URL" "$MAINTAINER" "$MAINTAINER_URL" "$FORUM_URL" > $ROMDIR/OTA/builds/$DEVICE.json
+echo $ROMDIR/OTA/builds/$DEVICE.json file created
 
 BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 3)
 BUILD_YEAR=${BUILD_DATE:0:4}
@@ -31,3 +32,4 @@ BUILD_DAY=${BUILD_DATE:6:2}
 CHANGELOG_DATE=$(echo $BUILD_YEAR/$BUILD_MONTH/$BUILD_DAY)
 CHANGELOG="Changelog - %s\n\n"
 printf "$CHANGELOG_DATE" > $ROMDIR/OTA/changelogs/$DEVICE/$FILENAME.txt
+echo $ROMDIR/OTA/changelogs/$DEVICE/$FILENAME.txt file created
