@@ -8,8 +8,6 @@ Xiaomi Mi A2 (jasmine) - Immanuel Raj
 
 Xiaomi Redmi Note 5 AI/Pro (whyred) - Sebastián López (Jhonse)
 
-Xiaomi Redmi Note 7/7S (lavender) - Raiyan Shishir
-
 Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
 Xiaomi Poco X2 (Phoenix) - Sanjheevi
