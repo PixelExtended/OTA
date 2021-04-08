@@ -4,15 +4,9 @@ Xiaomi/Redmi devices
 ------------------------------------------
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - Aryan Gupta
 
-Xiaomi Mi A2 (jasmine) - Immanuel Raj
-
-Xiaomi Redmi Note 5 AI/Pro (whyred) - Sebastián López (Jhonse)
+Xiaomi Mi A2 (jasmine) - Immanuel Raj & Naeem Mansuri
 
 Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
-
-Xiaomi Poco X2 (Phoenix) - Sanjheevi
-
-Xiaomi Redmi 5 Plus/Note 5 (vince) - Srinand.E.K
 
 Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
 
@@ -36,4 +30,10 @@ Motorola devices
 ------------------------------------------
 Motorola Moto G7 (river) - VitorSSSouza
 
-If You Don't See your device here , ask someone to build and Officially Support it . 
+Motorola Moto G7 Power (ocean) - VitorSSSouza
+
+One Plus devices
+------------------------------------------
+OnePlus 8T (Kebab) - Rounak1619
+
+If You Don't See your device here , ask someone to build and Officially Support it .
