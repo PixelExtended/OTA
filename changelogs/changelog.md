@@ -95,4 +95,49 @@
  - New Brightness Slider
  - Optimised Animations
  
+  # V2.6 (15.04.2021) Here we are ! 
+  
+ - Merged March and April Security patch.
+ - Fix icon position on multi-line action.
+ - Port statusbar brightness control
+ - Added Advanced Gesture
+ - FODCircleView Cleanup
+ - Fix High Brightness on AOD & Lockscreen Pil
+ - Fix volume panel not following rounded corners partially.
+ - Themes: Add Gvisual mod.
+ - Statusbar: Import CutOut Utils
+ - Introduce Fluid lockscreen clock.
+ - Add MNML based clock designs.
+ - Add SFUNY clock.
+ - Add Custom Spectrum Analog Clock.
+ - Add Sammy highlight clock.
+ - Add center style Typographic clock.
+ - Add binary custom clock face.
+ - Add Divided Lines Clock
+ - Redesign Media Player View
+ - Introduce 404 IDE Clock
+ - Add Google Sound Search tile
+ - Bring back expanded volume panel
+ - SystemUI: Add LiveDisplay tile 
+ - Add hide notch support.
+ - Forward port CM Screen Security settings.
+ - Update QS flashlight icon.
+ - Explosion Charging Animation.
+ - Face Unlock animation.
+ - Allow using face as auth method for apps.
+ - AuthContainerView: fix rare SystemUI crash.
+ - Allow using face as auth method for apps.
+ - Port face unlock feature.
+ - Bring back traffic indicator for Notch Devices !!!.
+ - base: Introduce Applock.
+ - Add visualizer feature.
+ - Statusbar brightness control.
+ - Den: Add Partial SS toogle
+ - Add lockscreen visualizer toggle.
+ - Add vibration patterns from OOS.
+ - Add option for Gesture bar Radius.
+ - And Much More. 
+  
+  
+  
 I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE WILL MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
