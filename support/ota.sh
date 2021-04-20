@@ -14,7 +14,7 @@ cd $ROMDIR
 DATETIME=$(grep "org.pixelexperience.build_date_utc=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 FILENAME=$(find out/target/product/$DEVICE/PixelExtended*.zip | cut -d "/" -f 5)
 ID=$(md5sum out/target/product/$DEVICE/PixelExtended*.zip | cut -d " " -f 1)
-FILEHASH=$ID
+FILEHASH=$(sha256sum out/target/product/$DEVICE/PixelExtended*.zip | cut -d " " -f 1)
 SIZE=$(wc -c out/target/product/$DEVICE/PixelExtended*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/pixelextended/files/$DEVICE/$FILENAME/download"
 VERSION="11"
