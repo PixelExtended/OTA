@@ -10,7 +10,7 @@ Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
 Xiaomi Poco X2/Redmi K30 (Phoenix) - Ankan Ghosh
 
-Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
+Xiaomi Redmi Y2/S2 (ysl) - ItsMeZyrus
 
 Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare
 
