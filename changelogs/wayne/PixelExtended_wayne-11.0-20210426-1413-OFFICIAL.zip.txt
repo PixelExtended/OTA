@@ -4,3 +4,5 @@ Changelog - 2021/04/26
 -- Smoother experience
 -- More DeviceSettings
 -- Working night light and WFD
+
+- Note: Clean flash recommended
