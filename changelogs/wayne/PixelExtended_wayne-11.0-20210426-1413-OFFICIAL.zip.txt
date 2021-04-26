@@ -1,0 +1,6 @@
+Changelog - 2021/04/26
+- Switched to Illium Kernel v4.4.267
+- Rebased tree:
+-- Smoother experience
+-- More DeviceSettings
+-- Working night light and WFD
