@@ -18,8 +18,6 @@ Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
 
 Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
-Xiaomi Poco X3 (NFC) (karna/surya) - Bicet
-
 Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Icecracker_hem
