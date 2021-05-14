@@ -36,4 +36,8 @@ One Plus devices
 ------------------------------------------
 OnePlus 8T (Kebab) - Rounak1619
 
+Asus devices
+------------------------------------------
+Zenfone Max Shot (A001D) - Matheus Vinicius
+
 If You Don't See your device here , ask someone to build and Officially Support it .
