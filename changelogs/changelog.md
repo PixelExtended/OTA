@@ -1,5 +1,19 @@
 # Changelog
 
+  # V2.7 (16.04.2021) May Patch and OTA 
+
+ - Patches And Fingerprints Updated to May 
+ - Included OTA support
+ - Hide notch Improvements
+ - Introduced Anti-Flicker Mode in LiveDisplay 
+ - Added Shapeshift Lockscreen Clock 
+ - Add option to instantly lock app on closing
+ - Materliazed Toast Notification 
+ - Double Tap to Trigger Doze Gesture 
+ - Added Compact MIUI vol Panel
+ - Added OOS 10 VoLTE icon 
+ - Ability To Theme Settings Dashboard Icons 
+
 
   # V2.6 (15.04.2021) Here we are ! 
   
