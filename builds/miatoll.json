@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_miatoll-11.0-20210512-0509-OFFICIAL.zip,
-"datetime": 1620796140,
-"size":1816349730, 
-"url":"https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-11.0-20210512-0509-OFFICIAL.zip/download", 
-"filehash":"7c229c05436517e0a171ad43b419067c", 
+"filename": PixelExtended_miatoll-11.0-20210515-1145-OFFICIAL.zip,
+"datetime": 1621079100,
+"size":1817046209, 
+"url":"https://sourceforge.net/projects/pixelextended/files/Miatoll/PixelExtended_miatoll-11.0-20210515-1145-OFFICIAL.zip/download", 
+"filehash":"cc4b4c0261f6bdc02f9bd7f499d860f6", 
 "version": "11", 
-"id": "0c801a9a9cfac111f4105fedca9a2a9ba671195d9e180c5451cecce732d461eb",
+"id": "0e1a4cf47d2225da808eb6f4fa2172b6671c84e9164e5985c66ee86c0bcdd02a",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
 "maintainer":"Aryan Gupta",
 "maintainer_url":"https://t.me/heisinbug",
-"forum_url":"https://forum.xda-developers.com/"
+"forum_url":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-r-miatoll-07-02-21.4230021/"
 }
