@@ -1,0 +1,4 @@
+Changelog - 2021/05/18
+- Fixed mobile data issue 
+- Fixed some crashes while setup
+- Bluetooth audio fixed
