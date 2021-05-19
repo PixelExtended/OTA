@@ -20,6 +20,8 @@ Xiaomi Redmi 8A Dual (olivewood) - sdm439dev
 
 Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
+Xiaomi Mi 10i/Mi10t lite/ Redmi Note 9 Pro 5G (Gauguin) - Seif Shahin
+
 Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Icecracker_hem
