@@ -1,0 +1,5 @@
+Changelog - 2021/05/18
+
+-Update Redfin's May Fingerprint
+-Upstreamed Kernel (Azure kernel)
+-Safetynet Pass
