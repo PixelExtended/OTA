@@ -26,7 +26,7 @@ Realme devices
 ------------------------------------------
 Realme X (RMX1901) - Ritish
 
-Realme 6 (RMX2001) - Tanmay
+Realme 6 (RMX2001) - UdayRocker
 
 Realme 6 Pro (RMX206X) -Rounak1619
 
