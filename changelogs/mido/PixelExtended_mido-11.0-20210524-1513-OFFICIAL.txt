@@ -1,0 +1,10 @@
+* Updated To May Secuity Patches
+• Update Blobs
+• Audio fixes and improvements
+• Update blobs from LA.UM.9.6.2.r1• 04100• 89xx.0
+• Updated to Advanced Controls
+• Updated device props and vendor props as per latest caf changes 
+* Updated to Fox Kernel
+* Merged Updates from Zeelog DT,VT,KT
+• Move XiaomiParts to system
+
