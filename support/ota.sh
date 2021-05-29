@@ -4,7 +4,7 @@ MAINTAINER_URL=$3
 FORUM_URL=$4
 
 # Ensures that mandatory parameters are entered
-if [ $# -lt 4 ]; then
+if [ $# -lt 1 ]; then
     echo "Missing mandatory parameters"
     exit 1
 fi
