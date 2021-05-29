@@ -16,7 +16,7 @@
 
 
   # V2.6 (15.04.2021) Here we are ! 
-  
+
  - Merged March and April Security patch.
  - Fix icon position on multi-line action.
  - Port statusbar brightness control
@@ -57,9 +57,9 @@
  - Add vibration patterns from OOS.
  - Add option for Gesture bar Radius.
  - And Much More. 
-  
-  
-  
+
+
+
 I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE WILL MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
 
 
@@ -82,7 +82,7 @@ I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUA
 
 
  # V2.3 (19.01.2021) Year of Hope ? 
- 
+
  - Jan Security Patch 
  - Added Your Favourite Marvel Superheros FOD icons
  - Added Pocket Lock 
@@ -117,7 +117,7 @@ I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUA
 
 
 ## v2.1 (20.11.2020) Initial Android R Feature Update !
-  
+
  - Bumped version to 2.1
  - Merged November Security Patch 
  - Fixed sensor (gyro accelerometer etc.) not working on some apps
