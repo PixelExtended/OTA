@@ -36,6 +36,10 @@ One Plus devices
 ------------------------------------------
 OnePlus 8T (Kebab) - Rounak1619
 
+OnePlus 6 (Enchilada) - ZahidM Choudhry
+
+OnePlus 6T (Fajita) - ZahidM choudhry
+
 Asus devices
 ------------------------------------------
 Zenfone Max Shot (A001D) - Matheus Vinicius
