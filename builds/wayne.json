@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_wayne-10.0-20201007-0643-OFFICIAL.zip,
-"datetime": 1602052980,
-"size":1334796296, 
-"url":"https://sourceforge.net/projects/pixelextended/files/Wayne/PixelExtended_wayne-10.0-20201007-0643-OFFICIAL.zip/download", 
-"filehash":"a1ddc25e2061d5950b4823815d86356d", 
-"version": "10", 
-"id": "a1ddc25e2061d5950b4823815d86356d",
+"filename": PixelExtended_wayne-11.0-20210517-0940-OFFICIAL.zip,
+"datetime": 1621244400,
+"size":1553242248, 
+"url":"https://sourceforge.net/projects/pixelextended/files/wayne/PixelExtended_wayne-11.0-20210517-0940-OFFICIAL.zip/download", 
+"filehash":"8145bbefc8ab61d76c6a16127d9ad82a", 
+"version": "11", 
+"id": "7819be24e6a0defa99b07e51eb7a0616573ee5b451c488d750225f2ebd70c77a",
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
 "maintainer":"Christian de la Cruz",
 "maintainer_url":"https://t.me/chdelacr",
-"forum_url":""
+"forum_url":"https://forum.xda-developers.com/t/pixelextended-rom-for-mi-6x-wayne.4185831/"
 }

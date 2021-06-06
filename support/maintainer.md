@@ -2,11 +2,9 @@ Here's the list of supported devices and their mantainers:
 
 Xiaomi/Redmi devices
 ------------------------------------------
-Xiaomi Mi A2 (jasmine) - Immanuel Raj
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - XRPDigital
 
-Xiaomi Redmi Note 5 AI/Pro (whyred) - Sebastián López (Jhonse)
-
-Xiaomi Redmi Note 7/7S (lavender) - Raiyan Shishir
+Xiaomi Mi A2 (jasmine) - Immanuel Raj & Naeem Mansuri
 
 Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
@@ -16,32 +14,40 @@ Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - AtlanPrime
 
 Xiaomi Redmi 4a (rolex) - Zubair Khan
 
-Xiaomi Redmi 5 (rosy) - ElytrA8
-
-Xiaomi Redmi 5 Plus/Note 5 (vince) - Srinand.E.K
-
-Xiaomi Redmi Y2/S2 (ysl) - Dinesh Kumar
+Xiaomi Redmi Y2/S2 (ysl) - ItsMeZyrus
 
 Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare
 
 Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
 
-Xiaomi Redmi Note 8 Pro (begonia) - Himanshu
+Xiaomi Redmi 8A Dual (olivewood) - sdm439dev
 
 Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
 Xiaomi Redmi Note 8/8T (ginkgo/willow) - Anupam
 
+Xiaomi Mi 10i/Mi10t lite/ Redmi Note 9 Pro 5G (Gauguin) - Seif Shahin
+
 Realme devices
 ------------------------------------------
-Realme 5 Pro (RMX1971) - TestoBuzz
-Realme X (RMX1901) - Icecracker_hem
+Realme 6 (RMX2001) - UdayRocker
 
-OnePlus devices
+Motorola devices
 ------------------------------------------
-OnePlus 5 (Cheeseburger) - Maitreya29
-OnePlus 5T (Dumpling) - Maitreya29
+Motorola Moto G7 (river) - VitorSSSouza
 
-To Be Deprecated  devices
+Motorola Moto G7 Power (ocean) - VitorSSSouza
+
+One Plus devices
 ------------------------------------------
-Xiaomi Redmi Note 6 Pro (twolip) - Nitesh Kumar
+OnePlus 8T (Kebab) - Rounak1619
+
+OnePlus 6 (Enchilada) - ZahidM Choudhry
+
+OnePlus 6T (Fajita) - ZahidM choudhry
+
+Asus devices
+------------------------------------------
+Zenfone Max Shot (A001D) - Matheus Vinicius
+
+If You Don't See your device here , ask someone to build and Officially Support it .

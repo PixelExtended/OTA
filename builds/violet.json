@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_violet-10.0-20200829-1416-OFFICIAL.zip,
-"datetime": 1598710560,
-"size":1494897084,
-"url":"https://sourceforge.net/projects/pixelextended-violet/files/Releases/PixelExtended_violet-10.0-20200829-1416-OFFICIAL.zip/download",
-"filehash":"55203c0a5fc36d6d208c504b09e4b024",
-"version": "10",
-"id": "55203c0a5fc36d6d208c504b09e4b024",
-"donate_url": "https://www.paypal.me/sammyshaurya",
-"website_url":"https://pixelex.ml/",
-"news_url":"https:\/\/t.me\/pixelextended",
+"filename": PixelExtended_violet-11.0-20210518-1723-OFFICIAL.zip,
+"datetime": 1621358580,
+"size":1799408964, 
+"url":"https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended_violet-11.0-20210518-1723-OFFICIAL.zip/download", 
+"filehash":"4b861900486be580f450ccb4133ccd6d", 
+"version": "11", 
+"id": "59d18161a032f28bf5064074c199fda195c5c575d17471a118dc14db581962bc",
+"donate_url": "https://www.paypal.me/aryan65",
+"website_url":"https://pixelextended.me/",
+"news_url":"https:\/\/t.me\/pexupdates",
 "maintainer":"SammyShaurya",
-"maintainer_url":"https:\/\/t.me/sammyshaurya",
-"forum_url":"XDA_THREAD"
+"maintainer_url":"https://t.me/sammyshaurya",
+"forum_url":"https://forum.xda-developers.com/"
 }

@@ -30,12 +30,26 @@ Sound/Vibration[/SIZE]
 [SIZE="3"]Nothing yet[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
 
-[SIZE="5"][b][color=#1a73e8]Features which are curently available: [/color][/b][/SIZE] 
-[SIZE="3"]This is a very Initial build of Android 11 (Stock), some features will be adapted in near future.[/SIZE]
+[SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
+[SIZE="3"] Volte icon
+FP Swipe Gestures
+Smart Charging
+Adaptive Media Playback 
+FOD Customisations
+FP unlock after system reboot
+Notification Logs
+Theming Customisation
+Some few New accents
+Some few New Fonts 
+Some few New lockscreen clocks
+Some few  New icon shapes
 
+As only Essesntial Features will be added so this list will updated whenever there is a new feature[/SIZE]
+
+[SIZE="3"]NOTE :- All possible features are toggleable so you always can choose to be stockish.[/SIZE]
 
 [SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE="6"][url="https://sourceforge.net/projects/pixelextended/Android-11/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][url="https://sourceforge.net/projects/pixelextended/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from Sourceforge Host[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
 [SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Gift me a beer[/u][/color][/b][/url][/SIZE]

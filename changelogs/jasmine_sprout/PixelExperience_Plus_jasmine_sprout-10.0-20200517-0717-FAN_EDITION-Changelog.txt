@@ -1,9 +1,0 @@
-Fixed DT2W
-Fixed device vibration sound manipulation on voip apps
-
-Source:-
-New Redesigned Volume Dialog Ported Directly From AOSPA
-Added 5 new lockscreen clock styles
-Added Google Sound Search tile
-Media Seekbar Improvments
-Fixed Oneplus Slate font

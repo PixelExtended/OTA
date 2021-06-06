@@ -1,9 +1,0 @@
-* August SP is finally here 
-* Added 5 new animated lockscreen clocks 
-* Touch response animation (fwb)
-* Added 2 new Primary Colors
-* Added battery temparature in battery page 
-* Network Traffic Improvemnts 
-
-So that's It ?? 
-We are polishing our source and and moving all seperate for R, If You have any suggestion and ideas drop down in group . Join Main Group for updates and news . 

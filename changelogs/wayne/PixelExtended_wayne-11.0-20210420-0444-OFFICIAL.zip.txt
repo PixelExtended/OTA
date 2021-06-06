@@ -1,0 +1,78 @@
+Xiaomi Mi 6X (wayne) - 20/04/2021
+- Halcyon Kernel v5.4
+- Tune zRAM for size and performance
+- Don't pin camera app in memory to save some good RAM
+- Improve audio quality during video recording
+- Retune media codecs performance
+- Fixed offline charging and USB functions
+- Drop non-functional sound trigger
+- Add hotword input for hotword mic concurrency
+- Add fast input profile for the record concurrency
+- Use the correct Adreno drivers which fixes graphical artifacts
+- Enable fluence voice recording to fix Google Recorder
+- Allow system permission for RPS sysfs node
+- Enable QCRIL radio power saving
+- Decommonize screen density
+- Commonize thermal-engine-config from device
+- Reduce screenshot delay to 0
+- Improve SystemUI elements look
+- Set permission for spidev7.1 IR node
+- sysfs node permission for smart-charging
+- Update vendor security patch level to 2020-08-05
+- Moved some props to system/build.prop
+- Loosen up charging thermal throttling thresholds
+- Kanged more pixel power HAL sepolicy 
+- Added more pixel powerhal nodes
+- Disabled vsync and enabled backpressure
+- Updated telephony overlays
+- Added rules for older IMS blobs 
+- Removed duplicated props
+- Moved qcom props to system_ext
+- Moved props from system to product
+- Updated WFD, GPS, ESE, Time Services, Radio, IMS and WiFi blobs
+- Fix to no longer disconnect WiFi connections before suspending WiFi
+- Start themed_bootanimation before bootanim
+- Initialize powerHAL when boot is complete
+- Don't build tinymix since is not needed in production
+- Set loop max part to 7 to avoid endless loop for apex through TWRP
+- Build new GNSS stack
+- Imported GPS configs
+- Fix android.hardware.sensors VINTF
+- Silence logspam
+- Shorten wait time for services exit to optimize shutdown time
+- Fix microphone issues in apps like WhatsApp, Telegram, etc.
+- Decommonize build fingerprint
+- Fix stereo audio recording
+- Fix sensor service
+- Switch to audio hal v4
+- Switch to AIDL Power HAL
+- Include hardware/google/interfaces and hardware/google/pixel
+- Add qrtr blobs
+- Build power stats and label it
+- Disable WLAN Firmware loggings
+- Set up/down_rate_limit_us as 1000
+- Fix for 50% reduction in Geekbench scores for multi-core
+- FIx for rapid charging problem for higher ambient temperature
+- Loosen up charging thermal throttling thresholds
+- Enable AOSP surfaceflinger (is smoother than CAF)
+- Build wfd dependency blobs from source
+- Enable BluetoothSar v1.1
+- Allow com.qualcomm.location to run in the background
+- Set Google autofill service as default (can be changed later)
+- Switch to wayne thermal blobs
+- Update Korean translations
+- Switch to sdfat driver for exfat 
+- Disable GPU protected composition
+- Enable DFS channel scanning in P2P search
+- Relax WiFi re-association RSSI thresholds
+- Smarter decisions on whether to use a 2Ghz or 5Ghz AP
+- Add Mi Sound to DeviceSettings
+- Decommmonize cnss-daemon (WiFi)
+- Fix some camera denials
+
+Notes:
+- Clean flash mandatory
+- Decrypted build
+- Fix UI lags by:
+    - Rebooting once to fix live wallpaper lag or using a static wallpaper instead
+    - Disabling windows blur option under Display settings

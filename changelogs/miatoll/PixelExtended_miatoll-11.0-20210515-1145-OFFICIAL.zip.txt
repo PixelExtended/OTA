@@ -1,0 +1,14 @@
+Changelog - 2021/05/15
+
+ - Compiled With Fully Decommonized tree/vendor
+ - Arrow Kernel By default (thanks to sonal)
+ - Fixed Random Reboots 
+ - Widevine L1 fixed 
+ - Switched to source built perf 
+ - Sepolicy Cleanup
+ - Removed XiaomiParts and added only doze ability
+ - Added GcamGo as default cam 
+ - Imported USB init scrits from stock , might fix MTP issue
+ - Enabled Adaptive Color mode 
+ 
+ Performance and stability improvments .
