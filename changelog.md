@@ -1,5 +1,25 @@
 # Changelog
 
+  # V2.8 (19.06.2021) Broken Patches 
+  
+  - Patches and FP updated to June !
+  - Android 12 and OOS qs tint style 
+  - Improvments to 3 finger SS
+  - Redesigned Volume Panel From AOSPA
+  - Colored StatusBar icons 
+  - Implemented Descendant Seamless Clock Switch 
+  - Fixed net traff after an overlay change
+  - Updated ASUS stitch image and made it default SS service
+  - Redesigned Pocket mode view like OOS
+  - Fixed Overlays getting reset after a reboot
+  - Fixed StatusBar DT2S toogle
+  - Fixes to LS Custom Clocks
+  - Added OnePlus LockScreen Clocks
+  - Allow changing face unlock method when locked 
+  - Added toggle to completely hide status bar on lockscreen
+  - Added SystemWide Font Service from Carbon 
+  - Cleaned sources a lil bit 
+
   # V2.7 (16.04.2021) May Patch and OTA 
 
  - Patches And Fingerprints Updated to May 
