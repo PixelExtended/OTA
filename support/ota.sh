@@ -1,8 +1,4 @@
 DEVICE=$1
-MAINTAINER=https://t.me/$2
-MAINTAINER_URL=$3
-FORUM_URL=$4
-
 # Ensures that mandatory parameters are entered
 if [ $# -lt 1 ]; then
     echo "Missing mandatory parameters"
@@ -16,11 +12,8 @@ FILEHASH=$(md5sum out/target/product/$DEVICE/PixelExtended*.zip | cut -d " " -f 
 SIZE=$(wc -c out/target/product/$DEVICE/PixelExtended*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/pixelextended/files/$DEVICE/$FILENAME/download"
 VERSION="11"
-DONATE_URL="https://www.paypal.me/aryan65"
-WEBSITE_URL="https://pixelextended.me/"
-NEWS_URL="https:\/\/t.me\/pexupdates"
 JSON_FMT='{\n"error":false,\n"filename": %s,\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"id": "%s",\n"donate_url": "%s",\n"website_url":"%s",\n"news_url":"%s",\n"maintainer":"%s",\n"maintainer_url":"%s",\n"forum_url":"%s"\n}'
-printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$ID" "$DONATE_URL" "$WEBSITE_URL" "$NEWS_URL" "$MAINTAINER" "$MAINTAINER_URL" "$FORUM_URL" > OTA/builds/$DEVICE.json
+printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$ID" > OTA/builds/$DEVICE.json
 echo OTA/builds/$DEVICE.json file created
 
 BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 3)
