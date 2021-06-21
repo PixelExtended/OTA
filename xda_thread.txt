@@ -35,17 +35,7 @@ Sound/Vibration[/SIZE]
 
 [SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
 [SIZE="3"] Volte icon
-FP Swipe Gestures
-Smart Charging
-Adaptive Media Playback 
-FOD Customisations
-FP unlock after system reboot
-Notification Logs
-Theming Customisation
-Some few New accents
-Some few New Fonts 
-Some few New lockscreen clocks
-Some few  New icon shapes
+https://github.com/PixelExtended/OTA/blob/eleven/changelog.md
 
 As only Essesntial Features will be added so this list will updated whenever there is a new feature[/SIZE]
 
