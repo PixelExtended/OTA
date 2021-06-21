@@ -1,16 +1,10 @@
 {
 "error":false,
-"filename": PixelExtended_miatoll-11.0-20210515-1145-OFFICIAL.zip,
-"datetime": 1621079100,
-"size":1817046209, 
-"url":"https://sourceforge.net/projects/pixelextended/files/Miatoll/PixelExtended_miatoll-11.0-20210515-1145-OFFICIAL.zip/download", 
-"filehash":"cc4b4c0261f6bdc02f9bd7f499d860f6", 
+"filename": PixelExtended_miatoll-11.0-20210621-0432-OFFICIAL.zip,
+"datetime": 1624249920,
+"size":1773511555, 
+"url":"https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-11.0-20210621-0432-OFFICIAL.zip/download", 
+"filehash":"61b99ec48adebdce533f2a73c7000365", 
 "version": "11", 
-"id": "0e1a4cf47d2225da808eb6f4fa2172b6671c84e9164e5985c66ee86c0bcdd02a",
-"donate_url": "https://www.paypal.me/aryan65",
-"website_url":"https://pixelextended.me/",
-"news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"Aryan Gupta",
-"maintainer_url":"https://t.me/heisinbug",
-"forum_url":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-r-miatoll-07-02-21.4230021/"
+"id": "c616152025e8756051f912d02373d6c46c5135cc640192502a40df4cdc870eeb"
 }

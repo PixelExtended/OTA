@@ -13,7 +13,7 @@ FILEHASH=$(md5sum out/target/product/$DEVICE/PixelExtended*.zip | cut -d " " -f 
 SIZE=$(wc -c out/target/product/$DEVICE/PixelExtended*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/pixelextended/files/$DEVICE/$FILENAME/download"
 VERSION="11"
-JSON_FMT='{\n"error":false,\n"filename": %s,\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"id": "%s",\n"donate_url": "%s",\n"website_url":"%s",\n"news_url":"%s",\n"maintainer":"%s",\n"maintainer_url":"%s",\n"forum_url":"%s"\n}'
+JSON_FMT='{\n"error":false,\n"filename": %s,\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"id": "%s"\n}'
 printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$ID" > OTA/builds/$DEVICE.json
 echo $ROMDIR/OTA/builds/$DEVICE.json file created
 
