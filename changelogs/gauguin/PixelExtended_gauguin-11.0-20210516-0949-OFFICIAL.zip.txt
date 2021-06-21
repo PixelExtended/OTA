@@ -1,6 +1,8 @@
-       changelog - 2021-5-16
+       changelog - 2021-6-21
 
-       - intial official build
-       - inline with nezuko trees
-       - fixed mobile data issue
-       - tune zram performance
+       - Added smart charging to settings
+
+       - Updated blobs to 12.5.2.0
+       
+       
+       
