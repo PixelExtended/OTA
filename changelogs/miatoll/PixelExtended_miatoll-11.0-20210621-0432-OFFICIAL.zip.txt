@@ -1,0 +1,12 @@
+Changelog - 2021/06/21
+
+Switched To New Positron kernel
+Fixed Widevine L1 for joyeuse too
+Added PowerOffAlarm and updated TimeService
+Improved Fingerprint responsiveness time (fast like a flash)
+Enabled IORap app launch prefetching
+Dropped Lineage Live Display 
+Remove virtual framebuffer to reduce janks
+Boosted performance by skipping EAS
+Major tree overhaul to reduce UI janks that were present in my previous builds,
+UI janks reduced to nearly 0 , thanks to my tester Akash
