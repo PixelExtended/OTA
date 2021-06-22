@@ -1,0 +1,5 @@
+Initial official release
+Updated stock blobs from MIUI 21.6.7
+Upstreamed SurgeX kernel 4.14.237
+Move xiaomi part to system settings
+Disable Blurs
