@@ -22,6 +22,8 @@ Xiaomi Mi 6X (wayne) - Christian de la Cruz
 
 Xiaomi Mi 10i/Mi10t lite/ Redmi Note 9 Pro 5G (Gauguin) - Seif Shahin
 
+Xiaomi Redmi Note 8/8T (ginkgo/willow) - Anupam
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
