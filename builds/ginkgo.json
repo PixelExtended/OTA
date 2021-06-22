@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": PixelExtended_ginkgo-11.0-20210128-1130-OFFICIAL.zip,
-"datetime": 1611833400,
-"size": 10384273994,
-"url":"https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended_ginkgo-11.0-20210128-1130-OFFICIAL.zip/download",
-"filehash":"cf306263a194a3528550e5a4f0ebf2a8",
+"filename": PixelExtended_ginkgo-11.0-20210622-0559-OFFICIAL.zip,
+"datetime": 1624341540,
+"size": 1522703576,
+"url":"https://sourceforge.net/projects/pixelextended/files/ginkgo/PixelExtended_ginkgo-11.0-20210622-0559-OFFICIAL.zip/download",
+"filehash":"b522fa1c97f70d004c185d0912b5d7b4",
 "version": "11",
-"id": "cf306263a194a3528550e5a4f0ebf2a8",
+"id": "86b2c477c73ec15ea0dc1a42acf8890c60de9c01c337b6bee3b2b6cd1fb7f8a4"
 "donate_url": "https://www.paypal.me/aryan65",
 "website_url":"https://pixelextended.me/",
 "news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"VitorSSSouza",
-"maintainer_url":"https://t.me/VitorSSSouza",
-"forum_url":""
+"maintainer":"Anupam",
+"maintainer_url":"https://t.me/monster7211",
+"forum_url":"https://forum.xda-developers.com/t/rom-11-pixel-extended-for-redmi-note-8-8t-unified-official.4287515/"
 }
