@@ -1,0 +1,6 @@
+Changelog - 2021/06/23
+
+Fixed fps overlay
+June security patch
+PixelExtended source upstream.
+Other misc improvements.
