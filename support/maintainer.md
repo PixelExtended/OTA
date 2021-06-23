@@ -24,6 +24,8 @@ Xiaomi Redmi Note 8/8T (ginkgo/willow) - Anupam
 
 Xiaomi Redmi Note 9 (Merlin) - Seif Shahin
 
+Xiaomi Poco X3 Pro (vayu/bhima) - Christian de la Cruz
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
