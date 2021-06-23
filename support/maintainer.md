@@ -44,6 +44,8 @@ OnePlus 6 (Enchilada) - ZahidM Choudhry
 
 OnePlus 6T (Fajita) - ZahidM choudhry
 
+OnePlus Nord (Avicii) - Manikanta Raavi
+
 Asus devices
 ------------------------------------------
 Zenfone Max Shot (A001D) - Matheus Vinicius
