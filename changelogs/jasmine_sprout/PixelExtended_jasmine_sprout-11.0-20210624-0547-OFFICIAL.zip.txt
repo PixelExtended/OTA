@@ -1,0 +1,9 @@
+Changelog - 2021/06/24
+
+Fixed Video Calling Over LTE (Vilte : Tested on Airtel, Jio)
+Fix bad geekbench scores
+Turn on VoLTE and VoWifi for many regions
+Address SELinux Denials
+Add  Thermal Profiles In battery
+Improve Audio &  Vibration
+Improve Stability and Performance
