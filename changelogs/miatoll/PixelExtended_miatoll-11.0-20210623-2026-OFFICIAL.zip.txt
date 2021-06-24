@@ -1,0 +1,10 @@
+HOT Fix Build - 2021/06/21
+
+Fixed Weird Vibration Issue for some users
+Added Doze Support
+Fixed opening of locked App from notification
+Fixed Lockscreen Equalizer
+Enabled QC ril power saving
+Cleaned some kernel board flags
+Switched Partially to prebuilt audio hal
+
