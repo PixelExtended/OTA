@@ -26,12 +26,6 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
 
-Motorola devices
-------------------------------------------
-Motorola Moto G7 (river) - VitorSSSouza
-
-Motorola Moto G7 Power (ocean) - VitorSSSouza
-
 One Plus devices
 ------------------------------------------
 OnePlus 8T (Kebab) - Rounak1619
