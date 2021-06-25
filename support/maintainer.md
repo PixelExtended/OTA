@@ -26,6 +26,8 @@ Xiaomi Redmi Note 9 (Merlin) - Seif Shahin
 
 Xiaomi Poco X3 Pro (vayu/bhima) - Christian de la Cruz
 
+Xiaomi Redmi 9/Poco M2 (Lava) - Seif Shahin
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
