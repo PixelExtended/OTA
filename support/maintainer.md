@@ -8,6 +8,8 @@ Xiaomi Mi A2 (jasmine) - Immanuel Raj & Naeem Mansuri
 
 Xiaomi Mi 9T Pro/Redmi K20 Pro (raphael) - Ralf979
 
+Xiaomi POCO F1 (beryllium) - Sourav™
+
 Xiaomi Poco X2/Redmi K30 (Phoenix) - Ankan Ghosh
 
 Xiaomi Redmi Y2/S2 (ysl) - ItsMeZyrus
