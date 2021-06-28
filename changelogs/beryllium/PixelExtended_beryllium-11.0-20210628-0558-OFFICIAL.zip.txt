@@ -1,0 +1,10 @@
+Changelog - 28/06/2021
+
+Initial OFFICIAL Build
+Upstreamed kernel to Linux 4.9.273
+Added Bass Booster Preset
+Changed Default Screen Timeout
+Enabled Blur By Default
+Renamed Thermal Profiles
+Added Tile for Thermal Profiles
+Misc Improvements
