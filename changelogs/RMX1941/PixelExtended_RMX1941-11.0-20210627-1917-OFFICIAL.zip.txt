@@ -1,6 +1,5 @@
  Changelog - 28/06/2021
 
 Initial official build
-Fixed hotspot
 Updated blobs C.55
 Some misc improvements
