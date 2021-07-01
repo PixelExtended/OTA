@@ -34,8 +34,6 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
 
-Realms C2 (RMX1941) - Anoos Ragh
-
 One Plus devices
 ------------------------------------------
 OnePlus 8T (Kebab) - Rounak1619
