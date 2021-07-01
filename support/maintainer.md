@@ -48,6 +48,5 @@ OnePlus Nord (Avicii) - Manikanta Raavi
 
 Asus devices
 ------------------------------------------
-Zenfone Max Shot (A001D) - Matheus Vinicius
 
 If You Don't See your device here , ask someone to build and Officially Support it .
