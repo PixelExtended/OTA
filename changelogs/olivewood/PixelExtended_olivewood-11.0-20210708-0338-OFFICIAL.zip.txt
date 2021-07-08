@@ -1,0 +1,10 @@
+Changelog - 2021/07/08
+
+Device side 
+- Fixed Whatsapp encoding issues
+- added prwbuilt gallery go 
+- fixed powerhal logspam
+- Fixed Rcs logspam
+- Added XiaomiParts
+- Builded 2.2 thermal hals
+
