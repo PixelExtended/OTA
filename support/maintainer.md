@@ -34,6 +34,10 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
 
+Motorola devices
+------------------------------------------
+Motorola Moto G5 Plus (potter) - leoxsys
+
 One Plus devices
 ------------------------------------------
 OnePlus 8T (Kebab) - Rounak1619
