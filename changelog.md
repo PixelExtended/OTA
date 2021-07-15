@@ -1,5 +1,23 @@
 # Changelog
 
+  # V2.9 (15.07.2021) ACE !
+  
+  - Patches And FP Updated to July 
+  - Cleaned and Rebased whole sauce to Pixel Exp. Plus Version
+  - Re: Added Ability to hide statusbar in Lockscreen 
+  - Added Android 12 switch styles 
+  - Added Android 12 Clock Styles
+  - Added Fluid V2 clock styles
+  - Moved Battery Icon To QS header
+  - Added BS slider Customizations 
+  - Introduced OOS/ShapeShift and P404 vol panels
+  - Intrduced Dynamic Volte Icon
+  - Added Volume Buttons Customizations
+  - Added Hardware Buttons Customizations
+  - Added Quick QS Pull Down
+  - Fixed Statusbar Brightness Contorl 
+  - Some Feature are removed nd cleaned cz they were causing System Instability i.e. Media player toogle and Adv. Gestures , might add these in future updates .
+  
   # V2.8 (19.06.2021) Broken Patches 
   
   - Patches and FP updated to June !
