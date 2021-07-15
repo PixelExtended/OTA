@@ -15,6 +15,7 @@
   - Added Volume Buttons Customizations
   - Added Hardware Buttons Customizations
   - Added Quick QS Pull Down
+  - Fixed QS Blur optimisation (real glass feel now)
   - Fixed Statusbar Brightness Contorl 
   - Some Feature are removed nd cleaned cz they were causing System Instability i.e. Media player toogle and Adv. Gestures , might add these in future updates .
   
