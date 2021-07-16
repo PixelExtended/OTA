@@ -1,5 +1,5 @@
 DEVICE_JSON_URL="https://raw.githubusercontent.com/PixelExtended/OTA/eleven"
-DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/eleven/changelogs/${DEVICE}"
+DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/eleven/changelogs/"
 CHANGED_FILE="$(git diff --name-only HEAD~1 | head -1)"
 
 if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
@@ -7,9 +7,10 @@ if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
     exit 0
 fi
 
+DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
 PHOTO="banner.jpeg"
 BUILD_DATE="$(date +'%d-%b-%Y' -d @$(jq .datetime ${CHANGED_FILE}))"
-CHANGELOG="${DEVICE_CHANGELOG_URL}/$(jq -r '.filename' "${CHANGED_FILE}")"
+CHANGELOG="${DEVICE_CHANGELOG_URL}${DEVICE}/$(jq -r '.filename' "${CHANGED_FILE}")"
 SFLINK="$(jq -r '.url' "${CHANGED_FILE}")"
 DEVICE_NAME="$(jq -r '.device_name' "${CHANGED_FILE}")"
 PEXV="V2.9"
