@@ -1,0 +1,5 @@
+Changelog - 2021/07/16
+
+Device side
+- Added Google Screen Recorder
+- Improved MotoActions UI
