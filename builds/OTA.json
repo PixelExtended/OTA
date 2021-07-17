@@ -1,16 +1,14 @@
 {
 "error":false,
-"filename": PixelExtended_miatoll-11.0-20210212-1747-OFFICIAL.zip,
-"datetime": 1613152020,
-"size":1924110804, 
-"url":"https://sourceforge.net/projects/pixelextended/files/Android11/PixelExtended_miatoll-11.0-20210212-1747-OFFICIAL.zip/download", 
-"filehash":"5e4fcefdb3636d94f42b31ea7ec88811", 
+"filename": "PixelExtended_avicii-11.0-20210716-0630-OFFICIAL.zip",
+"datetime": 1626493440,
+"size":1870132182, 
+"url":"https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-11.0-20210716-0630-OFFICIAL.zip/download", 
+"filehash":"15b8e1c88447c7d805af2917845e4053", 
 "version": "11", 
-"id": "5e4fcefdb3636d94f42b31ea7ec88811",
-"donate_url": "https://www.paypal.me/aryan65",
-"website_url":"https://pixelextended.me/",
-"news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"Christian de la Cruz",
-"maintainer_url":"https://t.me/chdelacr",
-"forum_url":"https://forum.xda-developers.com/"
+"id": "b2920b425ab335c6b3c6e8ae36e73162f999887925cd6dc2ee68bded852603af", 
+"tg_username": "AlwaysAngry", 
+"device_name":"OneplusNord", 
+"device":"avicii", 
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-11-0-oneplusnord-avicii-23-06-2021.4279755/"
 }
