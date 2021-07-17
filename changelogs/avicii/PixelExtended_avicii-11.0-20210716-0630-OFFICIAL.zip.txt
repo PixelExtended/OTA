@@ -1,1 +1,10 @@
-avicii:test
+Changelog - 2021/07/17
+
+-Updated vendor from OOS 11.1.4.4
+-Updated firmware from OOS 11.1.4.4
+-Updated kernel from OOS 11.1.4.4
+-Improved FOD
+-Fixed issues with smart charging
+-Added suppport for ORFP recovery
+
+NOTE:FOD CUSTOMISATIONS ARE NOT AVAILABLE THIS MONTH & WILL BE ADDED IN NEXT UPDATE
