@@ -1,0 +1,10 @@
+Changelog - 2021/07/17
+
+-Updated blobs from 9R
+-Added OOS Camera
+-Switched to Horizon Kernel
+-Improved Haptics
+-Fixed rounded corner having white lines
+-Rebased trees and cleaned alot of stuff
+
+NOTE:FOD CUSTOMISATIONS ARE NOT AVAILABLE THIS MONTH & WILL BE ADDED IN NEXT UPDATE
