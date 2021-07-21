@@ -1,0 +1,7 @@
+Changelogs - 21/07/21
+
+Neolit kernel by default
+Moved RealmeParts to system
+Added Performance Profile config
+Merged July security patch
+PixelExtended source upstream.
