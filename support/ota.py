@@ -30,4 +30,4 @@ device=input("\nEnter your device full name :- eg Poco M2 Pro : ")
 xda=input("\nEnter Your device's XDA post link : ")
 
 # OTA/TG
-os.system("bash OTA/support/ota.sh %s %s %s %s"%(codename,tgname,device,xda))
+os.system("bash OTA/support/ota.sh '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda))
