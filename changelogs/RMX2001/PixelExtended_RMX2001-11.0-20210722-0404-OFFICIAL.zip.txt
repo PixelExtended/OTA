@@ -1,0 +1,7 @@
+Changelogs - 2021/07/22
+
+Neolit kernel by default
+Merged July sp
+Moved RealmeParts to system
+Added Performance Profile config
+Misc improvements
