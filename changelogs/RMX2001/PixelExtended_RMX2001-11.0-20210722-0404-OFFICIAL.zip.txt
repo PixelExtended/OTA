@@ -1,7 +1,7 @@
 Changelog - 2021/07/22
 
-Merged July SP
+Merged july SP
 Neolit kernel by default
-Moved RealmeParts inside system
+Moved RealmeParts to system
 Added PerformanceProfile config
 some misc improvements
