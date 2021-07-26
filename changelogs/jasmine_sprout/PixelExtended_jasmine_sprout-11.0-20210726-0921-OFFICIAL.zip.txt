@@ -1,0 +1,13 @@
+Changelog - 2021/07/26
+
+1) Fixed Battery drain issues
+2) Fixed battery usage/battery stats (done as said xd)
+3) Updated wifi configs from latest sdm660 4.19 caf tag (Better wifi)
+4) Updated carrier configs from sdm660 4.19 latest caf tag (Many should have the carrier based stuff enabled/disabled sorry if it got disabled)
+5) Reverted back to Curtana RIL blobs
+6) Merged latest sdm660 4.19 caf tag in kernel
+7) Merged latest sub version from google
+8) Now device always has a updated vendor security patch (hax)
+9) Added some misc stuff to make the rom whole smoother
+
+Note :- OTA Pushed....Clea flash always recomended dirty update is fine too
