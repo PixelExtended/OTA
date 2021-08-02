@@ -1,16 +1,14 @@
 {
 "error":false,
-"filename": PixelExtended_fajita-11.0-20210620-1829-OFFICIAL.zip,
-"datetime": 1624213740,
-"size":1214377941,
-"url":"https://sourceforge.net/projects/pixelextended/files/fajita/PixelExtended_fajita-11.0-20210620-1829-OFFICIAL.zip/download",
-"filehash":"08f5809bf1c6061f6b85727361805a6d",
-"version": "11",
-"id": "8c363f45e18fabceec0d675ed14ebeba80a90ac6a6b0b0a6bf3c0861f984f434",
-"donate_url": "https://www.paypal.me/aryan65",
-"website_url":"https://pixelextended.me/",
-"news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"https://t.me/pex",
-"maintainer_url":"ZahidM Choudhry",
-"forum_url":"https://t.me/zahidmgsk"
+"filename": "PixelExtended_fajita-11.0-20210802-0712-OFFICIAL.zip",
+"datetime": 1627888320,
+"size":1048295497, 
+"url":"https://sourceforge.net/projects/pixelextended/files/fajita/PixelExtended_fajita-11.0-20210802-0712-OFFICIAL.zip/download", 
+"filehash":"0de07bb0570df13b759a9465f7503152", 
+"version": "11", 
+"id": "002365879d63e059ed143d5151511b0fc78e369391b567184f39c72fb8655da9", 
+"tg_username": "zahdmgsk", 
+"device_name":"OnePlus 6T", 
+"device":"fajita", 
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-2-8-oneplus-6-6t.4294487/"
 }

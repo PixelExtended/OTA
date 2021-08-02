@@ -1,0 +1,10 @@
+Changelog - 2021/08/01
+
+- CTS Passed with & without Magisk
+- Added OP cam flushable support
+- Device Settings: Updated doze icon
+- overlay: Use OnePlus pocket sensor for Pocket Judge
+- overlay: Enabled Adaptive Charging
+- overlay: Set screen off delay to 0 **This Fixes flicker issue when entering AOD
+- overlay: Default to gesture navigation
+- overlay: Disable UI touch sounds & Bluetooth by default
