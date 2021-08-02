@@ -1,16 +1,14 @@
 {
 "error":false,
-"filename": PixelExtended_enchilada-11.0-20210619-1057-OFFICIAL.zip,
-"datetime": 1624100220,
-"size":1215618716,
-"url":"https://sourceforge.net/projects/pixelextended/files/enchilada/PixelExtended_enchilada-11.0-20210619-1057-OFFICIAL.zip/download",
-"filehash":"aa1f70a9abc1214e04420c060c27a0dc",
-"version": "11",
-"id": "00f273986d82e3f483dafe1411b6cf004eecd2e852ed3f0ffb1f062e093196ff",
-"donate_url": "https://www.paypal.me/aryan65",
-"website_url":"https://pixelextended.me/",
-"news_url":"https:\/\/t.me\/pexupdates",
-"maintainer":"https://t.me/pex",
-"maintainer_url":"ZahidM Choudhry",
-"forum_url":"https://t.me/zahidmgsk"
+"filename": "PixelExtended_enchilada-11.0-20210801-1536-OFFICIAL.zip",
+"datetime": 1627832160,
+"size":1048580337, 
+"url":"https://sourceforge.net/projects/pixelextended/files/enchilada/PixelExtended_enchilada-11.0-20210801-1536-OFFICIAL.zip/download", 
+"filehash":"f9eb58a2a3d702ec3091588e5a255b80", 
+"version": "11", 
+"id": "cd651b5b928d46f064400cbef63e0721dde2f90c7bee6253746a36480b3b4752", 
+"tg_username": "zahidmgsk", 
+"device_name":"OnePlus 6", 
+"device":"enchilada", 
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-2-9-oneplus-6-6t.4294487/"
 }
