@@ -1,5 +1,5 @@
 Changelog - 2021/08/02
- 
+
 - CTS Passed with & without Magisk
 - Added OP cam flushable support
 - Device Settings: Updated doze icon
