@@ -1,5 +1,22 @@
 # Changelog
 
+  # V3.0 (15.08.2021) The Slayer !
+  
+  - Patches and FP Updated to August 
+  - Improved and Fixed Android S clock
+  - Made Net Traff moar saaxyyy ! 
+  - Charging animation at keyguard
+  - Restore bypass lockscreen after face unlock
+  - Restored a moar minimal nd practical Advance gestures , removed useless actions and kept only practical ones .
+  - Bs Slider Customisations (Positioning)
+  - Re-Implemented FOD Customisations (better than before)
+  - Fixed a case where qs is being pulled when triggering DT2S
+  - Double Tap to trigger doze 
+  - Introduced awesome brightness slider style
+  - Introduced user interface for Alert Sliders
+  - Allow disabling fingerprint wake-and-unlock
+  - A lil late but HAPPY INDEPENDENCE DAY to you all !
+
   # V2.9 (15.07.2021) ACE !
   
   - Patches And FP Updated to July 
