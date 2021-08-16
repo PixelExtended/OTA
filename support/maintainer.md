@@ -30,6 +30,8 @@ Xiaomi Poco X3 Pro (vayu/bhima) - Christian de la Cruz
 
 Xiaomi Redmi 9/Poco M2 (Lava) - Seif Shahin
 
+Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice) - Pranay Kiran
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker
