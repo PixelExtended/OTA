@@ -35,4 +35,4 @@ DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
 *Channel* : @pexupdates
 *Site* : pixelextended.me
 
-#PEX #${DEVICE}"
+#PEX #${DEVICE}" #Fan_Edition
