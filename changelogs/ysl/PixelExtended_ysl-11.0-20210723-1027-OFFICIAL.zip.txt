@@ -1,0 +1,8 @@
+Changelog - 2021/07/23
+
+* Enable zram-writeback job 
+* Update blobs from daisy 
+* Remove unused audio flag 
+* Bump to June fp
+* Other misc changes
+* Used LOGAN upstreamed Kernel 4.9.276
