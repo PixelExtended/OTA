@@ -1,0 +1,5 @@
+Changelog - 2021/08/16
+
+Device Side:
+-Small changes and improvements
+-Added some overlays for battery life
