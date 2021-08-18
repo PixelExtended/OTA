@@ -1,0 +1,13 @@
+Changelog - 2021/08/17 
+• Fixed Most of the Issues Related to Mic/Audio 
+• Fixed Can't Turn Off DT2W 
+• Fixed "Squared App Opening Animation" 
+• Fixed Lags with Blur Enabled 
+• Upstreamed Kernel to .280 
+• Updated To Aug Redfin FP 
+• Switch To GcamGO as Default Camera 
+• Address Lots of Denials 
+• Switched back To Old Thermal Engine 
+• Battery Backup Should be Slightly better 
+• Switched to Unitrix Kernel
+• Misc Optimizations.
