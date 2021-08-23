@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_ysl-11.0-20210723-1027-OFFICIAL.zip",
-"datetime": 1627036020,
-"size":1357069693, 
-"url":"https://sourceforge.net/projects/pixelextended/files/ysl/PixelExtended_ysl-11.0-20210723-1027-OFFICIAL.zip/download", 
+"filename": "PixelExtended_ysl-11.0-20210824-1027-OFFICIAL.zip",
+"datetime": 1627036010,
+"size":1357069694, 
+"url":"https://sourceforge.net/projects/pixelextended/files/ysl/PixelExtended_ysl-11.0-20210824-1027-OFFICIAL.zip/download", 
 "filehash":"20bca3afcb0af764487748df2d432847", 
 "version": "11", 
 "id": "69cdbf682254c56437b385434b2c3096a8ee65ab13f6f0c308e6587f70ba111a", 
-"tg_username": "ItsMeZyrus", 
-"device_name":"Redmi S2/Y2", 
-"device":"ysl", 
+"tg_username": "ItMeZyrus", 
+"device_name":"Redmi Y2", 
+"device":"ysl/s2", 
 "xda_thread":"https://forum.xda-developers.com/t/pixel-extended-official-2-7-for-redmi-y2-s2-ysl.4267161/"
 }
