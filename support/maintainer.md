@@ -38,7 +38,4 @@ OnePlus 8T (Kebab) - Rounak1619
 
 OnePlus Nord (Avicii) - Manikanta Raavi
 
-Asus devices
-------------------------------------------
-
 If You Don't See your device here , ask someone to build and Officially Support it .
