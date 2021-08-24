@@ -18,6 +18,8 @@ Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare                                    
 
 Xiaomi Redmi Note 7 (lavender) - Prashant
 
+Xiaomi Redmi Note 7 (lavender) - Prashant
+
 Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
 
 Xiaomi Redmi 8A Dual (olivewood) - sdm439dev

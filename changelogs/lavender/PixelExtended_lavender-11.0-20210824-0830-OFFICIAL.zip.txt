@@ -1,0 +1,4 @@
+Changelog - 2021/08/24
+- Initial official build
+- Cts passed by default
+- Merged August SP
