@@ -4,7 +4,7 @@ Xiaomi/Redmi devices                                                            
 -----------------------------------                                                                                     
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - Aryan Gupta                                                              ✅
 
-Xiaomi Mi A2 (jasmine) - Immanuel Raj
+Xiaomi Mi A2 (jasmine) - Immanuel Raj                                                                                                       ✅
 
 Xiaomi Mi Note 5 Pro (whyred) - Immanuel Raj                                                                                                ✅
 
