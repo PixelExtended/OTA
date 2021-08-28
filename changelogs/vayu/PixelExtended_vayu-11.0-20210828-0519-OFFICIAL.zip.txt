@@ -1,0 +1,13 @@
+Changelog - 2021/08/28
+- Added back refresh rate toggles
+- Switched to Chaldea kernel
+- Add default values for SurfaceFlinger
+- Added Russian translations for parts
+- Enable pre-rendering feature
+- Fixed lags while using dynamic refresh rate
+- Introduce raise to wake gesture
+- Introduce haptic feedback level adjustment
+- Introduce FPS QS tile
+- Introduce refresh rate QS tile
+- Enable free form windows
+- Fixed night light
