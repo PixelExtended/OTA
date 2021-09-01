@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_olivewood-11.0-20210725-0616-OFFICIAL.zip",
-"datetime": 1627193760,
-"size":1509032904, 
-"url":"https://sourceforge.net/projects/pixelextended/files/olivewood/PixelExtended_olivewood-11.0-20210725-0616-OFFICIAL.zip/download", 
-"filehash":"60f2ef3799794c0e0b0c9d37826b207a", 
+"filename": "PixelExtended_olivewood-11.0-20210901-0932-OFFICIAL.zip",
+"datetime": 1630488720,
+"size":1387766470, 
+"url":"https://sourceforge.net/projects/pixelextended/files/olivewood/PixelExtended_olivewood-11.0-20210901-0932-OFFICIAL.zip/download", 
+"filehash":"e5167d68988137cea5d6c3852ddc4aaa", 
 "version": "11", 
-"id": "d152fcedbe3ece0ccc78a0c7437cf25566b37b326038227f1a43dc94c858975c", 
+"id": "16e46277469b873479c0e603d803c5d0d18e1426a96a394d80d710d19fd53253", 
 "tg_username": "sdm439dev", 
 "device_name":"Redmi 8A/8A Dual", 
 "device":"olivewood", 
-"xda_thread":"https://forum.xda-developers.com/t/custom-rom-android11-olivewood-pixel-extended-2-8-official-21-06-2021.4278527/"
+"xda_thread":"https://forum.xda-developers.com/t/custom-rom-android11-olivewood-pixel-extended-2-9-official-26-07-2021.4278527/"
 }

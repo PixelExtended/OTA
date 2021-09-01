@@ -1,0 +1,11 @@
+Changelog - 2021/09/01
+
+• R vendor blobs 
+• Updated all blobs from latest caf tag 
+• New device and vendor tree
+• Fixed WFD 
+• Fixed Vilte 
+• Misc changes for better performance 
+• Switched to oss camera hal 
+• Decreased ram usage 
+• Clean flash mandatory
