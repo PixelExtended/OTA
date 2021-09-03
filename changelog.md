@@ -10,6 +10,7 @@
   - Added ls media player toogle 
   - Add toggle for 60Hz refresh rate on battery saver
   - Dataswitch Tile Improvments 
+  - Enabled Privacy Chart and indicators(toogleable)
   - Enabled StatusBar Location on Net traff for devices with notch too 
 
   Dos. Deux. Duo. However you say it, this is not the day but it's been a year and counting with you guys . Happy Anniversary XD  
