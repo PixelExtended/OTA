@@ -1,0 +1,4 @@
+HOTFIX Build 
+
+-Fixed SafetyNet 
+-Fixed Net Traff On statusbar
