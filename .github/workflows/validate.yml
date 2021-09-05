@@ -1,0 +1,16 @@
+name: Validate JSONs
+
+on: [pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: validate
+        uses: anyone-developer/anyone-validate-json@main
+        with:
+          file-extension: ".json"
+          ignore-files: "README.md,changelog.md,sticker.tgs,banner.jpeg"
+          ignore-directories: "changelog,.git,support"
+          read-path: "builds"

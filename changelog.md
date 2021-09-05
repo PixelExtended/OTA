@@ -1,5 +1,20 @@
 # Changelog
 
+  # V3.1 (01.09.2021*) 1 Year Together :)
+  
+  - Anniversary Release , It's late but bare with me . 
+  - Gaming Mode with your fav pissel experience 
+  - Special Thermal Tuning for games 
+  - Added ability to manage connected hotspot clients 
+  - Added QS media player artwork toogle 
+  - Added ls media player toogle 
+  - Add toggle for 60Hz refresh rate on battery saver
+  - Dataswitch Tile Improvments 
+  - Enabled Privacy Chart and indicators(toogleable)
+  - Enabled StatusBar Location on Net traff for devices with notch too 
+
+  Dos. Deux. Duo. However you say it, this is not the day but it's been a year and counting with you guys . Happy Anniversary XD  
+
   # V3.0 (15.08.2021) The Slayer !
   
   - Patches and FP Updated to August 
