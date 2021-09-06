@@ -1,0 +1,7 @@
+Changelog - 2021/09/06
+
+- Gaming Mode thermal script added 
+- Adopted Source changes
+- Fixed SafetyNet
+
+Enjoy the PEX
