@@ -18,15 +18,17 @@ Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare                                    
 
 Xiaomi Redmi Note 7 (lavender) - Prashant                                                                                                   ✅
       
-Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya
+Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya                                                                                             ❌
 
-Xiaomi Redmi 8A Dual (olivewood) - sdm439dev
+Xiaomi Redmi 8A Dual (olivewood) - sdm439dev                                                                                                ✅
 
 Xiaomi Redmi Note 8/8T (ginkgo/willow) - Anupam                                                                                             ✅
 
 Xiaomi Poco X3 Pro (vayu/bhima) - Christian de la Cruz                                                                                      ✅
 
 Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice) - Pranay Kiran                                           ✅
+
+Xiaomi Redmi Note 6 Pro (tulip) - PinCredible                                                                                               ❌
 
 Realme devices
 ------------------------------------------
