@@ -1,0 +1,24 @@
+Changelog - 2021/09/10
+
+Device Side:
+- New (or old as you want to see it) OSS Vendor (so we shouldn't have the problem of overheating and excessive drain)
+- A10 Firmware is needed
+- Soviet-Star Kernel
+- safetynet works by default
+- with dimlayer
+- and small things....
+
+
+NOTE:
+** clean flash is mandatory
+** A10 Firmware is needed
+** For this version it is not possible to do the OTA update (it will be functional in the next releases)
+
+Installation guide:
+- Back up all your data
+- Flash last A10 Firmware for your region
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
+
+Enjoy the PEX

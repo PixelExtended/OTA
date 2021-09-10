@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_raphael-11.0-20210818-1506-OFFICIAL.zip",
-"datetime": 1629299160,
-"size":1404007460, 
-"url":"https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-11.0-20210818-1506-OFFICIAL.zip/download", 
-"filehash":"b8cbef6bf2ad0a670c510a966251ff04", 
+"filename": "PixelExtended_raphael-11.0-20210910-0526-OFFICIAL_A10-FW.zip",
+"datetime": 1631251560,
+"size":1885801856, 
+"url":"https://", 
+"filehash":"a394bb491bc4224846a51addac814727", 
 "version": "11", 
-"id": "775c000cec8f71dca600926fb838c90cf3e56262f241d8d652c6602a2b1c2fc9", 
+"id": "445eabf874180049f5dbf482423c1c3c5a61f485717320dcf99d938e06b0c65b", 
 "tg_username": "ralf979", 
-"device_name":"Xiaomi Mi 9t pro", 
+"device_name":"Xiaomi Mi 9t Pro", 
 "device":"raphael", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-11-raphael-official-pixel-extended-rom-2-7-17-05-2021.4146471/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-raphael-official-pixel-extended-rom-3-1-05-09-2021.4146471"
 }
