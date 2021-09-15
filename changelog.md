@@ -1,5 +1,14 @@
 # Changelog
 
+  # V3.2 (15.09.2021) Already missing A11 :(
+
+  - Sept. Patch and Safetynet Fixes 
+  - Fixed TTS engine crash 
+  - Added Cloudfare and Adguard DNS as private DNS provider
+  - Made aspect ratio hack configable on app level
+
+  ROM is almost filled with all necessary and working features , don't expect any major Feature Updates . Added a donation link to devices posts , consider donating if you like my project . 
+
   # V3.1 (01.09.2021*) 1 Year Together :)
   
   - Anniversary Release , It's late but bare with me . 
