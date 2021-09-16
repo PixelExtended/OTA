@@ -1,0 +1,6 @@
+Changelog - 2021/09/16
+
+- Updated Firmware to OOS 11.0.5.5
+- Updated Kernel to OOS 11.0.5.5
+- Updated Vendor to OOS 11.0.0.5
+- September security patch	
