@@ -1,0 +1,4 @@
+Changelog - 2021/09/16
+
+Fixed pink tint in camera
+Fixed WFD
