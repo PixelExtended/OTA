@@ -1,0 +1,26 @@
+Changelog - 2021/09/09
+
+Device Side:
+- Add support for Anx camera
+- Fix Dazn & Similar chrash
+- Fix AOD drain
+- Upstreamed Quantic Kernel
+- Safetynet works by default
+- ... and more small improvemente :-D
+
+Flash instructions:
+Clean Flash
+
+1) Go to TWP and flash ROM + inject TWRP
+2) Reboot in TWRP and do FORMAT DATA (wipe data is not yet recommended ... the TWR still does not execute it correctly)
+3) Reboot System
+
+
+Dirty Flash
+
+**** If you are on the previous version you can do a dirty flash (but report the bugs only if you have done clean flash and especially with a log) ****
+
+Go to TWRP and flash the rom + inject TWRP
+Reboot System
+
+Enjoy the PEX

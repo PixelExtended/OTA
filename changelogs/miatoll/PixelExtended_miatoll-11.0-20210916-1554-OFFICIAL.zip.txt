@@ -1,0 +1,5 @@
+Changelog - 2021/09/16
+
+Fixed Netflix/Voot Reboot issue 
+Disabled bluetooth whitelist for AAC codec 
+Improved FP responsivness

@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_RMX2001-11.0-20210820-1614-OFFICIAL.zip",
-"datetime": 1629476040,
-"size":1307782874, 
-"url":"https://sourceforge.net/projects/pixelextended/files/RMX2001/PixelExtended_RMX2001-11.0-20210820-1614-OFFICIAL.zip/download", 
-"filehash":"2ed837178c4e7fc889a9782a3aadb93e", 
+"filename": "PixelExtended_RMX2001-11.0-20210911-1317-OFFICIAL.zip",
+"datetime": 1631366220,
+"size":1295354155, 
+"url":"https://sourceforge.net/projects/pixelextended/files/RMX2001/PixelExtended_RMX2001-11.0-20210911-1317-OFFICIAL.zip/download", 
+"filehash":"aa1a8c6738c50ee62c2fa09b8e205388", 
 "version": "11", 
-"id": "e171e549c9f820c6ca1724df0366fc8e80d784f21b74b25ee8397b90ca0d663f", 
+"id": "ae33e908c18b792f627721474d245980ea79394fe56f78a5f00a160fb6666e54", 
 "tg_username": "UdayRocker", 
-"device_name":"Realme6", 
+"device_name":"Realme 6", 
 "device":"RMX2001", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-rmx2001-pixelextended-v2-9.4280063/#post-85069991"
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-rmx2001-pixelextended-v3-0.4280063/#post-85069991"
 }
