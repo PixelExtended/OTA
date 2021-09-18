@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_juice-11.0-20210906-0217-OFFICIAL.zip",
-"datetime": 1630894620,
-"size":1121728553, 
-"url":"https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-11.0-20210906-0217-OFFICIAL.zip/download", 
-"filehash":"0ebe016d39a363700852909548eac98b", 
+"filename": "PixelExtended_juice-11.0-20210917-1223-OFFICIAL.zip",
+"datetime": 1631881380,
+"size":1122632362, 
+"url":"https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-11.0-20210917-1223-OFFICIAL.zip/download", 
+"filehash":"1a6118652b9af74439173f2e231a2afa", 
 "version": "11", 
-"id": "efa97b747d462b45c8c453a722bc4e667dbf69ca30e81351bfd9ea0616f96533", 
+"id": "7be2ddc6a03b1a88ac13099eb8b42aa91c8d102eb88a845774e3618b56232f75", 
 "tg_username": "kiranpranay", 
 "device_name":"POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G", 
 "device":"juice", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-3-1-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4329747"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-3-2-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4329747/"
 }
