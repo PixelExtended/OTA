@@ -1,0 +1,18 @@
+Device side changelog:
+• olivewood: Enable Battery Health and add prem
+• olivewood: Add new camera2 hardware features
+• olivewood: Switch to lazy WiFi HAL
+• olivewood: rootdir: Update shell scripts from LA.UM.9.6.2.r1- 03600-89xx.0
+• olivewood: overlay: Set google autofill service as default
+• olivewood: Enable zram writeback job scheduler
+• olivewood: Adjust zram write back policy
+• olivewood: rootdir: Hide Magisk Better
+• olivewood: props: Use zram writeback same as pixels
+• olivewood: Copy haptics exclusion config directly from QTl repo
+• olivewood: update sec_config from LA.UM.9.6.2.r1-03300-89xx.0
+• olivewood: update gps configs from LA.UM.9.6.2.r1-02800-89xx.0
+• olivewood: update media_profiles_V1.0.xml from LA.UM.9.6.2.r1-3600-89xx.0
+• R vendor blobs
+• Updated all blobs from latest caf tag 
+• Misc changes for better performance 
+• Fixed all issues related to camera
