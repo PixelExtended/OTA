@@ -1,0 +1,10 @@
+Changelog - 2021/09/17
+
+- Fixed status bar glitch
+- Fixed navigation keys
+- September security patch
+- Upstreamed kernel to latest
+- Adopted Source changes
+- Cleanup graphic props
+
+Enjoy the PEX
