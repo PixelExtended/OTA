@@ -42,7 +42,7 @@ Motorola Moto G5 Plus (potter) - leoxsys                                        
 
 One Plus devices
 ------------------------------------------
-OnePlus 8T (Kebab) - Rounak1619                                                                                                             ✅
+OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi
 
 OnePlus Nord (Avicii) - Manikanta Raavi                                                                                                     ✅
 
