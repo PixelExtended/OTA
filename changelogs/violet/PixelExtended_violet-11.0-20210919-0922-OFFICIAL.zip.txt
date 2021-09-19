@@ -1,0 +1,8 @@
+Changelog - 2021/09/19
+
+Update 3.2 :-
+Updated to sep patch
+removed parts
+Fixed APN not loading by default
+Thermals are more aggresive, use thermals zip at cost of heat
+new gaming mode
