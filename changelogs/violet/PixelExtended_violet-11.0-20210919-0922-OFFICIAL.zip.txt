@@ -1,0 +1,6 @@
+Changelogs for 3.2 :-
+
+Updated 3.2
+Added gaming mode
+Improved thermals
+removed violet parts
