@@ -49,11 +49,11 @@ if nbf_date > obf_date:
 
         if codename in line:
             if line[-2] == "✅":
-                print("\nMaintainers file already updated with latest release:\n")
+                print("\nMaintainers file already updated with latest release (" + bf_path + " in line " + str(row + 1) + "):\n")
                 print(line)
                 break
             else:
-                print("\nUpdating maintainers file with latest release:\n")
+                print("\nUpdating maintainers file with latest release (" + bf_path + " in line " + str(row + 1) + "):\n")
                 new_line = line.replace(line[-2], "✅")
 
                 # Replace entire line with green check
