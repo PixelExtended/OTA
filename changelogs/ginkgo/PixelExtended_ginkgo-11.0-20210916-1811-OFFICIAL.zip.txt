@@ -1,0 +1,11 @@
+Changelog - 2021/09/16
+
+- September Security Patch
+- CTS pass
+- Merged LA.UM.9.11.r1-04700-NICOBAR.0 caf tag
+- Added hbm and cabc mode in xiaomiparts
+- Added headphones warning for clear speaker
+- Upstreamed kernel to v4.14.246
+- Relaxed GPU undervolt a bit
+- Added missing qti_whitelist sysconfig
+- Misc optimizations & fixes in kernel
