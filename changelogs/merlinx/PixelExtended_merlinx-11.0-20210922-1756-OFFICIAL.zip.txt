@@ -1,0 +1,5 @@
+- Initial Official Build
+- September Security Patch
+- SafetyNet Passes By Default
+- Pizza Kernel By Default
+- Gapps build
