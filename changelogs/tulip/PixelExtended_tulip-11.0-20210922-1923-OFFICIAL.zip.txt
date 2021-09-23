@@ -1,3 +1,2 @@
 - September security patch
 - Add Some Features to XiaomiParts
-- Bye bye Android 11
