@@ -1,14 +1,14 @@
 {
-    "error":false,
-    "filename": "PixelExtended_tulip-11.0-20210907-2115-OFFICIAL.zip",
-    "datetime": 1631049300,
-    "size":1217661798, 
-    "url":"https://sourceforge.net/projects/pixelextended/files/tulip/PixelExtended_tulip-11.0-20210907-2115-OFFICIAL.zip/download", 
-    "filehash":"6f7f7e1640f257ce4efe84ceda2534e8", 
-    "version": "11", 
-    "id": "ea083e9c43fde21830e53a1b9ddbbc3e14725366e4477fe3edc38a6ab84c12e5", 
-    "tg_username": "PinCredible", 
-    "device_name":"Xiaomi Redmi Note 6 Pro", 
-    "device":"tulip", 
-    "xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v3-1-android-11-tulip-08-09-2021.4329285/"
-    }
+"error":false,
+"filename": "PixelExtended_tulip-11.0-20210922-1923-OFFICIAL.zip",
+"datetime": 1632338580,
+"size":1224951329, 
+"url":"https://sourceforge.net/projects/pixelextended/files/tulip/PixelExtended_tulip-11.0-20210922-1923-OFFICIAL.zip/download", 
+"filehash":"d62837ee40aaa3166ff884f636fef0d1", 
+"version": "11", 
+"id": "cb5c25fbc4765605523e9d8b83a135ffee400d6ed2e8705c7dc5da6e39db01d0", 
+"tg_username": "PinCredible", 
+"device_name":"Xiaomi Redmi Note 6 Pro", 
+"device":"tulip", 
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v3-2-android-11-tulip-22-09-2021.4329285/"
+}
