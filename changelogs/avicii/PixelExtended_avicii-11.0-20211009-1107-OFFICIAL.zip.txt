@@ -1,0 +1,12 @@
+Changelog - 2021/10/09
+-D2TW issue has been solved
+-Ambient display has been added
+-Enabled blurs
+-added touched z-order
+-Hopefully charging info has been fixed testers guess
+-Notch overlay has been added
+-Now you can force apps to igrone notch
+-Enable GBoard rounded corners
+-Clean Flash is recommended
+-Dont use screen off FOD may causes issues 
+
