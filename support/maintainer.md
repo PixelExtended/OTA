@@ -2,7 +2,7 @@ Here's the list of supported devices and their mantainers:
 
 Xiaomi/Redmi devices                                                                                                                    October Update Released 
 -----------------------------------                                                                                     
-Xiaomi✅Redmi✅Note✅9✅S/Pro/Max✅&✅POCO✅M2✅Pro✅(unified✅as✅miatoll)✅-✅Aryan✅Gupta✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - Aryan Gupta ✅
 
 Xiaomi Mi A2 (jasmine) - Immanuel Raj                                                                                                       
 
@@ -12,7 +12,7 @@ POCO F3 / Xiaomi Mi 11X / Redmi K40  (aloth) - Ralf979
 
 Xiaomi Mi 9t Pro (raphael) - Ralf979                                                                                                        
 
-Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare                                                                                                
+Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare ✅                                                                                               
 
 Xiaomi Redmi Note 7 (lavender) - Prashant                                                                                                   
      
@@ -38,8 +38,8 @@ Realme 6 (RMX2001) - UdayRocker
 
 One Plus devices
 ------------------------------------------
-OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi
+OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi ✅
 
-OnePlus Nord (Avicii) - Manikanta Raavi                                                                                                     
+OnePlus Nord (Avicii) - Manikanta Raavi ✅                                                                                                    
 
 If You Don't See your device here , ask someone to build and Officially Support it .
