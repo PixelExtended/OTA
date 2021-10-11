@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_alioth-11.0-20210918-1245-OFFICIAL.zip",
-"datetime": 1631969100,
-"size":1660906301, 
-"url":"https://sourceforge.net/projects/pixelextended/files/alioth", 
-"filehash":"2ced56c525df4341d63560c9556e4a2e", 
+"filename": "PixelExtended_alioth-11.0-20211011-0531-OFFICIAL.zip",
+"datetime": 1633930260,
+"size":1660866420, 
+"url":"https://sourceforge.net/projects/pixelextended/files/alioth/", 
+"filehash":"8cef1765ec18c89347731254a0839bb7", 
 "version": "11", 
-"id": "fd36f3d898c17b4a9bff4560e879fcbeafaa1cfe5bbfd2c0e84fd68edf6ef011", 
+"id": "360ed62dad37e44f18faf9faed4349852694185a4dbbb77c5cd05ad18b13af5d", 
 "tg_username": "ralf979", 
-"device_name":"POCO F3", 
+"device_name":"Poco F3", 
 "device":"alioth", 
 "xda_thread":"https://forum.xda-developers.com/t/rom-11-0-official-alioth-pixel-extended-v3-0-18-08-2021.4273837/"
 }
