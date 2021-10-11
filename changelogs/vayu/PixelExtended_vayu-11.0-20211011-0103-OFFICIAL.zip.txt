@@ -1,0 +1,2 @@
+Changelog - 2021/10/11
+- Slightly restore init.qcom.post_boot.sh to CAF
