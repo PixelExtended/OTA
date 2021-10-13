@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_whyred-11.0-20210916-1209-OFFICIAL.zip",
-"datetime": 1631794140,
-"size":1301224778, 
-"url":"https://sourceforge.net/projects/pixelextended/files/whyred/PixelExtended_whyred-11.0-20210916-1209-OFFICIAL.zip/download", 
-"filehash":"682e6f9b7894640b58c77927a5afaa87", 
+"filename": "PixelExtended_whyred-11.0-20211013-0831-OFFICIAL.zip",
+"datetime": 1634113860,
+"size":1289198600, 
+"url":"https://sourceforge.net/projects/pixelextended/files/whyred/PixelExtended_whyred-11.0-20211013-0831-OFFICIAL.zip/download", 
+"filehash":"1c758caa2efebf2febe9cf8d7fcf2ecc", 
 "version": "11", 
-"id": "3a38eff94ef0d3438b211e917ca88d81be727da56ee3ed0d5123b47fca5aa68c", 
+"id": "d2be0c7ce924b5ee7f4f41c01083f4cb07a270216235fd178b0d865e593004d5", 
 "tg_username": "Immanuel_Raj", 
 "device_name":"Redmi Note 5 Pro", 
 "device":"whyred", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-2021-19-08.4321543/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-2021-19-08.4321543"
 }
