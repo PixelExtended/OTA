@@ -1,5 +1,11 @@
 # Changelog
 
+  # Vertex Update (13.11.2021) !
+ 
+  - Nov Patch Merged
+  _ Added WPA3 support
+  _ Final EOL update of PixelExtended A11 , meanwhile we've stopped shipping A12 cz pe had deleted their temp org stay tuned we will be back soon :) .
+
   # V3.3 (08.10.2021) Boomer !
   
   - Oct Patch merged 
