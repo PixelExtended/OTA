@@ -1,0 +1,22 @@
+Changelog - 2021/10/24
+
+uprev IRadio HAL to 1.5
+
+ update camera configs from MIUI v12.5.8.0 RKFINXM
+
+ update brightness overlays from MIUI V12.5.6.0 RKFMIXM
+
+ update blobs from MIUI v12.5.8.0 RKFMIXM
+
+ Limit screen recorder to 90fps
+
+ Enable burnin protection
+
+ Nuke ANXCamera
+
+ Arrow kernel prebuild
+
+ Increase Camera cutout ringsize wen camera in use ( Front )
+
+Credit: @daniml3 for based device source 
+        @Kik_Buttowski , @GreMaxon for test 

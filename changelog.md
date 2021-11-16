@@ -1,11 +1,17 @@
 # Changelog
 
+  # Vertex Update (13.11.2021) !
+ 
+  - Nov Patch Merged
+  - Added WPA3 support
+  - Final EOL update of PixelExtended A11 , meanwhile we've stopped shipping A12 cz pe had deleted their temp org stay tuned we will be back soon :) .
+
   # V3.3 (08.10.2021) Boomer !
   
   - Oct Patch merged 
   - GamingMode: Option for disable menu overlay
   - GamingMode: opt-out performance profile support
-  - NetworkTaffic: Force enable statusbar location for notch devices too
+  - NetworkTraffic: Force enable statusbar location for notch devices too
   - Add activity indicators to wifi icon 
   
   Yeas we heard about A12 and working on that prolly with CAF too , you will hear from us soon :)
