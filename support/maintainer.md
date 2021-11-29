@@ -32,6 +32,8 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001) - UdayRocker                                                                                                             
 
+Realme 5 Pro (RMX1971) - KSSRAO
+
 One Plus devices
 ------------------------------------------
 OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi 
