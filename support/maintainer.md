@@ -33,7 +33,7 @@ Realme X2 (RMX199x)- Chayan Halder
 Google Devices
 ------------------------------------------
 
-Google Pixel 3A(bonito)- Khuong Hung
+Google Pixel 3A XL(bonito)- Khuong Hung
 
 One Plus devices
 ------------------------------------------
