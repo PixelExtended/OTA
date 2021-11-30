@@ -1,6 +1,0 @@
-Changelog - 2021/09/17
-- Enable AOSP SIM toggle
-- Minor refresh rate improvement
-- Fix SafetyNet issues
-- Fix GoogleCamera video recording issue
-- Allow all 4 rotations

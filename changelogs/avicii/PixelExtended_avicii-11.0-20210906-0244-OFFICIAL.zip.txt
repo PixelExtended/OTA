@@ -1,4 +1,0 @@
-Changelog - 2021/09/06
-
--SafetyNet Fixed
--Force show network traffic on statusbar

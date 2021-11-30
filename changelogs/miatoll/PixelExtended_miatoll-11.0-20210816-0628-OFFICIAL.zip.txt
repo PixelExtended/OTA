@@ -1,8 +1,0 @@
-Changelog - 2021/08/16
-
-Updated Positron To august changes
-Enabled OEM Fast charging overlay
-Added offline charging LED indicator
-Fixed Widevine L1 glitch 
-Bumped vendor security patch
-Build Thermal 2.0 service

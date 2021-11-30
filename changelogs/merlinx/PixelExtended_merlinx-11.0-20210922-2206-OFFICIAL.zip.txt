@@ -1,2 +1,0 @@
-- September security patch
-- Add Some Features to XiaomiParts

@@ -1,7 +1,0 @@
-       Changelog - 21.06.2021
-
-       - initial official build
-       - Kernel Illusion 4.9.267
-       - Pre-Enrolment images embedded
-       - AOD fixes / Auto Brightness 
-

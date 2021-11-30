@@ -1,4 +1,0 @@
-           Changelog - 22.06.2021
-           - Initial OSS vendor build
-           - June security patch
-           - SELinux Enforcing

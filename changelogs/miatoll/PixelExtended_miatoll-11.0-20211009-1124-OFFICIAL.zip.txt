@@ -1,7 +1,0 @@
-Changelog - 2021/10/09
-
-Fixed Notch Behaviour
-Fixed NFC
-Fixed device identity for some users 
-Fixed weird crackling sound 
-Misc. Kernel Improvemnets 

@@ -1,7 +1,0 @@
-Changelog - 2021/09/05 
-• synced : latest source changes.
-• lavender: overlay: Set fast charging indicator threshold to 10.8W
-• lavender: Show "Turbo charging" instead of "Charging rapidly"
-• lavender: overlay: Force show network traffic on statusbar
-• lavender: Force triple frame buffers
-• kernel : Upstreamed neXus-v9

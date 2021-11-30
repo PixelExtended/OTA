@@ -1,4 +1,0 @@
-Changelog - 2021/09/19
--Initial 8T/9R unified builds
--Clean flash recommended
--OOS cam will be added in next build soon

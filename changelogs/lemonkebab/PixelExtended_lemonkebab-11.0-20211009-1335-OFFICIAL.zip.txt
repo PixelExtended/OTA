@@ -1,4 +1,0 @@
-Changelog - 2021/10/09
--Notch overlay has been added
--Now you can force apps to igrone notch
--Addressed various sepolicy denials

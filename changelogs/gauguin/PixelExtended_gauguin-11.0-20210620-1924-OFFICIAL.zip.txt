@@ -1,8 +1,0 @@
-       changelog - 2021-6-21
-
-       - Added smart charging to settings
-
-       - Updated blobs to 12.5.2.0
-       
-       
-       

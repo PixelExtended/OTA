@@ -1,6 +1,0 @@
-Initial Official build
-
-Permissive
-Fixed WFD
-4.19 Kernel
-Dont flash 4.4 kernel

@@ -1,9 +1,0 @@
-Changelog - 2021/09/04
-
--FBE Build
--Added Gcam Go
--Added xiaomi parts
--Eas Kernel
--Moonlight Kernel v3.7 (4.4.282)
--Other Improvements & Fix
--Clean flash Because Of First Official Build

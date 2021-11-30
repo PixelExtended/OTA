@@ -1,8 +1,0 @@
-Changelog - 2021/09/08 (HotFix Build)
-
--SafetyNet Fixed
--Removed Some Unwanted Apps
--Moonlight Kernel v3.8 (4.4.283) Upstream
--Other Improvements & Fix
--FBE Build
--Eas Kernel

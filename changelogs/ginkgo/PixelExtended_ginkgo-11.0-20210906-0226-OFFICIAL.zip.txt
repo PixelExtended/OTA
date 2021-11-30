@@ -1,4 +1,0 @@
-Changelog - 2021/09/06
-
-- Add support for new gaming mode
-- Upstreamed SurgeX kernel to v4.14.246

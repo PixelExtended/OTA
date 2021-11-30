@@ -1,8 +1,0 @@
-Changelog - 2021/11/14
-
-Switched To Prebuilt Audio Hals (Should Be Loud enough now)
-Fixed NotchBarKiller overlay
-Enabled Sim Toogle (Radio Hal 1.5)
-Enabled Full VNDK support
-
-EOL update there wont be any A11 builds now :)

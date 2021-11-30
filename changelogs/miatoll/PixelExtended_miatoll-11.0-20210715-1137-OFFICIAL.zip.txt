@@ -1,7 +1,0 @@
-Changelog - 2021/07/15
-
-- Fixed 33W Charging Overheat issue 
-- Disable SDM downscaler 
-- Fix mic issues in apps like WhatsApp
-- I'm not fake promising you fixed BB that's descent but one thing i promise you is performance, Don't Cry for BB now .
-

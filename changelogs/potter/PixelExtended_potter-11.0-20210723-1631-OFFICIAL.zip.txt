@@ -1,9 +1,0 @@
-Changelog - 2021/07/23
-
-Device side
--Fixed crashes in pixel's den
--Added Bulr option
--Added Google screen recorder
--Using common power hal
--Added tweaks for peformance
-

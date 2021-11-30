@@ -1,8 +1,0 @@
-Changelog - 2021/08/17
-
-- Initial Official Build
-- Shipped with MiBengal kernel
-
-Bugs:
-
-- Status bar spacing, when both network traffic and battery % enabled.

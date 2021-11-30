@@ -1,6 +1,0 @@
-Changelog - 2021/09/04
-
-- Gram R Firmware Required 
-- Gaming Mode thermal script added 
-
-Note :- Flash Firmware Before flashing ROM . Data Formatting Required so backup ur data before doing OTA/flash .

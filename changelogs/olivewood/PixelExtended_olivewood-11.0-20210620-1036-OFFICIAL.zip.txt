@@ -1,8 +1,0 @@
-Device changelogs
-Added prebuilt gcam go.
-Fixed apn issue.
-Fixed lag while screen recording.
-Based on OSS inbuilt vendor tree.
-Added dt2w .
-Enabled real time charging values.
-Added option to disable/enable blur in dev option.

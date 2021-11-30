@@ -1,8 +1,0 @@
-Changelog - 2021/09/11
-Updated To Neolit V3.
-Updated Redfin FP To September.
-Added zram.
-Improved Padding.
-Optimised App launches.
-Boost I/O during bootup to improve boot speed.
-Misc Improvements

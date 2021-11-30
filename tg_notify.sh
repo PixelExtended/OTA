@@ -1,5 +1,5 @@
-DEVICE_JSON_URL="https://raw.githubusercontent.com/PixelExtended/OTA/eleven"
-DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/eleven/changelogs/"
+DEVICE_JSON_URL="https://raw.githubusercontent.com/PixelExtended/OTA/snow"
+DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/snow/changelogs/"
 CHANGED_FILE="$(git diff --name-only HEAD~1 | head -1)"
 
 if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
@@ -14,7 +14,7 @@ BUILD_DATE="$(date +'%d-%b-%Y' -d @$(jq .datetime ${CHANGED_FILE}))"
 CHANGELOG="${DEVICE_CHANGELOG_URL}${DEVICE}/$(jq -r '.filename' "${CHANGED_FILE}")"
 SFLINK="$(jq -r '.url' "${CHANGED_FILE}")"
 DEVICE_NAME="$(jq -r '.device_name' "${CHANGED_FILE}")"
-PEXV="Vertex"
+PEXV="BETA 3"
 XDA="$(jq -r '.xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.tg_username' "${CHANGED_FILE}")"
 DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
@@ -29,7 +29,7 @@ DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
 
 📥 *Download* : [HERE](${SFLINK})
 💬 *XDA thread* : [HERE](${XDA})
-📄*Changelog* : [ROM](https://github.com/PixelExtended/OTA/blob/eleven/changelog.md) | [DEVICE](${CHANGELOG}.txt)
+📄*Changelog* : [ROM](https://github.com/PixelExtended/OTA/blob/snow/changelog.md) | [DEVICE](${CHANGELOG}.txt)
 
 *Support* : @pixelextended
 *Channel* : @pexupdates

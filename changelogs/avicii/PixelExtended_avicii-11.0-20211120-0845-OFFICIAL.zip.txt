@@ -1,7 +1,0 @@
-Changelog - 2021/11/20
--Added all possible codenames to fix sideloading issues
--Reverted GBoard Rounded Corners
--Fixed Know issues 
-
-
--EOL update there wont be any A11 builds now :)

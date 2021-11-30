@@ -1,6 +1,0 @@
-Changelog - 2021/08/16
--Haptics improved
--Switched to perf kernel
--Fixed volume panel location
--Updated Dimensions and Corners 
--Some more Minor optimisations..

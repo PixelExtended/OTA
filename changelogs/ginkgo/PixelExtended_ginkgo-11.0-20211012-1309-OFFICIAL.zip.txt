@@ -1,5 +1,0 @@
-Changelog - 2021/10/12
-
-- October SP
-- Disable Notification LED on willow
-- Fixed Notch Behaviour

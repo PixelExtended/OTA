@@ -1,3 +1,0 @@
-Changelog - 2021/11/17
--Fixed Know Issues
--EOL update there wont be any A11 builds now :)	

@@ -1,4 +1,0 @@
-Changelog - 2021/09/06
-- CTS fixed (Passed by default)
-- Widevine L1 fixxed
-- lavender: Add kpti=off to boot command line 

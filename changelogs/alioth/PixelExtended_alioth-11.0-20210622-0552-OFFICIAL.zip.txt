@@ -1,4 +1,0 @@
-Changelog - 2021/06/22
-
-- updated with Manuel's LOS trees
-- switched to the Quantic Kernel

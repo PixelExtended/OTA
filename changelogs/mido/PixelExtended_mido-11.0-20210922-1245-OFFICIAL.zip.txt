@@ -1,7 +1,0 @@
-Changelog - 2021/09/22
-
-- September security patch
-- Imported various configs from LA.UM.9.6.2.r1-04200-89xx.0
-- Updated Graphics Firmware from daisy
-- Merged device updates from zeelog and shashank
-

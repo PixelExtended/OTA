@@ -1,7 +1,0 @@
-Changelog - 2021/08/16
-Added OP cam
-Fixed issues with volume pannel showing on right side
-Use 60hz on keyguard
-Inject Alert Slider settings into Sound page
-Improve alert slider vibration effects
-Fixed know bugs and more :-)

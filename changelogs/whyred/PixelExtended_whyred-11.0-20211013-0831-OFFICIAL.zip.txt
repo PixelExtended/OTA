@@ -1,8 +1,0 @@
-Changelog - 2021/10/11
-
-Disable sim 1/2 is HD capable notification
-Some agressive optimization from android go for better battery and ram management
-Some read/write optimization
-Cleaned/Added/Removed some system props for smoothness and optimization
-Dont Change kernel (Or else camera will not work)
-Merged latest caf tag in kernel for sdm660 4.19

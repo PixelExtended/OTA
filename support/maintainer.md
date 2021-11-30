@@ -1,36 +1,39 @@
-Here's the list of supported devices and their mantainers:
+Here's the list of supported devices and their mantainers :-
 
-Xiaomi/Redmi devices                                                                                                                    October Update Released 
+Xiaomi/Redmi devices                                                                              
 -----------------------------------                                                                                     
-Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll) - Aryan Gupta
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll)- Aryan Gupta
 
-Xiaomi Mi A2 (jasmine) - Immanuel Raj                                                                                                       
+Xiaomi Mi A2 (jasmine)- Immanuel Raj                                                                                                       
 
-Xiaomi Mi Note 5 Pro (whyred) - Immanuel Raj                                                                                                
+Xiaomi Mi Note 5 Pro (whyred)- Immanuel Raj                                                                                                
 
-POCO F3 / Xiaomi Mi 11X / Redmi K40  (aloth) - Ralf979                                                                                      
+POCO F3 / Xiaomi Mi 11X / Redmi K40  (alioth)- Rounak1619
 
-Xiaomi Mi 9t Pro (raphael) - Ralf979                                                                                                        
+Xiaomi Mi 9t Pro (raphael)- Ralf979                                                                                                        
 
-Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare                                                                                    
+Xiaomi Redmi Note 4/4X (mido)- Aryan Kedare                                                                                    
 
-Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya                                                                                             
+Xiaomi Redmi 8A Dual (olivewood)- sdm439dev                                                                                                
 
-Xiaomi Redmi 8A Dual (olivewood) - sdm439dev                                                                                                
+Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice)- Pranay Kiran                                           
 
-Xiaomi Redmi Note 8/8T (ginkgo/willow) - Anupam                                                                                             
+Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin)- Zaid Khan                                                                               
 
-Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice) - Pranay Kiran                                           
-
-Xiaomi Redmi Note 6 Pro (tulip) - PinCredible                                                                                               
-
-Xiaomi Redmi Note 9 / Redmi 10X 4g (merlinx) - PinCredible                                                                                  
-
-Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin) -Zaid Khan                                                                               
+Xiaomi Redmi 7A (pine)- Hyper-Nub
 
 Realme devices
 ------------------------------------------
-Realme 6 (RMX2001) - UdayRocker                                                                                                             
+Realme 6 (RMX2001)- UdayRocker                                                                                                           
+
+Realme 5 Pro (RMX1971)- Samba Siva Rao 
+
+Realme X2 (RMX199x)- Chayan Halder
+
+Google Devices
+------------------------------------------
+
+Google Pixel 3A(bonito)- Khuong Hung
 
 One Plus devices
 ------------------------------------------

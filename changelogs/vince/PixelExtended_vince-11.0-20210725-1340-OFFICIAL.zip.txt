@@ -1,7 +1,0 @@
-Changelog - 2021/07/25
-
-• Switch to Enforcing 
-• Switched to Pixel Power HAL (libperfmgr) 
-• App opening speeds improved 
-• Address Lots of Denials
-• Misc Optimizations.

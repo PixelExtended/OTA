@@ -1,9 +1,0 @@
-Changelog - 2021/09/16
-
-Clean flash recomended,Dirty flash is ok (If u face issues do clean flash)
-Removed xiaomi parts
-Fixed WFD (Wi-Fi Display)(Screen Cast)
-Moved to QTI Perf (From Pixel perf)
-Dont Change kernel (Or else camera will not work)
-Kernel bumped to 4.19.206 WCS
-Merged latest caf tag in kernel for sdm660 4.19

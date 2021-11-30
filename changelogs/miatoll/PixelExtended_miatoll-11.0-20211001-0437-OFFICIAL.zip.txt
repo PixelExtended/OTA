@@ -1,7 +1,0 @@
-Changelog - 2021/10/01
-
-Decommonized Trees based on LOS trees 
-Disabled Encryption V2 and re-enabled SdCardFS
-Added Anx Cam 
-Performance and stability improvments 
-

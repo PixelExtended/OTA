@@ -1,5 +1,0 @@
-Changelog - 2021/06/21
-
-Updated Thermal Blobs
-Added Missing Smart Charging Values
-Qualcomm MPCTL service to start
