@@ -1,0 +1,8 @@
+Changelog - 2021/11/30
+
+CLEAN FLASH MUST
+Switched to kernel 4.4 (Nekokernel)
+Final Update for PEX Anroid 11 (Only Android 12 updates here after)
+OLD CAM
+DONT CHANGE KERNEL (IF U WANT TO CHANGE GO WITH OLD CAM KERNEL)
+ENCRYPTED

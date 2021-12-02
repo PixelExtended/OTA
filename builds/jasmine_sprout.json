@@ -1,14 +1,14 @@
 {
 "error":false,
-"filename": "PixelExtended_jasmine_sprout-11.0-20211011-1632-OFFICIAL.zip",
-"datetime": 1633969920,
-"size":1207950634, 
-"url":"https://sourceforge.net/projects/pixelextended/files/jasmine_sprout/PixelExtended_jasmine_sprout-11.0-20211011-1632-OFFICIAL.zip/download", 
-"filehash":"1c2cb281c1146a8579bcbb015d79c595", 
+"filename": "PixelExtended_jasmine_sprout-11.0-20211130-1743-OFFICIAL.zip",
+"datetime": 1638294180,
+"size":1293731728, 
+"url":"https://sourceforge.net/projects/pixelextended/files/jasmine_sprout/PixelExtended_jasmine_sprout-11.0-20211130-1743-OFFICIAL.zip/download", 
+"filehash":"3623c8f49c911218ffaf765249dcd003", 
 "version": "11", 
-"id": "17cc3db3585d883e8140e6e31fe2c024f7c5fb3f47087219bc717a60086f6bc6", 
-"tg_username": "Immanuel_Raj", 
+"id": "86c1d2e433ea5cb7607fa44a257b85088633c74de77c1cb873ee6718b44a19b7", 
+"tg_username": "iamimmanuelraj", 
 "device_name":"Xiaomi Mi A2", 
 "device":"jasmine_sprout", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-2021-19-08.4215727/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-11-official-pixel-extended-rom-vertex-2-12-2021.4369597/"
 }
