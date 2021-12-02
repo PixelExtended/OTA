@@ -1,0 +1,8 @@
+Changelog - 2021/12/02
+
+Fixed some thermal drivers hals and issues related to it
+Updated kernel
+November Security Patch
+EOL Update
+See ya in Android 12
+Happy flashing
