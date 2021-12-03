@@ -1,0 +1,12 @@
+Changelog - 2021/12/02
+
+- November security patch
+- Upstreamed kernel to latest
+- Upstreamed PEX sources
+- force enable DT2W
+- Enable camera API v2
+- Improved Stability & Performance Bugs
+- Added NotchBarKiller overlay
+- Added prebuilt GCamGO 
+
+- EOL update, there wont be any A11 builds now :)
