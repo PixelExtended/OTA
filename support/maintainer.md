@@ -22,6 +22,8 @@ Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin)- Zaid Khan
 
 Xiaomi Redmi 7A (pine)- Hyper-Nub
 
+Xiaomi Redmi Note 7 Pro (violet)- Hariprakash
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker                                                                                                           
