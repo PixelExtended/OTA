@@ -14,7 +14,7 @@ Xiaomi Mi 9t Pro (raphael) - Ralf979
 
 Xiaomi Redmi Note 4/4X (mido) - Aryan Kedare                                                                                    
 
-Xiaomi Redmi Note 7 Pro (violet) - SammyShaurya                                                                                             
+Xiaomi Redmi Note 7 Pro (violet) - Hariprakash
 
 Xiaomi Redmi 8A Dual (olivewood) - sdm439dev                                                                                                
 
