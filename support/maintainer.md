@@ -24,6 +24,8 @@ Xiaomi Redmi 7A (pine)- Hyper-Nub
 
 Xiaomi Redmi Note 7 Pro (violet)- Hariprakash
 
+Xiaomi Redmi 7 (onclite)- Aditya Singh
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker                                                                                                           
