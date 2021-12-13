@@ -28,7 +28,9 @@ Xiaomi Redmi 7 (onclite)- Aditya Singh
 
 Realme devices
 ------------------------------------------
-Realme 6 (RMX2001)- UdayRocker                                                                                                           
+Realme 6 (RMX2001)- UdayRocker    
+
+Realme 6 Pro (RMX2061)- NEMESIS_99999 
 
 Realme 5 Pro (RMX1971)- Samba Siva Rao 
 
