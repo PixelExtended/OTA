@@ -1,20 +1,21 @@
 Thread Title :-
-[ROM][OFFICIAL] Pixel Extended ROM V2.8 Android 11 [Miatoll][21.06.21]
+[ROM][OFFICIAL] Pixel Extended ROM V4.0 Android 12 [Miatoll][30.12.21]
 
 [CENTER]
 [img]https://i.imgur.com/pqhas4J.png[/img]
-[SIZE="5"][b][color=#1a73e8]PixelExtended for DeviceName [codename][/color][/b][/SIZE]
 
-[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
-[SIZE="3"]PixelExtended is an AOSP based ROM based on PixelExperience, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, boot animation)
+[SIZE="10"][b][color=#1a73e8]PixelExtended for DeviceName [codename][/color][/b][/SIZE]
+
+[SIZE="5"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="4"]PixelExtended is an Open Source Custom ROM based on PixelExperience, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, boot animation)
 
 Our mission is to offer the maximum possible stability and security, along with essential and useful features missing in Pixel Experience, The ROM will keep it's Pixel ideologies it's primary focus and wont stray into the dark and deep void that is bloat.
 
 Based on Android 12
 [/SIZE]
 
-[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
-[SIZE="3"]Wi-Fi
+[SIZE="5"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="4"]Wi-Fi
 RIL
 Mobile data
 GPS
@@ -29,30 +30,29 @@ NFC
 Lights
 Sound/vibration[/SIZE]
 
-[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
-[SIZE="3"]Nothing yet[/SIZE]
-[SIZE="3"]You tell me[/SIZE]
+[SIZE="5"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="4"]Nothing yet[/SIZE]
+[SIZE="4"]You tell me[/SIZE]
 
-[SIZE="5"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE] 
-[SIZE="3"] Volte icon
-https://github.com/PixelExtended/OTA/blob/snow/changelog.md
+[SIZE="6"][b][color=#1a73e8]Features That are Available At the Moment[/color][/b][/SIZE]
+[SIZE="3"][url="https://github.com/PixelExtended/OTA/blob/snow/changelog.md"][b][color=#1a73e8][u]Click Here To See Features List[/u][/color][/b][/url][/SIZE]
 
 As only Essesntial Features will be added so this list will updated whenever there is a new feature[/SIZE]
 
 [SIZE="3"]NOTE :- All possible features are toggleable so you always can choose to be stockish.[/SIZE]
 
-[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE="3"][url="https://sourceforge.net/projects/pixelextended/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from SourceForge[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="10"][url="https://sourceforge.net/projects/pixelextended/files/DEVICE_NAME/"][b][color=#1a73e8][u]Download from SourceForge[/u][/color][/b][/url][/SIZE]
 
-[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
-[SIZE="3"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="5"][url="https://www.paypal.me/aryan65"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
 
-[SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
-[SIZE="3"][url="https://t.me/pixelextended"][b][color=#1a73e8][u]Our Telegram Group[/u][/color][/b][/url][/SIZE]
-[SIZE="3"][url="https://t.me/pexupdates"][b][color=#1a73e8][u]Our Telegram Channel[/u][/color][/b][/url][/SIZE]
+[SIZE="6"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
+[SIZE="5"][url="https://t.me/pixelextended"][b][color=#1a73e8][u]Our Telegram Group[/u][/color][/b][/url][/SIZE]
+[SIZE="5"][url="https://t.me/pexupdates"][b][color=#1a73e8][u]Our Telegram Channel[/u][/color][/b][/url][/SIZE]
 [/CENTER]
 
-[LEFT][SIZE="3"][list]
+[LEFT][SIZE="4"][list]
 [*][b]Android OS version:[/b] 12
 [*][b]Security patch level:[/b] November 2021
 [*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
