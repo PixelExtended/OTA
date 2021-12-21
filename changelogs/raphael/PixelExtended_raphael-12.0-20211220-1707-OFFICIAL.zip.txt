@@ -1,0 +1,26 @@
+Changelog - 2021/12/20
+- Initial Stable Build
+- Enforcing
+- SafetyNet passes 
+- Adapt Parts to S style
+
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on OSS venodor (A10 Firmware)
+
+Clean Flash
+- Back up all your data
+- Flash latest firmware required by ROM
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
+
+Dirty Flash
+- Back up all your data
+- Flash Rom
+- Flash DFE
+- Wipe Cache
+- reboot system
