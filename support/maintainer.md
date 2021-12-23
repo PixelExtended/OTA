@@ -26,6 +26,8 @@ Xiaomi Redmi Note 7 Pro (violet)- Hariprakash
 
 Xiaomi Redmi 7 (onclite)- Aditya Singh
 
+Xiaomi Redmi Note 7 (lavender)- Prashant
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    
