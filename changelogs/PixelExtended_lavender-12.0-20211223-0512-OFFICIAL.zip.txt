@@ -1,0 +1,4 @@
+Changelog - 2021/12/23
+- Initial Official Stable Build
+- aRise-Eas-Qti kernel buy default
+- CTS pass by default
