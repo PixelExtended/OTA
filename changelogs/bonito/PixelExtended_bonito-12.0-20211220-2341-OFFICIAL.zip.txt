@@ -1,4 +1,0 @@
-Initial Build
-SafetyNet passes 
-
-You Need This boot image https://sourceforge.net/projects/pixelextended/files/bonito/PixelExtended_bonito-12.0-20211220-2341-OFFICIAL.img/download
