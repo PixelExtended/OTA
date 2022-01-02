@@ -1,0 +1,3 @@
+-Safety Net passes by default
+-Selinux is now enforcing
+-Fixed know issues
