@@ -26,7 +26,9 @@ Xiaomi Redmi Note 6 Pro (tulip) - PinCredible
 
 Xiaomi Redmi Note 9 / Redmi 10X 4g (merlinx) - PinCredible                                                                                  
 
-Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin) -Zaid Khan                                                                               
+Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin) -Zaid Khan
+
+Xiaomi Redmi Note 10 (mojito) - ArhamDharewa
 
 Realme devices
 ------------------------------------------
