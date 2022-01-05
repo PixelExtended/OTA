@@ -20,6 +20,8 @@ Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juic
 
 Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin)- Zaid Khan                                                                               
 
+Xiaomi Redmi Note 10 (mojito) - ArhamDharewa
+
 Xiaomi Redmi 7A (pine)- Hyper-Nub
 
 Xiaomi Redmi Note 7 Pro (violet)- Hariprakash
