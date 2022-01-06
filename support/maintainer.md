@@ -14,8 +14,6 @@ Xiaomi Mi 9t Pro (raphael)- Ralf979
 
 Xiaomi Redmi Note 4/4X (mido)- Aryan Kedare                                                                                    
 
-Xiaomi Redmi 8A Dual (olivewood)- sdm439dev                                                                                                
-
 Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice)- Pranay Kiran                                           
 
 Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin)- Zaid Khan                                                                               
