@@ -10,6 +10,8 @@ Xiaomi Mi Note 5 Pro (whyred)- Immanuel Raj
 
 POCO F3 / Xiaomi Mi 11X / Redmi K40  (alioth)- Rounak1619
 
+POCO X2 / Redmi K30 (phoenix)- Sharma G
+
 Xiaomi Mi 9t Pro (raphael)- Ralf979                                                                                                        
 
 Xiaomi Redmi Note 4/4X (mido)- Aryan Kedare                                                                                    
