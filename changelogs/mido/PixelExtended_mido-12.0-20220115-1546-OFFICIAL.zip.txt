@@ -1,0 +1,7 @@
+Changelog
+* Update to Android 12 (S)
+* Merged Latest Sleepy Kernel Changes
+* Moved to QCRIL 
+* Updated Blobs From LA.UM.8.6.2.r1-08600-89xx.0
+* Merged Latest Android 12 Requirements 
+* Selinux Enforcing 
