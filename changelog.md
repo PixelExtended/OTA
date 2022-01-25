@@ -1,5 +1,21 @@
 # Changelog
-
+  
+  # V4.1 (25.01.2022) Dry Month !
+  
+  - Merged Jan Security Patch and synced with latest Pe 
+  - Added Quick Tap support 
+  - Fixed Double tap to wake doze feature
+  - Fixed Lockscreen Wallpaper not being set if different from Home
+  - Added Force Small clock feature
+  - Added Theming Options under display
+  - Added deep sleep info 
+  - Added Hardware Key Support 
+  - Fixed some Buggy QS tiles 
+  - Enabled OTA support 
+  - Some other fixes and improvements
+  
+  I know this update is late and this is because i don't have any unlocked device rn to test , i switched to OP9 from Poco M2 Pro but next from next month it will be blast XD .
+  
   # V4.0 (18.12.2021) SnowHouse !
   
    - December Security Patch (that's y we r late )
