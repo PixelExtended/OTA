@@ -10,10 +10,10 @@ FILEHASH=$(md5sum out/target/product/$DEVICE/PixelExtended*.zip | cut -d " " -f 
 SIZE=$(wc -c out/target/product/$DEVICE/PixelExtended*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/pixelextended/files/$DEVICE/$FILENAME/download"
 VERSION="12"
-PEXV="$(grep "org.pex.version=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2")
+PEXV=$(grep "org.pex.version=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 JSON_FMT='{\n"error":false,\n"filename": "%s",\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"pexv": "%s", \n"id": "%s", \n"tg_username": "%s", \n"device_name":"%s", \n"device":"%s", \n"xda_thread":"%s"\n}'
 
-printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" $"PEXV" "$ID" "$TG_USERNAME" "$DEVICE_NAME" "$DEVICE" "$XDA_THREAD" > OTA/builds/$DEVICE.json
+printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$PEXV" "$ID" "$TG_USERNAME" "$DEVICE_NAME" "$DEVICE" "$XDA_THREAD" > OTA/builds/$DEVICE.json
 echo OTA/builds/$DEVICE.json file created
 
 BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 3)
@@ -22,5 +22,13 @@ BUILD_MONTH=${BUILD_DATE:4:2}
 BUILD_DAY=${BUILD_DATE:6:2}
 CHANGELOG=$(echo "Changelog - $BUILD_YEAR/$BUILD_MONTH/$BUILD_DAY\n")
 
+if [ -d "OTA/changelogs/$DEVICE" ]
+then
 printf "$CHANGELOG" > OTA/changelogs/$DEVICE/$FILENAME.txt
 echo OTA/changelogs/$DEVICE/$FILENAME.txt file created "(make sure to update the changelog file)"
+else
+mkdir -p OTA/changelogs/$DEVICE
+printf "$CHANGELOG" > OTA/changelogs/$DEVICE/$FILENAME.txt
+echo OTA/changelogs/$DEVICE/$FILENAME.txt file created "(make sure to update the changelog file)"
+fi
+
