@@ -1,0 +1,29 @@
+Changelog - 2022/01/25
+
+*** FOR THIS BUILD IS MANDATORY CLEAN FLASH ***
+
+- Switch to Spark trees ( thanks @naveenjohnson )
+- Enforcing
+- SafetyNet passes by default
+- Englezos Kernel
+- Enable Quick Tap
+- wifi: Disable RX wakelock feature …
+- Fixup broken hashes for Display and Graphics
+- Update Graphics blobs to LA.UM.9.1.r1-11400.02
+- Update display blobs to LA.UM.9.1.r1-11400.02
+- Sync EGL symlinks with CAF …
+- props: Don't spam logspam when bt headset is connected 
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on OSS venodor (A11 Firmware)
+
+Clean Flash
+- Back up all your data
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
