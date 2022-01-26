@@ -1,0 +1,12 @@
+Changelog - 2022/01/25
+
+* January security patch 
+* Updated to Raven January FP
+* Safetynet passes by default
+* Get unlimited Photos backup in any quality in Google photos 
+* Added support for Quick Tap
+* Fixed lockscreen charging info showing power as 0 W
+* Updated WFD, Display, Graphics Blobs from RUI2
+* Uprev graphics hal to v2.3, Display hal to v2.0
+* Upstreamed kernal to 4.9.297 Blaze+ (Thanks @Mxlfunction)
+* Merged latest CAF tag LA.UM.9.8.r1-04400-SDM710.0 into kernel
