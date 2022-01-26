@@ -1,0 +1,10 @@
+Changelog - 2022/01/26
+- lavender: Bring back XiaomiDoze
+- lavender : Switch to QTI bt stack and enable a2dp offload
+- lavender: Switch audio HAL to V7
+- lavender: add prebuilts kimcirecorder
+- lavender: switch to full dexpreopt
+- lavender: Use proton clang version for kernel compiler
+- Cts pass by default
+- Switched Qti-Haptics
+- Predator-Strombreaker-x4.10-Qti kernel by default
