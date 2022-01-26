@@ -1,0 +1,28 @@
+Changelog - 2022/01/26
+
+- Remove packages at build time
+- Fix all NeverAllows*
+- Adress some denials 
+- Switch to user build from userdebug 
+- Introduce IORap
+- Clean-up duplicated chre related sepolicy
+- Add More Preset in Dirac
+- Add dynamic thermal profile
+- Add Clear Speaker From MIUI 12
+- Set default Settings Global #DEVICE_NAME according to MIUI
+- Declare number of SIM slots correctly
+- Enable persist.rcs supported
+- Address more IMS props
+- Fix some props for Smooth Display
+- Disable QTI perf lock usage in camera HAL
+- Fix Google Assistant "OK GOOGLE" Voice Match
+- Set status bar padding top to 26px
+- Enable Quick Tap
+- Fix Back gesture from right side
+- Update build fingerprint from Raven - SQ1D.220105.007
+- Vantom kernel prebuild 
+- Others improvement
+
+Credit :-
+- @daniml3 for Dt base 
+- thanks to @GodO_War for test 
