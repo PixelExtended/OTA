@@ -1,14 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_pine-12.0-20211223-1822-OFFICIAL.zip",
-"datetime": 1640283625,
-"size":1521082105, 
-"url":"https://sourceforge.net/projects/pixelextended/files/pine/PixelExtended_pine-12.0-20211223-1822-OFFICIAL.zip/download",
-"filehash":"688559e77131f07280d60daa382fa21be6c2486b", 
-"version": "11", 
-"id": "48d75ba18bc556ec8a546e0726e5950a", 
-"tg_username": "hsx02", 
-"device_name":"Redmi 7A", 
-"device":"pine", 
-"xda_thread":"https://forum.xda-developers.com/t/64bit-official-pixelextended-v4-0-rom-update-for-redmi-7a-aka-pine.4378965/"
+"filename": "PixelExtended_pine-12.0-20220126-1343-OFFICIAL.zip",
+"datetime": 1643204471,
+"size":1523647241,
+"url":"https://sourceforge.net/projects/pixelextended/files/pine/PixelExtended_pine-12.0-20220126-1343-OFFICIAL.zip/download",
+"filehash":"f2ea02a0570c5ea3666bb6ac59ba52146db9d554",
+"version": "12",
+"pexv": "4.1",
+"id": "a571052b0e115814f89ec7a3e6d032f1",
+"tg_username": "hsx02",
+"device_name":"Redmi 7A",
+"device":"pine",
+"xda_thread":"https://forum.xda-developers.com/t/64bit-official-pixelextended-v4-1-rom-update-for-redmi-7a-pine-27-01-22.4394355/"
 }
