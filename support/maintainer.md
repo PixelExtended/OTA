@@ -38,6 +38,8 @@ Realme 6 Pro (RMX2061)- NEMESIS_99999
 
 Realme 5 Pro (RMX1971)- Samba Siva Rao 
 
+Realme X2 - Chaitanya
+
 Google Devices
 ------------------------------------------
 
