@@ -1,0 +1,28 @@
+Changelog - 2022/01/26
+
+- Selinux is enforcing
+- Saftey net passed by deafult (with or without>
+- Switch to Raven January fp
+- Upstream kernel 4.9.297perf
+- Enable zram-writeback job
+- Reduce idle battery drain
+- Adapt to Android Go guidelines
+- Uodated drivers to 490                                   - Disable EGL buffer_age extension - support               - Switch to AOSP keymaster service
+- Add touch "improvements" sysprops
+- Fix neverallows and avc denials
+- Update kcal preview image
+- Update sf phase offsets
+- Increase background blkio cgroup weight to 200
+- Bring back 1080p front camcorder profiles
+- Implement Clear Speaker from miui 12
+- Increase audio HAL buffer size to 240
+- Improved multitasking and smoothness
+
+- For working of KCAL use cherry 2.5 kernel                                                                           Thanks to :-
+- All tester & community
+- Rashazxz
+- Randomas 3000
+- 0xCAFEBABE
+- Mikaziku
+- Dlwlrma123
+- Flop
