@@ -1,4 +1,4 @@
-changelogs:- 27/01/22
+Changelog - 2022/01/27
 
 Device Changelogs:-
 
