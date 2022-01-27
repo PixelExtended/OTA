@@ -30,6 +30,8 @@ Xiaomi Redmi 7 (onclite)- Aditya Singh
 
 Xiaomi Redmi Note 7 (lavender)- Prashant
 
+Xiaomi Poco X3 Pro (vayu)- Chandler Bing
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    

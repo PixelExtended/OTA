@@ -1,0 +1,19 @@
+Changelog - 2022/01/27
+
+ - Initial Official Build
+
+ - Increase handset speaker and mic volume to match MIUI
+ - Dropped Xiaomi Parts
+ - Enable quick tap
+ - Enable adaptive charging
+ - Add 'Saturated' color mode
+
+Fixes 
+ - Bluetooth Audio 
+
+Credit
+   Thanks to @raghavt20 for Base trees
+
+Notes
+ - Check here for notes and support 
+	https://github.com/sanjeevstunner/Vayu-Releases/blob/main/changelogs.md#notes-must-read
