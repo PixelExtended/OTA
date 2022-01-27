@@ -1,14 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_lemonkebab-12.0-20211223-0220-OFFICIAL.zip",
-"datetime": 1640226000,
-"size":1695978472, 
-"url":"https://sourceforge.net/projects/pixelextended/files/lemonkebab/PixelExtended_lemonkebab-12.0-20211223-0220-OFFICIAL.zip/download", 
-"filehash":"e39afd214b510e9c45e74d6fe311a0ef", 
-"version": "11", 
-"id": "ddbeac91fc8162c12b8f3580a1199548223b0c359aa0d4efe52fa92da14ce6b8", 
+"filename": "PixelExtended_lemonkebab-12.0-20220127-0701-OFFICIAL.zip",
+"datetime": 1643266860,
+"size":1745025627, 
+"url":"https://sourceforge.net/projects/pixelextended/files/lemonkebab/PixelExtended_lemonkebab-12.0-20220127-0701-OFFICIAL.zip/download", 
+"filehash":"fcefd424fc93c8e1968eef292bd44cff", 
+"version": "12", 
+"pexv": "4.1", 
+"id": "64102182efd2dfa3939069d9f4b1db64b6bba8510a7ea7ecb9070bee648479f7", 
 "tg_username": "rounak1619 & @AlwaysAngry", 
 "device_name":"OnePlus8T/9R", 
 "device":"lemonkebab", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-kebab-lemonades-official-pixel-extended-4-0-01-11-2021.4262851/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-kebab-lemonades-official-pixel-extended-4-0-01-11-2021.4262851"
 }

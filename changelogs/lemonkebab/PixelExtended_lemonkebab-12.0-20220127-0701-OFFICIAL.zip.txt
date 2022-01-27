@@ -1,0 +1,6 @@
+Changelog - 2022/01/27
+-First things first clean flash must
+-Rebased Tress
+-Enforcing time
+-A lot fixes done 
+-Safetynet passes 
