@@ -1,0 +1,5 @@
+Changelog - 2022/01/28
+Initial Build
+Enforcing Selinux 
+SafetyNet passes 
+Encrypted Build 
