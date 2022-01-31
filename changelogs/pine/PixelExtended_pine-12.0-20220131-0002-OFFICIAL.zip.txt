@@ -1,0 +1,7 @@
+Changelog - 2022/01/31
+
+- Removed GcamGo
+- Added latest AnxCamera & Scanner 
+- Fixed issues realted to instagram, camera & youtube
+
+Thanks to :- Demigod, Rashazxz ,Sonal Singh, Randomas 3000, 0xCAFEBABE, Mikaziku, Dlwlrma123, Flop
