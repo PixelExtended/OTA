@@ -1,0 +1,4 @@
+Changelog - 2022/01/31
+- Added Xiaomi Parts
+- Fixed Quick Tap
+- Fixed Performance Issues

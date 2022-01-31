@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_lavender-12.0-20220126-1757-OFFICIAL.zip",
-"datetime": 1643219820,
-"size":1477556065, 
-"url":"https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20220126-1757-OFFICIAL.zip/download", 
-"filehash":"7439f01095c73ea780ddd470d15d03a3", 
+"filename": "PixelExtended_lavender-12.0-20220131-0906-OFFICIAL.zip",
+"datetime": 1643619960,
+"size":1513095247, 
+"url":"https://sourceforge.net/projects/pixelextended/files/lavender/PixelExtended_lavender-12.0-20220131-0906-OFFICIAL.zip/download", 
+"filehash":"63e53c99a2b2324e6e0af8c752a5f0df", 
 "version": "12", 
 "pexv": "4.1", 
-"id": "0cc1c898992bc2cfefba677eb11124aac858296f76fe766d4ae586cc1f1d5358", 
+"id": "e39e7e27847e803eb7425223f3ef30c182998c0cf1a910c45f03149ae1863fd9", 
 "tg_username": "ImPrashantt", 
 "device_name":"Redmi Note 7", 
 "device":"lavender", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-26-01-22.4323719/unread"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-lavender-26-01-22.4323719/"
 }
