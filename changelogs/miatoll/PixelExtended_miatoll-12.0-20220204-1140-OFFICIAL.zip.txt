@@ -1,0 +1,5 @@
+Initial official Build
+CLEAN FLASH MUST WITH PE RECOVERY
+banking apps working fine 
+safetynet passed by default
+Changed camera to BSG gcam
