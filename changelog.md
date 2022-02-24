@@ -1,4 +1,16 @@
 # Changelog
+ 
+   # V4.2 (24.02.2022) Free Month !
+  
+  - Merged Feb Security Patch and synced with latest Pe 
+  - Added Network traffic monitor
+  - Added Udfps icons
+  - Added Udfps custo icon
+  - Added Udfps animation 
+  - Added Face Unlock
+  - Added App Lock
+  - Added Small Mobile Icon
+  - ... and other improvements
   
   # V4.1 (25.01.2022) Dry Month !
   
