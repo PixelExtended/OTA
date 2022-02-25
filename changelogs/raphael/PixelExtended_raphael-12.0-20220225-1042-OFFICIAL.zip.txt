@@ -1,0 +1,50 @@
+Changelog - 2022/02/25
+
+- props: Fix cam interface on vilte calls 
+- Disable GPU protected composition 
+- Enable QCRIL radio power saving
+- Use Vulkan for UI rendering 
+- Switch to Vulkan UI renderer 
+- sepolicy: Address zygote denial 
+- sepolicy: solve radio denials 
+- sepolicy: Allow system_app to access zram sysfs nodes 
+- sepolicy: Allow zygote to access system file 
+- overlay: Configure power, volume and fingerprint locations
+- Build android.hardware.tetheroffload.{config,control}@1.0 in… 
+- sepolicy: address some denials
+- Remove vendor.qti.diaghal from framework manifest
+- Remove duplicate GPS prop 
+- overlay: Exempt ImsService from location indicators 
+- Build missing sensor packages 
+- fstab: Enable 64-bit inode version support for ext4 
+- Don't build renderscript and move renderengine to threaded skia 
+- wifi: Disable RX wakelock feature 
+- Fixup broken hashes for Display and Graphics
+- Update Graphics blobs to LA.UM.9.1.r1-11400.02
+- Update display blobs to LA.UM.9.1.r1-11400.02
+- Sync EGL symlinks with CAF
+
+
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on OSS venodor (A11 Firmware)
+Use latest Stable Orange Fox or Unofficial @naveenjohnson Recovery's
+
+Clean Flash
+- Back up all your data
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE
+- reboot system
