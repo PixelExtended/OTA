@@ -1,0 +1,3 @@
+Changelog - 2022/02/26
+1.for cellular network not working go in sim settings and set apn manually
+2.open gestures from accessibility>systemcontrol>gestures
