@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_pine-12.0-20220131-0002-OFFICIAL.zip",
-"datetime": 1643587230,
-"size": 1645589998,
-"url":"https://sourceforge.net/projects/pixelextended/files/pine/PixelExtended_pine-12.0-20220131-0002-OFFICIAL.zip/download",
-"filehash":"4eb16ebfc21d9fddfcdbc57b97629f84725ca237",
+"filename": "PixelExtended_pine-12.0-20220227-0902-OFFICIAL.zip",
+"datetime": 1537657348,
+"size": 1537657348,
+"url":"https://sourceforge.net/projects/pixelextended/files/pine/PixelExtended_pine-12.0-20220227-0902-OFFICIAL.zip/download",
+"filehash":"d21301b098a301b2823c7a9c5430cea2dd80f4c6",
 "version": "12",
-"pexv": "4.1",
-"id": "a0ad96a26b1feb09b57a8f411cf8c0da",
+"pexv": "4.2",
+"id": "a93eaf1f3d75e5af731f825165360db4",
 "tg_username": "hsx02",
 "device_name":"Redmi 7A",
 "device":"pine",
-"xda_thread":"https://forum.xda-developers.com/t/64bit-official-pixelextended-v4-1-rom-update-for-redmi-7a-pine-27-01-22.4394355/"
+"xda_thread":"https://forum.xda-developers.com/t/64bit-12s-official-pixelextended-v4-2-rom-update-for-redmi-7a-pine-27-02-22.4408705/"
 }
