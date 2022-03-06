@@ -1,0 +1,14 @@
+Changelog - 2022/03/05
+
+- February security patch
+- App Lock
+- Face Unlock
+- Hide magisk better
+- Fixed "Ok Google"
+- Enable Quick Tap
+- Disable forced shutter sounds
+- Fixed NFC
+- Upstreamed kernel to latest
+- Upstreamed PEX sources
+
+Enjoy the PEX
