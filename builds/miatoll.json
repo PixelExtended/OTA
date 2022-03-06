@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_miatoll-12.0-20220204-1140-OFFICIAL.zip",
-"datetime": 1643974800,
-"size":1870655926, 
-"url":"https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.0-20220204-1140-OFFICIAL.zip/download", 
-"filehash":"a1b5adb56217e31db3263c10371e8396", 
+"filename": "PixelExtended_miatoll-12.0-20220305-1843-OFFICIAL.zip",
+"datetime": 1646505780,
+"size":2004403137, 
+"url":"https://sourceforge.net/projects/pixelextended/files/miatoll/PixelExtended_miatoll-12.0-20220305-1843-OFFICIAL.zip/download", 
+"filehash":"05250869e74f0d37349a0e011ab269c1", 
 "version": "12", 
-"pexv": "4.1", 
-"id": "ce13796517ee623bcbd50ce230e3ca96fcdddbc73a25344b13acffc77f935b69", 
+"pexv": "4.2", 
+"id": "0627b86c7a4cc77f3c8756f735c206df57a7f409afad68660f945bfd5beeb9c5", 
 "tg_username": "akashhalder520", 
 "device_name":"Poco M2 Pro", 
 "device":"miatoll", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-1-android-12-miatoll-05-02-22.4398613/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-2-android-12-miatoll-06-03-22.4411693/"
 }
