@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_sweet-12.0-20220126-1244-OFFICIAL.zip",
-"datetime": 1643201040,
-"size":1825239088, 
-"url":"https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20220126-1244-OFFICIAL.zip/download", 
-"filehash":"1e1bf3406b210d809ae8d9b60dd58e3f", 
+"filename": "PixelExtended_sweet-12.0-20220306-1848-OFFICIAL.zip",
+"datetime": 1646592480,
+"size":1889811684, 
+"url":"https://sourceforge.net/projects/pixelextended/files/sweet/PixelExtended_sweet-12.0-20220306-1848-OFFICIAL.zip/download", 
+"filehash":"f9e18fef6bfadf86310afaa88da8873d", 
 "version": "12", 
-"pexv": "4.1", 
-"id": "3ac471acf62b0eb283d507a2f8095356fd4aeae14a53a7061ae00cd5363a6aa5", 
+"pexv": "4.2", 
+"id": "24af4c2702b245e31cbd6f1e0eb27fb33af10100a0ae82b28946a0c2e3f34c91", 
 "tg_username": "zaidkhan0997", 
 "device_name":"Redmi Note 10 Pro", 
 "device":"sweet", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-1-android-12-sweet-27-01-22.4377003/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-2-android-12-sweet-07-03-22.4377003/"
 }
