@@ -1,0 +1,8 @@
+changelog:-
+1. switched to no kernel
+2. updated latest blobs from 13.0.3.0 firmware
+
+note:-
+1. clean flash is mandatory
+2. only use latest latest 13.0.3.0 firmware global or eu
+link for firmware- https://t.me/pexalioth/3411
