@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_alioth-12.0-20220127-1016-OFFICIAL.zip",
-"datetime": 1643278560,
-"size":1744496396, 
-"url":"https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220127-1016-OFFICIAL.zip/download", 
-"filehash":"7b9603c183aa9d751547b031041afba4", 
+"filename": "PixelExtended_alioth-12.0-20220307-2001-OFFICIAL.zip",
+"datetime": 1646683260,
+"size":1839467634, 
+"url":"https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.0-20220307-2001-OFFICIAL.zip/download", 
+"filehash":"99a5ca308f7d202510c9b1f430de3a0b", 
 "version": "12", 
-"pexv": "4.1", 
-"id": "be45c9bedff57a56221a92d8665d7b371c5d98d3728ee1b8b53d69a89c162bab", 
-"tg_username": "rounak1619", 
-"device_name":"Mi 11x/F3", 
+"pexv": "4.2", 
+"id": "1fb556df5c8f3acab8ba140dc15ad0e72d5f17f0da7fbdb8901a5d4bb5453654", 
+"tg_username": "CHAITANYAh", 
+"device_name":"Mi 11 x", 
 "device":"alioth", 
-"xda_thread":"https://forum.xda-developers.com/t/closed-rom-official-pixel-extended-rom-v4-0-android-12-alioth-aliothin-01-11-21.4355409/"
+"xda_thread":"https://forum.xda-developers.com/t/pixel-extended-for-alioth.4412787/"
 }
