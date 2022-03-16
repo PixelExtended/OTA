@@ -30,6 +30,8 @@ Xiaomi Redmi 7 (onclite)- Aditya Singh
 
 Xiaomi Redmi Note 7 (lavender)- Prashant
 
+Xiaomi POCO X3 NFC (surya) - Ram Badan Pandey
+
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    
