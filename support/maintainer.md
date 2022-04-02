@@ -53,4 +53,20 @@ OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi
 
 OnePlus Nord (Avicii) - Manikanta Raavi
 
+Samsung devices
+------------------------------------------
+Samsung Galaxy S10e (beyond0lte) - Jubscleisson
+
+Samsung Galaxy S10 (beyond1lte) - Jubscleisson
+
+Samsung Galaxy S10+ (beyond2lte) - Jubscleisson
+
+Samsung Galaxy S10 5G (beyondx) - Jubscleisson
+
+Samsung Galaxy Note 10 (d1) - Jubscleisson
+
+Samsung Galaxy Note 10+ (d2s) - Jubscleisson
+
+Samsung Galaxy Note 10+ 5G (d2x) - Jubscleisson
+
 If You Don't See your device here , ask someone to build and Officially Support it or [**Apply Here**](https://t.me/heisinbug) with Trees and Build Post.
