@@ -1,0 +1,13 @@
+Changelog - 2022/04/07
+
+- A12.1 Initial release
+- Added Xiaomi Parts
+- Fixed dt2w
+- Fixed Data Usage
+- Fixed Network Indicator(Upload Speed)
+- lavender: overlay: Add call recording overlay
+- lavender: prop: Enable pre-rendering
+- lavender: Optimize native executables for Cortex-A73 CPU
+- lavender: Remove vendor RenderScript implementation.
+- lavender: Update FP to raven(April)
+- CTS Profile true by default
