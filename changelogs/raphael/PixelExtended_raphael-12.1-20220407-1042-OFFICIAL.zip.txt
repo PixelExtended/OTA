@@ -1,0 +1,39 @@
+Changelog - 2022/04/07
+
+- A12.1 Initial release
+- Switch to full_base_telephony
+- overlay: Change status bar height calculation 
+- rootdir: Remove powerkey boost 
+- rootdir: Add offline charging LED indicator 
+- Build more camera and bluetooth libs from source
+- rootdir: Relax scheduler and cpu boost parameters 
+
+NOTE: Clean flash is recommended for this build
+      you can do Dirty, but chances are you have some mistakes
+      So, report BUG, only if you have done clean flash
+
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on OSS venodor & Englezos Kernel (A11 Firmware)
+Use Unofficial recovery by @naveenjohnson
+
+Clean Flash
+- Back up all your data
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE
+- reboot system
+
+Enjoy the PEX
