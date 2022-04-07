@@ -1,0 +1,6 @@
+Changelog - 2022/04/07
+-Merged with latest source changes
+-Fixed issues with soft loop (Random)
+-Fixed statusbar alignment introduced with 12.1
+-Resolved some denials
+-A Lot build bleed is smooth 
