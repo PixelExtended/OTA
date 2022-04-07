@@ -1,4 +1,15 @@
 # Changelog
+
+   # V4.3 (07.03.2022) Here we go again !
+  
+  - Merged Mar Security Patch and synced with latest Pe 
+  - Added pitch black theme
+  - Allow toggling location privacy indicator
+  - Allow disabling ripple effect on unlock
+  - ... and other improvements
+  
+  Note: This is the first release after the rebase to A12.1, some missing features will be added in future releases.
+  Have a good Flash
  
    # V4.2 (24.02.2022) Free Month !
   
