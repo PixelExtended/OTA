@@ -1,0 +1,11 @@
+Changelog - 2022/04/07
+
+- A12.1 Initial release
+- April Build Fingerprint
+- March Security Patch
+- Import GcamGoMod by Greatness, Thanks to him
+- Increased Speaker and Mic Volumes to limits
+
+Note: Clean Flash Recommended as it is first A12.1 official initial release
+      Use unofficial OFOX recovery
+      No OTA will be given in march
