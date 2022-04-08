@@ -1,0 +1,5 @@
+Changelog - 2022/04/08
+used no kernel beta 8.7.7
+updated blobs to fw 13.0.2.0 global
+eyerything works 
+Mandatory to use  13.0.2.0 global fw
