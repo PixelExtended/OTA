@@ -34,16 +34,7 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    
 
-Realme 6 Pro (RMX2061)- NEMESIS_99999 
-
-Realme 5 Pro (RMX1971)- Samba Siva Rao 
-
 Realme X2 - Chaitanya
-
-Google Devices
-------------------------------------------
-
-Google Pixel 3A XL(bonito)- Khuong Hung
 
 One Plus devices
 ------------------------------------------
