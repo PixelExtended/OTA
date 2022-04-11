@@ -1,0 +1,6 @@
+Improved GPU performace
+And some small fixes
+CTS passed by default
+NOTE:-
+use pe recovery
+APN setting are missing add them on your own
