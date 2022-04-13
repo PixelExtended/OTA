@@ -1,0 +1,10 @@
+Changelog - 2022/04/13
+• Initial official Build
+• Added Wireless PowerShare
+• Limit screen recorder's framerate to 60fps
+
+Notes
+• S Firmware is mandatory
+• This rom supports only LOS recovery - Please don't report bugs if you using TWRP.
+• Please report bugs with logs if you found any
+• Clean flash is recommended for this build
