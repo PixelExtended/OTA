@@ -1,0 +1,5 @@
+Changelog - 2022/04/13
+1.fixed apn issue 
+2.gesture still crash i tried cannot fix it use gestures from:
+settings>accesibility>system controls>gestures
+3.eyerything else is working fine 
