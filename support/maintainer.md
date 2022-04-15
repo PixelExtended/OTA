@@ -12,17 +12,11 @@ POCO F3 / Xiaomi Mi 11X / Redmi K40  (alioth)- Rounak1619
 
 Xiaomi Mi 9t Pro (raphael)- Ralf979                                                                                                        
 
-Xiaomi Redmi Note 4/4X (mido)- Aryan Kedare                                                                                    
-
 Xiaomi POCO M3 / Redmi 9T nfc / Redmi 9 Power / Redmi note 9 4G (unified as juice)- Pranay Kiran                                           
 
 Xiaomi Redmi Note 10 Pro / Pro Max (sweet/sweetin)- Zaid Khan                                                                               
 
-Xiaomi Redmi Note 10 (mojito) - ArhamDharewa
-
 Xiaomi Redmi 7A (pine)- Hyper-Nub
-
-Xiaomi Redmi Note 7 Pro (violet)- Hariprakash
 
 Xiaomi Redmi 7 (onclite)- Aditya Singh
 
