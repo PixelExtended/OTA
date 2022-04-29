@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_raphael-12.0-20220225-1042-OFFICIAL.zip",
-"datetime": 1645785720,
-"size":1964759716, 
-"url":"https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.0-20220225-1042-OFFICIAL.zip/download", 
-"filehash":"f0e4fb2b3c99d243feaa622594409d68", 
+"filename": "PixelExtended_raphael-12.1-20220429-0528-OFFICIAL.zip",
+"datetime": 1651210080,
+"size":2009746564, 
+"url":"https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended_raphael-12.1-20220429-0528-OFFICIAL.zip/download", 
+"filehash":"2ed9a284fd0a44768476a958c73dfbfe", 
 "version": "12", 
-"pexv": "4.2", 
-"id": "c58654bc756f72b2a243f4c72ebda1c832c714cb33c36687d647b403bf94102c", 
+"pexv": "4.4", 
+"id": "161d09f6dd17e357c70872a89eb7633adb73329b697470d4b261651490a50f83", 
 "tg_username": "ralf979", 
-"device_name":"Xiaomi Mi 9T Pro", 
+"device_name":"Xiaomi Mi 9t Pro", 
 "device":"raphael", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-25-01-2022.4146471/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-12-raphael-official-pixel-extended-rom-25-02-2022.4146471/"
 }
