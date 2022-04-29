@@ -1,5 +1,24 @@
 # Changelog
 
+   # V4.4 (28.04.2022) It's Spring !
+  
+  - Merged April Security Patch and synced with latest Pe 
+  - Fixed tile colour (with dark theme)
+  - Fixed search bar in settings
+  - Fixed APNs on first ROM startup
+  - Fixed torch with power button
+  - Added black theme (removed pitch black)
+  - Added toggle screen off FOD
+  - Added toggle for combined signal icons in status bar
+  - Added double tap to trigger doze
+  - Added Device maintainer to Firmware window
+  - Added Allow changing monet settings
+  - Added setting to force small clock in lockscreen
+  - Added Hide power menu on secure lockscreen 
+  - Added Home key Answer call
+  - Added Power key End call
+  - ... and other improvements
+
    # V4.3 (07.03.2022) Here we go again !
   
   - Merged Mar Security Patch and synced with latest Pe 
