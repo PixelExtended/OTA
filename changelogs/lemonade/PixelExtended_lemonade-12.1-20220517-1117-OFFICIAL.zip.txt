@@ -1,0 +1,30 @@
+Changelog - 2022/05/17
+
+- Initial Lemonade Release
+
+
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :  Latest Oxygen OS 11 Firmware!
+
+Clean Flash:
+1. Download boot.img from https://sourceforge.net/projects/pixelextended/files/lemonade/boot.img/download
+2. Reboot phone to bootloader 
+3. fastboot flash boot boot.img
+4. Reboot phone to recovery and FORMAT DATA
+5. ADB sideload PixelExtended_lemonade-xxxxxxxxxxx.zip
+6. Reboot system
+
+Dirty Flash:
+1. Reboot phone to recovery
+2. ADB sideload PixelExtended_lemonade-xxxxxxxxxxx.zip
+3. Reboot system
+
+For root:
+1. Download Magisk
+3. Reboot to recovery
+4. adb sideload Magisk_xxx.zip
+5. Reboot system
