@@ -30,6 +30,8 @@ Realme X2 - Chaitanya
 
 One Plus devices
 ------------------------------------------
+OnePlus 9 (Lemonade) - Ralf979
+
 OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi 
 
 OnePlus Nord (Avicii) - Manikanta Raavi & Squadgtx
