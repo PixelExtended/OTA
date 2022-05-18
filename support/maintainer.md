@@ -26,8 +26,6 @@ Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    
 
-Realme X2 - Chaitanya
-
 One Plus devices
 ------------------------------------------
 OnePlus 9 (Lemonade) - Ralf979
