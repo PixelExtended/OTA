@@ -1,5 +1,18 @@
 # Changelog
 
+   # V4.5 (17.05.2022) The heat begins !
+  - Merged May Security Patch and synced with latest Pe
+  - Fixed Lockscreen Media Art
+  - Added Lockscreen Album Art Filter
+  - Added Lockscreen Pulse 
+  - Added Pocket Mode
+  - Added Advanced Gestures
+  - Added PixelExtended Logo to Firmware window
+  - Added ROM banner clickable
+  - Added font size in 5% steps from 80% to 130%
+  - Added IME button space optional
+  - ... and other improvements
+
    # V4.4 (28.04.2022) It's Spring !
   
   - Merged April Security Patch and synced with latest Pe 
