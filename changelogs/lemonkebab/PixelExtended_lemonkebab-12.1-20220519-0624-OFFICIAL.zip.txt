@@ -1,0 +1,10 @@
+Changelog - 2022/05/19
+-Merged with latest pex source
+-Fixed HD capable notification
+-Fixed duplicated entries in proprietary files
+-Increasced UDFPS radius
+-Enabled Qualcomm TrueWireless™ Stereo prop
+-Unlocked gc5035 camera
+-Updated dex2oat prop
+-A Lot fixed & Improvemnts 
+
