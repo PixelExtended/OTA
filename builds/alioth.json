@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_alioth-12.1-20220408-1249-OFFICIAL.zip",
-"datetime": 1649422140,
-"size":1845717047, 
-"url":"https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220408-1249-OFFICIAL.zip/download", 
-"filehash":"165a6d7a1a3950544135eb88eeb28104", 
-"version": "12.1", 
-"pexv": "4.3", 
-"id": "e149cf1213a9c855b3e63efc36ba2166dd20a863ee12f200ec49d85a09cb33b9", 
-"tg_username": "CHAITANYAh", 
+"filename": "PixelExtended_alioth-12.1-20220521-0538-OFFICIAL.zip",
+"datetime": 1653111480,
+"size":1989589691, 
+"url":"https://sourceforge.net/projects/pixelextended/files/alioth/PixelExtended_alioth-12.1-20220521-0538-OFFICIAL.zip/download", 
+"filehash":"6b6dab58c6bf56b5c7b1ca2716a2e24f", 
+"version": "12", 
+"pexv": "4.5", 
+"id": "1ae1c33f4ec895059a712bcff6e9a36ee1164e6eb511d2e6563d04a97da41701", 
+"tg_username": "rounak1619", 
 "device_name":"Mi11x", 
 "device":"alioth", 
-"xda_thread":"https://forum.xda-developers.com/t/pixelextended-for-alioth.4394125/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-5-android-12-1-alioth-aliothin-21-05-22.4355409/"
 }
