@@ -32,7 +32,7 @@ Codename : ${DEVICE}
 
 📥 Download : <a href='${SFLINK}'>SourceForge</a>
 💬 XDA thread : <a href='${XDA}'>XDA</a>
-📄 Changelog : <a href='${CHANGELOG}'>Device</a> | <a href='${ROM}'>ROM</a>
+📄 Changelog : <a href='${CHANGELOG}'>Device</a> | <a href='${ROM}.txt'>ROM</a>
 
  Support : @pixelextended
  Channel : @pexupdates
