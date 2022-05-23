@@ -1,0 +1,14 @@
+Changelog - 2022/05/22
+Intial Official Build
+Velvet kernel Default
+Google cam go by default
+NOTE:
+Clean flash must because based on sairam Tress
+All banking Apps Work's Fine
+Used Orangefox Recovery only R11.1.1
+
+Credits:
+Sairam for base tress
+Excalibur99 for kernel 
+Sachfied for testing 
+akashhalder520 for helping and guideing(ex-maiantaner)
