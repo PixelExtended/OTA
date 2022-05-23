@@ -18,7 +18,7 @@ PEXV="$(jq -r '.pexv' "${CHANGED_FILE}")"
 XDA="$(jq -r '.xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.tg_username' "${CHANGED_FILE}")"
 DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
-ROM="https://github.com/heisinbug/OTA/blob/snow/changelog.md"
+ROM="https://github.com/PixelExtended/OTA/blob/snow/changelog.md"
 DONATION="https://www.paypal.com/paypalme/aryan65"
 
          curl -X POST -F sticker=@"${STICKER}" https://api.telegram.org/bot"${TOKEN}"/sendSticker -F chat_id="${CHAT_ID}"
