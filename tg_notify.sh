@@ -18,24 +18,26 @@ PEXV="$(jq -r '.pexv' "${CHANGED_FILE}")"
 XDA="$(jq -r '.xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.tg_username' "${CHANGED_FILE}")"
 DEVICE="$(jq -r '.device' "${CHANGED_FILE}")"
+ROM="https://github.com/heisinbug/OTA/blob/snow/changelog.md"
+DONATION="https://www.paypal.com/paypalme/aryan65"
 
          curl -X POST -F sticker=@"${STICKER}" https://api.telegram.org/bot"${TOKEN}"/sendSticker -F chat_id="${CHAT_ID}"
 
-         curl -X POST -F photo=@"${PHOTO}" https://api.telegram.org/bot"${TOKEN}"/sendPhoto -F chat_id="${CHAT_ID}" -F parse_mode=Markdown -F "caption=*PixelExtended ${PEXV} OFFICIAL Update for ${DEVICE_NAME} is available*
-*By* : @${USERNAME}
+         curl -X POST -F photo=@"${PHOTO}" https://api.telegram.org/bot"${TOKEN}"/sendPhoto -F chat_id="${CHAT_ID}" -F parse_mode=HTML -F "caption=PixelExtended ${PEXV} OFFICIAL Update for ${DEVICE_NAME} is available
+By : @${USERNAME}
 
-*Build Version* : ${PEXV}
-*Build Date* : ${BUILD_DATE}
-*Codename* : ${DEVICE}
+Build Version : ${PEXV}
+Build Date : ${BUILD_DATE}
+Codename : ${DEVICE}
 
-📥 *Download* : [HERE](${SFLINK})
-💬 *XDA thread* : [HERE](${XDA})
-📄*Changelog* : [ROM](https://github.com/PixelExtended/OTA/blob/snow/changelog.md) | [DEVICE](${CHANGELOG}.txt)
+📥 Download : <a href='${SFLINK}'>SourceForge</a>
+💬 XDA thread : <a href='${XDA}'>XDA</a>
+📄 Changelog : <a href='${CHANGELOG}'>Device</a> | <a href='${ROM}'>ROM</a>
 
-*Support* : @pixelextended
-*Channel* : @pexupdates
-*Site* : pixelextended.ninja
+ Support : @pixelextended
+ Channel : @pexupdates
+ Site : pixelextended.ninja
 
-*Like My Project* [Donate Here](https://www.paypal.com/paypalme/aryan65)
+Liked My Project <a href='${DONATION}'>Donate Here</a>
 
 #PEX #${DEVICE}"
