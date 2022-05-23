@@ -2,7 +2,7 @@ Here's the list of supported devices and their mantainers :-
 
 Xiaomi/Redmi devices                                                                              
 -----------------------------------                                                                                     
-Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll)- Aryan Gupta & Akash Halder
+Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll)- Vedant(Neutralboi)
 
 Xiaomi Mi A2 (jasmine_sprout)- Immanuel Raj                                                                                                       
 
