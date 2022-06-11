@@ -1,5 +1,16 @@
 # Changelog
 
+   # V4.6 (11.06.2022) Happiness Day!
+  - Merged June Security Patch and synced with latest Pe
+  - Added qs columns/tile customizations
+  - Added support to choose custom font styles
+  - Fixed statusbar location access 
+  - Added support for GameSpace
+  - Fixed volume key music control
+  - Added restriction for data
+  - Added Italian and Spain Translate for SnowHouse Settings
+  - ... and other improvements
+
    # V4.5 (17.05.2022) The heat begins !
   - Merged May Security Patch and synced with latest Pe
   - Fixed Lockscreen Media Art
