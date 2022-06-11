@@ -1,0 +1,34 @@
+Changelog - 2022/06/10
+
+- Fixed Video bugs in some apps
+- Make powerhal starts handling powerhint after boot_complete 
+- Set statusbar top padding to 0 for landscape 
+- overlay: Exempt cne from location indicators 
+- Fix deprecated power profile items 
+- Update graphics blobs from from LA.UM.9.14.r1-18900-LAHAINA.… 
+- update graphics blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI…
+
+Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on OSS venodor & Englezos Kernel (A11 Firmware)
+Use Unofficial recovery by @naveenjohnson
+
+Clean Flash
+- Back up all your data
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- Flash DFE if you don't want to be encrypted, otherwise you need the format data
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE
+- reboot system
+
+Enjoy the PEX
