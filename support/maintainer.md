@@ -30,6 +30,8 @@ One Plus devices
 ------------------------------------------
 OnePlus 9 (Lemonade) - Ralf979
 
+OnePlus 9 PRO (Lemonadep) - Delano
+
 OnePlus 8T/9R (Lemonkebab) - Rounak1619 & Manikanta Raavi 
 
 OnePlus Nord (Avicii) - Manikanta Raavi & Squadgtx
