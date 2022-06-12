@@ -1,1 +1,18 @@
 Changelog - 2022/06/12
+
+#Device —
+-Used Default Realme Fp.
+-Added notch bar killer.
+-Based on oss2
+-Fixed minor bugs.
+
+#Source —
+- Merged June Security Patch 
+- Added qs columns/tile customizations
+- Added support to choose custom font styles
+- Fixed statusbar location access 
+- Added support for GameSpace
+- Fixed volume key music control
+- Added restriction for data
+- Added Italian and Spain Translate for SnowHouse Settings
+
