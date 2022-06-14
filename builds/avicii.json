@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_avicii-12.1-20220523-1317-OFFICIAL.zip",
-"datetime": 1653311820,
-"size":2021530344, 
-"url":"https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-12.1-20220523-1317-OFFICIAL.zip/download", 
-"filehash":"6cd7828ea7055977eb1af81d7a373af2", 
+"filename": "PixelExtended_avicii-12.1-20220614-0601-OFFICIAL.zip",
+"datetime": 1655186460,
+"size":2031800641, 
+"url":"https://sourceforge.net/projects/pixelextended/files/avicii/PixelExtended_avicii-12.1-20220614-0601-OFFICIAL.zip/download", 
+"filehash":"bc6ba7a535239c0f2c691514f3ff7a2f", 
 "version": "12", 
-"pexv": "4.5", 
-"id": "996673d92acbb50e66de87be0e8a83a53330bcb69b483502faa6d523cfd14ef6", 
-"tg_username": "AlwaysAngry", 
+"pexv": "4.6", 
+"id": "83b50372a3c015134590152c2f4d6945f12bca9b474ec453a465b31e1e1a8900", 
+"tg_username": "AlwaysAngry & @squadgtx", 
 "device_name":"OnePlusNord", 
 "device":"avicii", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-official-pixel-extended-12-0-oneplusnord-avicii-28-01-2022.4279755/"
+"xda_thread":" https://forum.xda-developers.com/t/rom-12-official-pixel-extended-12-0-oneplusnord-avicii-28-01-2022.4279755/"
 }
