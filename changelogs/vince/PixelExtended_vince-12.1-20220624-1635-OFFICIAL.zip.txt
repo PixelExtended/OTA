@@ -1,0 +1,9 @@
+Changelog - 2022/06/24
+
+* Initial Official build 
+* Gapps Build only 
+* Optimised Zram and size is 2gb by default 
+* Optimised Battery Backup 
+* Added some performance optimization props 
+* Added offline charging * Ships with Raven Fingerprint (June Patch)
+* CTS passes by default 
