@@ -1,0 +1,13 @@
+Changelog - 2022/06/25
+- Initial Official Build
+- Added Moto Dolby
+- Rebased Trees To Aryan
+- Switched To Playground Clang
+- Vantom Kernel By Default
+- Smooth AF
+
+Credits :-
+Aryan For Device Sources
+Vantoman For Kernel
+PixelOS For Playground Clang
+Zaid For Helping
