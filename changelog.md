@@ -1,5 +1,17 @@
 # Changelog
 
+   # V4.7 (07.07.2022) Summer Month!
+  - Merged July Security Patch and synced with latest Pe
+  - Add Applock
+  - Add vibration patterns from OOS
+  - Allow disabling QS battery estimates
+  - allow disable of screenshot shutter sound
+  - Fix toggling screen off FOD
+  - Add QS Transparency level
+  - Add Less boring heads up option
+  - Make colored Statusbar Icons optional
+  - ... and other small improvement
+
    # V4.6 (11.06.2022) Happiness Day!
   - Merged June Security Patch and synced with latest Pe
   - Added qs columns/tile customizations
