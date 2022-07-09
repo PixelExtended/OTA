@@ -1,0 +1,16 @@
+Changelog - 2022/07/09
+-Merged with latest pex source
+-Fixed distortion totally
+-Added dolby mediacodes support
+-Update power profile to match framework change 
+-Use device name instead of model
+-Cleanup device props init
+-Add nodes to hide Magisk in banking apps
+-Add alexa hands free support
+-Label missed entries
+-Align qs header icons with cutout
+-Resolved more denails
+-overlay: Increase quick qs offset height
+-Adapt status bar after June patch
+-overlay: fix x axis for udfps 
+-Add misssing nfc and power alarm entries 
