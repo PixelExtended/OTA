@@ -1,0 +1,14 @@
+Changelog - 2022/07/11
+- Android 12.1 July security patch update (12.0.1_r10)
+- Add BSG Cam as deafult camera
+- Add SamsungDoze (Thanks @Linux4)
+- Drop ZGCAM as deafult camera
+- Enable blur
+- Fix UDFPS animations
+- Translate SnowHouse to Brazilian Portuguese
+- Update blobs from *HVE1
+
+Notes
+- S Firmware is mandatory
+- This rom supports only LOS and PE recovery - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
