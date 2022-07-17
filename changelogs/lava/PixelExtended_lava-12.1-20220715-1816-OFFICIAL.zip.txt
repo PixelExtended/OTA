@@ -1,0 +1,17 @@
+Changelog - 2022/07/15
+
+Initial build
+All basic informations are based in PixelExperience-Devices
+For VOLTE use firmware 12.5.1
+July Scurity Patch
+Kernel pizza
+Linux 4.14.287
+
+By kibria5
+
+Thanks for device source and Kernel
+@chcepizze @SparXFusion @ashblk @TheMalachite
+@ceb8khs
+
+#Bugs
+ScreenRecorder (use external)
