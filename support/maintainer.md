@@ -22,8 +22,6 @@ Xiaomi Redmi 7 (onclite)- Aditya Singh
 
 Xiaomi Redmi Note 7 (lavender)- Prashant
 
-Xiaomi Redmi 9 / Poco M2 (lava)- kibria5
-
 Realme devices
 ------------------------------------------
 Realme 6 (RMX2001)- UdayRocker    
