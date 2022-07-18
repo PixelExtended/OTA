@@ -20,7 +20,7 @@ Xiaomi Redmi 7A (pine)- Hyper-Nub
 
 Xiaomi Redmi 7 (onclite)- Aditya Singh
 
-Xiaomi Redmi Note 7 (lavender)- Prashant
+Xiaomi Redmi Note 7 (lavender)- Moonichanwa
 
 Xiaomi Redmi 9 / Poco M2 (lava)- kibria5
 

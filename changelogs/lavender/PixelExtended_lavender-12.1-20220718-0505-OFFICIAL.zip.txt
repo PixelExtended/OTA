@@ -1,0 +1,8 @@
+Changelog - 2022/07/18
+- Initial Official PEX Release
+- Enforcing as always
+- Clean flash recommend
+- Nexus 9.9 QTI Kernel Included
+
+Credits: @xenxynon, @Hazama25, @AlCoptan99, @inferno964
+
