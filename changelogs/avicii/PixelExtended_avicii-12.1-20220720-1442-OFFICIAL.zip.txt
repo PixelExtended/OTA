@@ -1,0 +1,58 @@
+Changelog - 2022/07/20
+
+Device Changelog:
+ 
+Rootdir: cleanup unused oneplus stuffs 
+Sepolicy: label /proc/sys/vm/rswappiness
+Build libqdMetaData.system 
+Build libdisplayconfig.system.qti for QCOM WFD
+Unpin updatable-media from memory 
+Add the customized max cached processes number
+Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0
+Fixed instagram media playback
+Drop unused radio properties 
+Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0
+Build 64 bit version of codec2 libs
+init: Remove unused tcp property change actions 
+Add a script to update sha1sum from vendor commit 
+Nuke non-existent oneplus gpudriver prop 
+Remove virtual framebuffer 
+Sync media props with CAF
+props: Use HintManager for HWUI 
+Remove TARGET_ENABLE_MEDIADRM_64
+Remove USE_DEVICE_SPECIFIC_CAMERA 
+Drop QTI camera device usage 
+Stop explicitely building netutils-wrapper-1.0
+Enable all codec2 components with their normal ranks
+Codec2: Set minQP to 1 for IMS VT Call
+Enable Average-QP feedback from Encoder to ECO 
+Add transcoding related property
+Specify kernel target level 
+Optimize art props
+props: Enable content based SF refresh rate setting
+Set Surfaceflinger refresh rate timers 
+Add display fps deferral 
+Drop audio.a2dp.default
+
+Kernel Changelog:
+
+* revert walt window changes
+* rcu normal after boot
+* disable hotplug and pm_sleep_smp
+* disable watchdog during suspend
+* Revert "sched: tune: Hardcode colocate = 1 for foreground and top-app"
+* Disable slmk
+* tcp: switch to cubic [ Fix upload speeds | faster wifi ]
+* upstream wakelock blocker
+* edit swappiness
+* revert hardcode zram
+* disable coresight
+* enable coresight placeholder with sm7250 entries
+* Enable RCU-boost
+* reduce heating on charge
+* Revert "fs: increase vfs_cache_pressure"
+* Edit features [ remove buggy ones ]
+* switch to srandom
+* use 250hz
+* fix random crashes and crashdumps
+* fix active and idle drain
