@@ -4,9 +4,7 @@ Xiaomi/Redmi devices
 -----------------------------------                                                                                     
 Xiaomi Redmi Note 9 S/Pro/Max & POCO M2 Pro (unified as miatoll)- Vedant(Neutralboi)
 
-Xiaomi Mi A2 (jasmine_sprout)- Immanuel Raj                                                                                                       
-
-Xiaomi Mi Note 5 Pro (whyred)- Immanuel Raj                                                                                                
+Xiaomi Mi A2 (jasmine_sprout)- Immanuel Raj                                                                                                                                                             
 
 POCO F3 / Xiaomi Mi 11X / Redmi K40  (alioth)- Rounak1619
 
