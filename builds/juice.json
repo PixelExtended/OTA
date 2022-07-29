@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_juice-12.1-20220701-1219-OFFICIAL.zip",
-"datetime": 1656677940,
-"size":1464705988, 
-"url":"https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_juice-12.1-20220701-1219-OFFICIAL.zip/download", 
-"filehash":"f64840110defb726cc892102206a6a75", 
+"filename": "PixelExtended_chime-12.1-20220727-1613-OFFICIAL.zip",
+"datetime": 1658938380,
+"size":1811276783, 
+"url":"https://sourceforge.net/projects/pixelextended/files/juice/PixelExtended_chime-12.1-20220727-1613-OFFICIAL.zip/download", 
+"filehash":"149c3d7ad5091d1cb08e13cb5b50320c", 
 "version": "12", 
-"pexv": "4.6", 
-"id": "3952de7466157081e32c7e7adc2894026ef49febdbac3f47e05a4bcd52d25a9f", 
+"pexv": "4.7", 
+"id": "61087f8bdd57cde105a67449c45bf242838ef0c2198480ef0f738015d04b7960", 
 "tg_username": "kiranpranay", 
 "device_name":"POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G", 
 "device":"juice", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-a12-1-pixel-extended-4-6-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice.4393915/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-a12-1-pixel-extended-4-7-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-chime.4393915/"
 }
