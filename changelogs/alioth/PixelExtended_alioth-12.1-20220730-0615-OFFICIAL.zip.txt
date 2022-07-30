@@ -1,0 +1,8 @@
+Changelog - 2022/07/30
+Imported LMK props from stock
+Set correct radio props
+Dropped QTI camera device usage
+Guard qti thermal 2.0 service hals 
+Update display stack from motorola_nio
+Cleaned up a lot stuff 
+Updated Blobs		
