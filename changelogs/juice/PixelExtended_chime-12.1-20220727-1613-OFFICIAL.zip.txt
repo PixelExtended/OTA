@@ -4,4 +4,7 @@ Changelog - 2022/07/27
 - July security patch
 - Upstreamed PEX sources
 
+Note:
+If you are coming from non-oss builds, please do factory data reset before flashing the rom.
+
 Enjoy the PEX
