@@ -1,5 +1,13 @@
 # Changelog
 
+   # V4.8 (12.08.2022) Sun Month!
+  - Added a new crowdin to translate in all languages (ask in PEX group to add new languages)
+  - Update Screen off UDFPS Settings
+  - Update Lockscreen Clock Font
+  - Add unlinked ringtone and notification volumes
+  - Add support for one shot auto-brightness
+  - ... and other small improvement
+
    # V4.7 (07.07.2022) Summer Month!
   - Merged July Security Patch and synced with latest Pe
   - Add Applock
