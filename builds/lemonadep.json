@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_lemonadep-12.1-20220708-0930-OFFICIAL.zip",
-"datetime": 1657272600,
-"size":1886344547, 
-"url":"https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended_lemonadep-12.1-20220708-0930-OFFICIAL.zip/download", 
-"filehash":"7ed9f07b21dd350d1cb4c4cbd79ce5b5", 
+"filename": "PixelExtended_lemonadep-12.1-20220812-1915-OFFICIAL.zip",
+"datetime": 1660331700,
+"size":2034193987, 
+"url":"https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended_lemonadep-12.1-20220812-1915-OFFICIAL.zip/download", 
+"filehash":"1d9769d9f49d9b7406c530c6c8e58bc2", 
 "version": "12", 
-"pexv": "4.7", 
-"id": "112944fcbcab30b3d901d951dd90790b1ebbe8a51e348e82fafcf4620ba05f16", 
+"pexv": "4.8", 
+"id": "12b625739172a96be38aab27c4d51be5ee3c6f19f21c0d4e0fc83fac587ac646", 
 "tg_username": "delano_tg", 
 "device_name":"OnePlus 9Pro", 
 "device":"lemonadep", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-1-lemonadep-12-06-22.4456631/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-12-1-lemonadep-08-07-22.4456631/"
 }
