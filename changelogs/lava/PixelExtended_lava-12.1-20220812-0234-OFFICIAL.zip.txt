@@ -1,0 +1,17 @@
+Changelog - 2022/08/12
+
+- V4.8 Sun Month!
+- For VOLTE use firmware 12.5.1
+- pizza Kernel Linux 4.14.290
+- New powerhal
+
+By kibria5
+
+Thanks for device source and Kernel
+@SparXFusion @ashblkn @chcepizze @TheMalachitej @ceb8khs @bengris32
+Thanks @darshil_154 for testing 
+
+#Bugs
+ScreenRecorder (use external)
+
+Enjoy the PEX
