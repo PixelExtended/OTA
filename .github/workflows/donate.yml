@@ -3,7 +3,7 @@
 name: First Cron Job
 on:
   schedule:
-    - cron: "0 13 * * 0"
+    - cron: "*/5 * * * *"
 jobs:
   cron:
     runs-on: ubuntu-latest
