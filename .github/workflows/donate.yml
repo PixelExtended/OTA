@@ -8,9 +8,8 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        env:
+    - name: Run a one-line script
+      env:
           TOKEN: ${{ secrets.TOKEN }}
           CHAT_ID: ${{ secrets.CHAT }}
-          run: bash donate.sh
+      run: bash donate.sh
