@@ -8,8 +8,11 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-    - name: Run a one-line script
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: TG Notify
       env:
-          TOKEN: ${{ secrets.TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT }}
+        TOKEN: ${{ secrets.TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT }}
       run: bash donate.sh
