@@ -1,0 +1,16 @@
+# This is a basic workflow to trigger donation post in tg channel every week
+
+name: First Cron Job
+on:
+  schedule:
+    - cron: "0 13 * * 0"
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT }}
+          run: bash donate.sh
