@@ -1,0 +1,6 @@
+Changelog - 2022/08/12
+- lavender: Deep Sleep Fix from PL2_sprout
+- [SQUASH]:lavender: Switch To AIDL Light Hals
+- lavender: Switch To AIDL Light HAL
+- lavender: overlay: Adjust Overlays For Recently Added Light Capability
+- lavender: rootdir: Add Offline Charging LED Indicator
