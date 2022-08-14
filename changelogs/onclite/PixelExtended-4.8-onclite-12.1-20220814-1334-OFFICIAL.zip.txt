@@ -1,0 +1,9 @@
+Changelog - 2022/08/14
+
+- Update post_boot_init scripts from stock
+- Some misc changes
+- Improved Sinsperf kernel, build with latest source
+
+CREDITS: 
+Thanks @Dhina_17 @bibarub for device trees and @Soumyajitpaul007 for vendor trees.
+Thanks @ReaL_XelXen @SanZay1 @MrUn1corn & @Blaeziii for testing.
