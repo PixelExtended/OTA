@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_onclite-12.1-20220717-1118-OFFICIAL.zip",
-"datetime": 1658056680,
-"size":1456170269, 
-"url":"https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended_onclite-12.1-20220717-1118-OFFICIAL.zip/download", 
-"filehash":"692f268870c6ca7639df324a89106ad1", 
+"filename": "PixelExtended-4.8-onclite-12.1-20220814-1334-OFFICIAL.zip",
+"datetime": 1660484040,
+"size":1456708497, 
+"url":"https://sourceforge.net/projects/pixelextended/files/onclite/PixelExtended-4.8-onclite-12.1-20220814-1334-OFFICIAL.zip/download", 
+"filehash":"baeb7ba8232469e15c6ad0cb27bb34ba", 
 "version": "12", 
-"pexv": "4.7", 
-"id": "93a225f689ac67888ae5c0247f6d81312496441b64bc190c3a317a03cbfa233e", 
+"pexv": "4.8", 
+"id": "13e3ff3f653aebd3c9fb78e08a3714fc30d938900350c6c01c27a2258db9094c", 
 "tg_username": "afterallafk", 
 "device_name":"Redmi 7", 
 "device":"onclite", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-4-android-12-1-onclite-05-05-22.4377045/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-7-android-12-1-onclite-07-07-22.4377045/"
 }
