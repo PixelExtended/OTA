@@ -1,0 +1,9 @@
+Changelog - 2022/08/15
+- Android 12.1 July security patch update (12.1.0_r22)
+- Force fullscreen for Google Dialer 
+- Update kernel to 4.14.280
+
+Notes
+- S Firmware is mandatory 
+- This rom supports only LOS and PE recovery - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
