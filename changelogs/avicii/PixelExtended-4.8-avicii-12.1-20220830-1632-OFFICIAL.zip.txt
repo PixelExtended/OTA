@@ -1,0 +1,29 @@
+Changelog - 2022/08/30
+
+Device Changelog:
+
+-Fixed deep sleep issue 
+-removed back touch hidl
+-added back DEVICE_SPECIFIC_CAMERA
+-upstreamed kernel
+-TWRP recovery is working now 
+
+kernel changelogs :
+
+-revert "mm: Boost when memory pressure becomes high"
+-fix devfreq flags
+-disp: msm: sde: add check to fix null pointer dereference
+-PM / devfreq: Make update_devfreq() public
+-treewide: Fix remaining (maybe-)uninitialized warnings
+-techpack: display: Boost CPU and DDR to the max during fingerprint scans
+-mm: Boost when memory pressure becomes high
+-devfreq_boost: Mark boost kthreads as performance critical
+-drm: Reduce latency while processing atomic ioctls
+-sched/boost: Boost CPU and DDR bus when sched_boost is triggered
+-cpu_input_boost: Mark boost kthread as performance critical
+-Makefile: Apply tuning flags from lazerl0rd
+-Squash revert all cpu freq overriding
+
+Notes:
+- if anyone get battery issue try jakversion8
+- Please report bugs with logs if you found any
