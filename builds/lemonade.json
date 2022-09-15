@@ -1,15 +1,15 @@
 {
 "error":false,
-"filename": "PixelExtended_lemonade-12.1-20220812-1627-OFFICIAL.zip",
-"datetime": 1660321620,
-"size":2029825257, 
-"url":"https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended_lemonade-12.1-20220812-1627-OFFICIAL.zip/download", 
-"filehash":"d6eeb8fd72cdebc47457c6c253ae9e98", 
+"filename": "PixelExtended-4.9-lemonade-12.1-20220915-0226-OFFICIAL.zip",
+"datetime": 1663208760,
+"size":2250564639, 
+"url":"https://sourceforge.net/projects/pixelextended/files/lemonade/PixelExtended-4.9-lemonade-12.1-20220915-0226-OFFICIAL.zip/download", 
+"filehash":"406076cabd2ea2aadea221a45dca7d18", 
 "version": "12", 
-"pexv": "4.8", 
-"id": "a94e565c68ba41d8eff91ac7023dfc910a6b179cdaf7b22b5d20a102ccfa7efc", 
-"tg_username": "ralf979", 
+"pexv": "4.9", 
+"id": "784d03bd1afb858dd86f0b5d5f9589ea1e8163449bdec50a9889ede0d41a290d", 
+"tg_username": "delano_tg", 
 "device_name":"OnePlus 9", 
 "device":"lemonade", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-7-android-12-1-lemonade-08-07-2022.4447241/"
+"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-v4-8-android-12-1-lemonade-12-08-2022.4447241/"
 }
