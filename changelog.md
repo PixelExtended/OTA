@@ -1,5 +1,12 @@
 # Changelog
 
+  # V4.9 (14.09.2022) The Last Dance
+
+  - Updated security patch to september
+  - Depracating Android 12 Builds
+  - Marking the start of Android 13 development
+  - ... and other small improvement
+
    # V4.8 (12.08.2022) Sun Month!
   - Added a new crowdin to translate in all languages (ask in PEX group to add new languages)
   - Update Screen off UDFPS Settings
