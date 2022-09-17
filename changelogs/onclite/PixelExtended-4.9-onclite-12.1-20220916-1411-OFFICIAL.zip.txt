@@ -1,0 +1,22 @@
+Changelog - 2022/09/16
+
+ - Update dirac blobs
+ - Update GPS config from stock
+ - Updated build fingerprint
+ - Overlay: Allowed all apps to use smart replies
+ - Overlay: added support for smart pixels
+ - Audio: extend buffer size to 256kb for offload playback
+ - Set cutoff voltage to 3400
+ - Set speaker and microphone volume to 90
+ - Added Battery statistics overlay
+ - Set property "ENABLE" for speaker & earpiece boost
+ - Increase in-call earpiece volume
+ - Fixed sepolicy denial
+ - Kernel Changes
+  -Increase silver cluster boost freq to 1800 MHz
+  -Configure max-boost frequencies for cpu_input_boost
+  -Introduce Simple Low Memory Killer for 2GB RAM devices means better RAM Management
+  -Increase Max Charging speed to 2500MAH
+
+CREDITS: Thanks @Dhina_17 @bibarub for device tree and @Soumyajitpaul007 for vendor tree.
+         Thanks @nitinrajput34, @Hamraj37 for testing.
