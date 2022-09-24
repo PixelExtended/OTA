@@ -1,0 +1,10 @@
+Changelog - 2022/09/24
+
+- Initial official build
+- September Security Patch
+- SElinux is Enforcing
+- Added Gcam go as default cam
+- cts passes by default  
+- Debloated unnecessary apps
+
+by @kibria5
