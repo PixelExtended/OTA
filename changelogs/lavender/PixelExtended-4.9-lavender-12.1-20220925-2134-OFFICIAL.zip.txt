@@ -1,0 +1,10 @@
+Changelog - 2022/09/26
+
+- Updated FP with latest Bluejay.
+- Improved Deep Sleep issue.
+- Shipped kernel with Nexus 10.1 QTI.
+- Enforcing build.
+- CTS passing by default.
+- With September Patch
+
+by @Shizukachanwa
