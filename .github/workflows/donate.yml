@@ -4,15 +4,37 @@ name: First Cron Job
 on:
   schedule:
     - cron: "0 13 * * 0"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
 jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: TG Notify
-      env:
-        TOKEN: ${{ secrets.TOKEN }}
-        CHAT_ID: ${{ secrets.CHAT }}
-      run: bash donate.sh
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
+        with:
+          path: "support/requirements.txt"
+      - name: TG Notify
+        env:
+          TOKEN: '${{ secrets.TOKEN }}'
+          CHAT_ID: '${{ secrets.CHAT }}'
+        run: bash donate.sh
+      - name: push changes to remote
+        run: |
+          git config --global user.name "heisinbug"
+          git config --global user.email "guptaaryan189@gmail.com"
+          git add .
+          git commit -m "Update Maintainers List"
+          git push

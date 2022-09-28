@@ -1,12 +1,12 @@
-import os, json
+import os, json, tables
 import pandas as pd
 
-path_to_json = '/home/heisinbug/OTA/builds'
+path_to_json = 'builds/'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 #print(json_files)  # for me this prints ['foo.json']
 
 # here I define my pandas Dataframe with the columns I want to get from the json
-jsons_data = pd.DataFrame(columns=[ 'tg_username', 'device_name', 'pexv'])
+jsons_data = pd.DataFrame(columns=[ 'Maintainer', 'Device', 'Last Pex Version'])
 
 # we need both the json and an index number so use enumerate()
 for index, js in enumerate(json_files):
@@ -23,3 +23,5 @@ for index, js in enumerate(json_files):
 
 # now that we have the pertinent json data in our DataFrame let's look at it
 print(jsons_data)
+#jsons_data.to_csv (r'/home/heisinbug/OTA/support/maintainer.csv', index = True)
+jsons_data.to_markdown (r'support/maintainer.md', index = True)

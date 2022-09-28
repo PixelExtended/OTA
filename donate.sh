@@ -2,6 +2,9 @@
 LINK="https://www.paypal.com/paypalme/aryan65"
 INLINK="https://heisinbug.tech/pay"
 
+# Run Maintainers Script too
+python  support/maintainers.py
+
 # Format post
 read -r -d '' msg <<EOF
 <b> Liked Our Worked on delivering a usable PE to you XD , then buy us some beer by donating </b>
@@ -11,7 +14,7 @@ read -r -d '' msg <<EOF
 
 EOF
 
-# Make a nice post and send it to TG channel
+#Make a nice post and send it to TG channel
 curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
     -d chat_id="${CHAT_ID}" \
     -d "disable_web_page_preview=true" \

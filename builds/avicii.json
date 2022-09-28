@@ -1,4 +1,5 @@
-[{
+[
+{
 "error":false,
 "filename": "PixelExtended-4.9-avicii-12.1-20220830-1632-OFFICIAL.zip",
 "datetime": 1661877121,
@@ -12,4 +13,5 @@
 "device_name":"Oneplus Nord", 
 "device":"avicii", 
 "xda_thread":"https://forum.xda-developers.com/t/rom-12-official-pixel-extended-12-0-oneplusnord-avicii-23-05-2022.4279755/"
-}]
+}
+]
