@@ -1,7 +1,8 @@
 pull_request_rules:
   - name: Automatic merge on approval
     conditions:
-      - "#approved-reviews-by=0"
+      - check-success=Validate Jsons
+      - files~=^(builds/|changelogs/)$
     actions:
       merge:
         method: merge

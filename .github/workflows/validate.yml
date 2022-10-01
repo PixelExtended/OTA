@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: validate
+      - name: Validate Jsons
         uses: anyone-developer/anyone-validate-json@main
         with:
           file-extension: ".json"
