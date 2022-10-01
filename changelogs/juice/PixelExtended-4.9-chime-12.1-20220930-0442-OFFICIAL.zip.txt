@@ -8,7 +8,7 @@ Changelog - chime
 - EOL build
 
 Note:
-- If you are coming from non-oss builds, please do factory data reset before flashing the rom.
+- If you are coming from non-oss builds, please do FACTORY DATA RESET before flashing the rom.
 - Clean flash is recommended.
 
 Enjoy the PEX
