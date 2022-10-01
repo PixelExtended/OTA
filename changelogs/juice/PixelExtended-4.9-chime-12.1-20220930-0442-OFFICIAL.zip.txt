@@ -1,0 +1,14 @@
+Changelog - chime
+
+- Sept. security patch
+- Fixed Video Calling
+- Enable FBEv2
+- Enable encryption
+- Upstreamed PEX sources
+- EOL build
+
+Note:
+- If you are coming from non-oss builds, please do factory data reset before flashing the rom.
+- Clean flash is recommended.
+
+Enjoy the PEX
