@@ -1,5 +1,32 @@
 # Changelog
 
+  # V5.0 (03.10.2022) PEXtension - Welcome A13
+
+  - September Security Patch
+  - Added the PEXtension menu (where you will find all the added features)
+  - Allow user to add/remove QS with one click
+  - Haptic Feedback to tiles
+  - Allow using 4G icon instead of LTE
+  - Incall vibration options
+  - Advanced reboot toggle
+  - Three-fingers-swipe to screenshot
+  - Statusbar NFC icon
+  - Double tap to sleep on lockscreen
+  - Double tap to sleep on statusbar
+  - Fingerprint authentication vibration
+  - Volume Rocker Wake
+  - Network traffic monitor
+  - Lockscreen quick unlock
+  - Hide power menu on secure lockscreen
+  - Volume Long Press Skip Tracks
+  - Volume key cursor control
+  - Old style mobile data indicators
+  - Quick QS pulldown
+  - ... and other small improvement
+
+This is a new Android version, so the missing features will be added later
+Enjoy The PEX !!
+
   # V4.9 (14.09.2022) The Last Dance
 
   - Updated security patch to september
