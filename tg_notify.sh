@@ -7,6 +7,7 @@ if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
     exit 0
 fi
 
+STATUS="$(jq -r '.[] | .status' "${CHANGED_FILE}")"
 DEVICE="$(jq -r '.[] | .device' "${CHANGED_FILE}")"
 STICKER="sticker.tgs"
 PHOTO="banner.jpeg"
@@ -19,6 +20,8 @@ XDA="$(jq -r '.[] | .xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.[] | .tg_username' "${CHANGED_FILE}")"
 ROM="https://github.com/PixelExtended/OTA/blob/snow/changelog.md"
 DONATION="https://heisinbug.tech/pay"
+if [[ $STATUS = "Active" ]]
+then
 
          curl -X POST -F sticker=@"${STICKER}" https://api.telegram.org/bot"${TOKEN}"/sendSticker -F chat_id="${CHAT_ID}"
 
@@ -40,3 +43,6 @@ Codename : ${DEVICE}
 Liked My Project <a href='${DONATION}'>Donate Here</a>
 
 #PEX #${DEVICE}"
+else
+echo "Device is inactive thus no notification pushed"
+fi
