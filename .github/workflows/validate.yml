@@ -1,16 +1,19 @@
-name: Validate JSONs
+name: Validate json files
 
-on: [pull_request]
+on:
+  pull_request:
+    branches: [ trece ]
 
 jobs:
-  build:
+  validate-json:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - name: Validate Jsons
-        uses: anyone-developer/anyone-validate-json@main
-        with:
-          file-extension: ".json"
-          ignore-files: "README.md,changelog.md,sticker.tgs,banner.jpeg"
-          ignore-directories: "changelog,.git,support"
-          read-path: "builds"
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 2
+
+    - name: Validate json files
+      uses: RaaLabs/validate-json@v0.0.7
+      with:
+        directory: "builds/"
