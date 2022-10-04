@@ -1,7 +1,0 @@
-Changelog - 2021/12/18
-
-BiFrost-v3.0 Kernel Included 
-Dec Security Patch
-SafetyNet Passed without magisk 
-Unlocked Max Games FPS by default (Pubg/Bgmi 90FPS)
-Adapted to better props for less jitter

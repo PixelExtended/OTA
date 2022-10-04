@@ -1,3 +1,0 @@
--Fixed Know Issues
--SafetyNet passes
--Premissive Selinux

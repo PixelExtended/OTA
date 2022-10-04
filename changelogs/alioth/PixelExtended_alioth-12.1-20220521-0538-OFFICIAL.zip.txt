@@ -1,7 +1,0 @@
-Changelog - 2022/05/21
-
-- Rebased Trees
-- Based on FW 13.0.2.0 (Already included no need to flash )
-- Various fixes and improvements
-- Dirty flash may work but Clean flash is recommended for best experience
-

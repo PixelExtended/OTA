@@ -1,8 +1,0 @@
-Changelog - 2022/09/17 
-- Android 12.1 September security patch update (12.1.0_r22)
-- Set bootanimation to 1440 (Only for devices with WQHD+ display)
-
-Notes 
-- S Firmware is mandatory
-- This rom supports only LOS and PE recovery - Please don't report bugs if you using TWRP
-- Please report bugs with logs if you found any

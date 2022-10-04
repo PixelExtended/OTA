@@ -1,6 +1,0 @@
-Changelog - 2022/07/18
-
-- Initial Official Build
-- Nexus 9.9 QTI Kernel Included
-- Clean Flash Recommended
-- Deep Sleep working well now

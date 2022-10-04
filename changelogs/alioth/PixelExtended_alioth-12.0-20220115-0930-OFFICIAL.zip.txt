@@ -1,6 +1,0 @@
-Changelog - 2022/01/15
-
--Rebased trees
--Fixed all known bugs
-
-Note: please do clean flash if facing bugs and before reporting. Also this is December patch build and Jan build will be released as soon as pex sources merge Jan security patch

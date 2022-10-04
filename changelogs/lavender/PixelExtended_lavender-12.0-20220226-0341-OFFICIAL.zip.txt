@@ -1,5 +1,0 @@
-Changelog - 2022/02/25
-
-- Fixed Xiaomi Parts Overlays
-- Drop thermal profile from xiaomi parts
-- Revert "lavender: Switch Skia rendering backend to OpenGl"

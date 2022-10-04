@@ -1,8 +1,0 @@
-Changelog - 2022/01/25
-
-- Initial A12 build
-- January security patch
-- Upstreamed kernel to latest
-- Upstreamed PEX sources
-
-Enjoy the PEX

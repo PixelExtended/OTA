@@ -1,8 +1,0 @@
-Changelog - 2022/04/15
-
-Initial official Build
-Encrypted
-User Build
-Clean Flash Must
-Use latest official pbrp recovery only
-Dont flash any other kernel

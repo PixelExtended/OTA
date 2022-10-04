@@ -1,7 +1,0 @@
-Initial Official A12 build
-Enforcing build
-Safetynet passes
-Add FPS info
-[SQUASH] Introduce FPS counter QS Tile
-Update blobs from PHOENIX 21.11.17
-Switch rendering to SkiaVK and enable Vulkan Support

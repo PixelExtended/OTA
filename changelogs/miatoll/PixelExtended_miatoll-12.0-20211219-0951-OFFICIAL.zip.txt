@@ -1,4 +1,0 @@
-Initial Build
-Premissive Selinux 
-SafetyNet passes 
-Encrypted Build 

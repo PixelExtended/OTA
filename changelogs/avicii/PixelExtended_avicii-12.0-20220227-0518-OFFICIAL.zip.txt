@@ -1,7 +1,0 @@
-Changelog - 2022/02/27
--Fixed Know Issues
--Fixed Google Photos (Device is too hot)
--Gave A Try To Fix Gcam Crash
--A Lot 
-
-Note : Old Recoveries Wont Work From Now Use This : https://bit.ly/3vkh0r6

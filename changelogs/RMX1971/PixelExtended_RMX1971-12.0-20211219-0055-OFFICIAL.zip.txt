@@ -1,9 +1,0 @@
-Changelog - 2021/12/19
-* Safetynet Passes by default
-* Kernel Upstreamed to 4.9.291
-* Updated to Raven December FP
-* Fixed dt2w 
-* Fixed USB Tethering
-* Fixed 2% battery drain
-* Selinux is Enforcing
-* Get unlimited storage in Google Photos in any quality

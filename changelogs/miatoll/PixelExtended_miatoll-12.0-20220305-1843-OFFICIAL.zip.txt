@@ -1,8 +1,0 @@
-February release
-Added google camera
-Fixed status bar height
-CTS passed by default
-all banking apps working fine
-Based on los trees
-some minor imporvements and fixes
-NOTE:- MUST FLASH WITH PE RECOVERY

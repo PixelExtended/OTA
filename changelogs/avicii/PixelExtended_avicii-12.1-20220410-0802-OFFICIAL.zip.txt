@@ -1,5 +1,0 @@
-Changelog - 2022/04/10
--Rebased Whole tress
--A Lot changes and fixes done
-
-Note: Clean flash is must and take backup before

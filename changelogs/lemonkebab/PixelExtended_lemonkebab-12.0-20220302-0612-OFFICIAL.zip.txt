@@ -1,6 +1,0 @@
-Changelog - 2022/03/02
--Updated Auto Brightness Values
--Udfps General improvements
--Removed unusued dolby libs
--Increased status bar height landscape to 104px  
--Some Other Fixes Has Been Done

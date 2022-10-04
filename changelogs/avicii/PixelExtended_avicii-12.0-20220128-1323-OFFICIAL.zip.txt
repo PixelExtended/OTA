@@ -1,7 +1,0 @@
-Changelog - 2022/01/28
--Enforcing Build
--Tried to fix gcam random crashes
--Fixed knows issues 
--Clean flash not necessary but recommended
--Safetynet passes by default 
--GCAM Go added 

@@ -1,7 +1,0 @@
-Changelog - 2022/01/27
-
-* Fixed Various Denials
-* Merged Jan Patches
-* Moved To zLOS Kernel
-* Moved To Pixel Build Fingerprint
-* Fixed HW Buttons

@@ -1,7 +1,0 @@
-Changelog - 2022/01/02
-
-- Initial A12 build
-- SElinux is Enforcing
-- Shipped to RyZeN Kernel
-- Added Gcam go as default cam
-- cts passes by default  
