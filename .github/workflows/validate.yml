@@ -2,7 +2,7 @@ name: Validate json files
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ trece ]
 
 jobs:
   validate-json:

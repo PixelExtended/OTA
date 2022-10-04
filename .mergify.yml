@@ -3,7 +3,7 @@ pull_request_rules:
     conditions:
       - files~=^builds/
       - files~=^changelogs/
-      - "check-success=Validate JSONs"
+      - check-success=Validate json files
       - "#files=2"
     actions:
       merge:
