@@ -1,5 +1,5 @@
-DEVICE_JSON_URL="https://raw.githubusercontent.com/PixelExtended/OTA/snow"
-DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/snow/changelogs/"
+DEVICE_JSON_URL="https://raw.githubusercontent.com/PixelExtended/OTA/trece"
+DEVICE_CHANGELOG_URL="https://raw.githubusercontent.com/PixelExtended/OTA/trece/changelogs/"
 CHANGED_FILE="$(git diff --name-only HEAD~1 | head -1)"
 
 if ! [[ "${CHANGED_FILE}" =~ "json" ]]; then
@@ -18,7 +18,7 @@ DEVICE_NAME="$(jq -r '.[] | .device_name' "${CHANGED_FILE}")"
 PEXV="$(jq -r '.[] | .pexv' "${CHANGED_FILE}")"
 XDA="$(jq -r '.[] | .xda_thread' "${CHANGED_FILE}")"
 USERNAME="$(jq -r '.[] | .tg_username' "${CHANGED_FILE}")"
-ROM="https://github.com/PixelExtended/OTA/blob/snow/changelog.md"
+ROM="https://github.com/PixelExtended/OTA/blob/trece/changelog.md"
 DONATION="https://heisinbug.tech/pay"
 if [[ $STATUS = "Active" ]]
 then
