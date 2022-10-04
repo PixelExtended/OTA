@@ -1,17 +1,18 @@
 [
 {
 "error":false,
-"filename": "PixelExtended-4.9-raphael-12.1-20220915-1217-OFFICIAL.zip",
-"datetime": 1663244220,
-"size":2028836299, 
-"url":"https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended-4.9-raphael-12.1-20220915-1217-OFFICIAL.zip/download", 
-"filehash":"08ac61c443bc175cffa09cfe4c469b0f", 
+"filename": "PixelExtended-5.0_raphael-13.0-20221003-1323-OFFICIAL.zip",
+"datetime": 1664803380,
+"size":1842653892, 
+"url":"https://sourceforge.net/projects/pixelextended/files/raphael/PixelExtended-5.0_raphael-13.0-20221003-1323-OFFICIAL.zip/download", 
+"filehash":"cb5cbf79606c6e936456c63b7c0f98bd", 
 "version": "12", 
-"pexv": "4.9", 
-"id": "fbfa95c7bbfc3ee6c515c3fde28165422fc88d50021717f7a1ca929e25f4e057", 
-"tg_username": "ralf979", 
-"device_name":"Xiaomi Mi 9t Pro", 
-"device":"raphael", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-12-1-raphael-official-pixel-extended-rom-12-08-2022.4146471/"
+"status": "Active 5.0", 
+"pexv": "cf67983163380be47dd5a66f6c11d951896fb744525c846c52caa626125a20b8", 
+"id": "ralf979", 
+"tg_username": "Xiaomi Mi 9T pro", 
+"device_name":"raphael", 
+"device":"https://forum.xda-developers.com/t/rom-12-1-raphael-official-pixel-extended-rom-15-09-2022.4146471/", 
+"xda_thread":""
 }
 ]
