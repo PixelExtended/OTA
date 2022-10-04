@@ -10,6 +10,8 @@ based on  O.S.S. vendor and Soviet star kernel (A11 Firmware)
 Recommended Recovery - Orang FOX Official
 Rom is decrypted by default so no need to flash dfe. Users who want to stay encrypted can flash efe by @PptOo7 to enable the encryption
 
+**** For build V5.0 is mandatory CLEAN FLASH *****
+
 Clean Flash
 - Back up all your data
 - Flash Recommended Recovery
