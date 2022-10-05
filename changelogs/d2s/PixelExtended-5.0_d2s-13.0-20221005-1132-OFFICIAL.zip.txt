@@ -1,0 +1,10 @@
+Changelog - 2022/10/04
+
+- Enable blur
+- Remap Bixby key to Google Assistant
+- Initial Android 13 Release
+
+Notes
+- Clean flash is mandatory for build V5.0
+- This rom supports only PE and LOS recovery - Please don't report bugs if you using TWRP
+- Please report bugs with log if you found any
