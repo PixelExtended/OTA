@@ -1,0 +1,5 @@
+Notes
+
+- Initial release
+- The recommended fw you can find here-> https://telegra.ph/-09-24-1104 <-
+- Clean flash mandatory
