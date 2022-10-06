@@ -1,0 +1,22 @@
+Changelog - 2022/10/06
+
+- Initial A13.0 Release
+- September security patch
+- Shipped to xcalibur+ kernel
+- Update system blobs 
+- Debloat some apps
+- Aod Added 
+
+
+FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites : Brain and ability to READ !
+
+-- -- For every major release clean flash is mandatory !!
+only report bugs if you have done clean flash! -- --
+
+By 𝒌𝒊𝒃𝒓𝒊𝒂5
+
+Enjoy the PEX
