@@ -5,10 +5,7 @@ pull_request_rules:
       - files~=^changelogs/
       - check-success=validate-json
       - "#files=2"
-      - "#approved-reviews-by>=1"
+      - author=@PixelExtended/maintainers
     actions:
-      assign:
-        add_users:
-          - ralf979
-      merge:
+     merge:
         method: merge
