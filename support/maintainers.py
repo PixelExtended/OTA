@@ -21,7 +21,7 @@ for index, js in enumerate(json_files):
         pexv = json_text[0]['pexv']
         status = json_text[0]['status']
         # here I push a list of data into a pandas DataFrame at row given by 'index'
-        jsons_data.loc[index] = [tg_username, device_name, pexv, codename, status]
+        jsons_data.loc[index] = [tg_username, device_name, codename, pexv, status]
 
 # now that we have the pertinent json data in our DataFrame let's look at it
 print(jsons_data)
