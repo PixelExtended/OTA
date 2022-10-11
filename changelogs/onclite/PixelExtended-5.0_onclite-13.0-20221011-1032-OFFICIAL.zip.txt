@@ -1,0 +1,10 @@
+Changelog - 13.0
+Build Date: 11th October, 2022
+
+- Initial Android 13 Build
+- Fixed Reboot Bootloop Issue after first boot.
+- Fixed Incoming Calls, Camera, Outgoing Calls, WiFi.
+- Added Radio, Ril, IMS related build.props required by vendor.
+
+Credits: Thanks @Noviceyash @SonDiegoTiSpiego & @mishasparr for the testing.
+	 Thanks @Dhina_17 @bibarub for device tree and Hadad for vendor.
