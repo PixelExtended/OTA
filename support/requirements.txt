@@ -87,7 +87,6 @@ systemd-python==234
 tables==3.6.1
 tabulate==0.8.10
 Twisted==18.9.0
-ubuntu-advantage-tools==27.10
 ufw==0.36
 urllib3==1.25.8
 wadllib==1.3.3
