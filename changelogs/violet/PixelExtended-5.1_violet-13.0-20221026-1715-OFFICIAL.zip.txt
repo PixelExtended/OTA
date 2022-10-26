@@ -1,0 +1,12 @@
+Changelog - 2022/10/27
+
+- October security patch
+- Added logo to dirac header
+- Added more dirac presets
+- Improved dirac QS tile long press logic
+- switch to Azure+ kernel
+- Update all Blobs
+
+N.B: - Firmware Not Included
+
+Enjoy the PEX

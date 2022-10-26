@@ -1,17 +1,17 @@
 [
 {
 "error":false,
-"filename": "PixelExtended-5.0_violet-13.0-20221006-1246-OFFICIAL.zip",
-"datetime": 1665060360,
-"size":1597895955, 
-"url":"https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended-5.0_violet-13.0-20221006-1246-OFFICIAL.zip/download", 
-"filehash":"c5bdd22b2e4b33c3e30d4ad7a41de3e9", 
+"filename": "PixelExtended-5.1_violet-13.0-20221026-1715-OFFICIAL.zip",
+"datetime": 1666804500,
+"size":1599118159, 
+"url":"https://sourceforge.net/projects/pixelextended/files/violet/PixelExtended-5.1_violet-13.0-20221026-1715-OFFICIAL.zip/download", 
+"filehash":"c67dbb482a2f1c989777d9bdc4f5611d", 
 "version": "13", 
 "status": "Active", 
-"pexv": "5.0", 
-"id": "00215b9e625b96d5f564b28d9150e6c02c28e3cc52addc3df69403667faf4279", 
+"pexv": "5.1", 
+"id": "0d25a284b89a4dc2e03334f46a8d60b4275f9beeb3515f912e050d957feddcc4", 
 "tg_username": "kibria5", 
-"device_name":"Redmi Note 7 Pro ", 
+"device_name":"Redmi Note 7 Pro", 
 "device":"violet", 
 "xda_thread":"https://forum.xda-developers.com/t/rom-13-0-violet-official-pixel-extended-rom-06-10-2022.4496915/"
 }
