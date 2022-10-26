@@ -1,0 +1,11 @@
+Changelog - 5.1 based on Android 13.0
+Build Date: 26th October, 2022
+
+- October Security Patch
+- Ship Moto Dolby
+- Tuned dalvik heap props for 3GB & 4GB RAM devices
+- Added Camera2API props
+- Added props for smoother scrolling and better responsiveness
+
+Credits: Thanks @Dhina_17 @bibarub for the device tree and Hadad for the vendor
+	 Thanks @Pein_zerO for testing and reporting.
