@@ -1,0 +1,9 @@
+Initial official release v5.1
+
+flash guide 
+-flash firmware (miui 13.0.8)
+-flash rom 
+-format 
+-reboot system
+
+Enjoy the PEX
