@@ -1,0 +1,40 @@
+Changelog - 28/10/2022
+
+- Updated to October 2022 security patch (13.0.0 r7).
+- Added OnePlus Settings.
+- Added OnePlus ambient gestures. 
+- Added more vibration levels.
+- Fix hyper touch and TP edge limit.
+- Fixed LDAC audio.
+- Added Warp Charging overlays and hopefully fixed fast charging. 
+- Fixed Live captions.
+- Drop some unnecesary broken stuff.
+- Some PEX patches and optimizations as usual.
+- Plus some optimizations from LOS. 
+
+FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites : Brain and ability to READ !
+
+Clean Flash:
+1. Download boot.img, dtbo.img and vendor_boot.img from "A13.0 Flash-utility" folder in SourceForge.
+2. Reboot phone to bootloader.
+3. fastboot flash boot boot.img
+4. fastboot flash dtbo dtbo.img
+5. fastboot flash vendor_boot vendor_boot.img
+6. Reboot phone to recovery and FORMAT DATA.
+7. ADB sideload PixelExtended_lemonadep-xxxxxxxxxxx.zip
+8. Reboot system. Profit.
+
+Dirty Flash from PEX 5.0 Only :
+1. Reboot phone to recovery.
+2. ADB sideload PixelExtended_lemonadep-xxxxxxxxxxx.zip
+3. Reboot system. Profit.
+
+Rooting:
+1. Download Magisk.zip
+2. Reboot phone to recovery.
+3. adb sideload Magisk_xxx.zip
+4. Reboot system. Profit.
