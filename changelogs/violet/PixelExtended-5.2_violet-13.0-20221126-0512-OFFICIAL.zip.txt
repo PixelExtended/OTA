@@ -1,0 +1,20 @@
+Changelog - 2022/11/26
+
+- November security patch
+- Enable FOD icon & Quick tap support
+- Increase In-call earpiece volume
+- smoother scrolling and better responsiveness 
+- Add Max visible notification icons for normal 6 and dark 7
+- increase 5 GHz network signal tolerance
+- Set Google autofill service as default
+- Set Window animation/transition scale to 0%  (Feels way smoother)
+- rm package cache on early boot
+- allocate heap values dynamically
+- Tune dalvik heap It will fix ui lags on 4gb ram variants
+- Enable display force split 
+- Kill IMS logspam
+- add nodes to hide Magisk in banking apps 
+- Adjust lux stability time needed for updating auto-brightness
+
+Enjoy the PEX
+
