@@ -1,0 +1,56 @@
+Changelog - 2022/11/26
+
+ - Enable UDFPS icon
+ - overlay: set Udfps Animation Position
+ - Enable extra UDFPS animations
+ - overlay: Disable STATE_DOZE_SUSPEND 
+ - Remove FPS Info overlay
+ - Build IFAA Service from source 
+ - parts: Use strings from source
+ - adapt vendor code overlay to source 
+ - parts: Use all shared resources from devicesettings 
+ - Add hardware/xiaomi 
+ - Remove biometrics/motor interfaces 
+ - parts: popupcamera: Fixup calibration handling 
+ - parts: popupcamera: Delay creating MotorStatusCallback when … 
+ - parts: popupcamera: Directly takeback the motor if it's not … 
+ - parts: popupcamera: Quickly takeback the motor in free fall 
+ - parts: popupcamera: Fix missing title in popup settings 
+ - parts: popupcamera: Remove unused strings 
+ - parts: popupcamera: Stop using proximity sensor 
+ - parts: popupcamera: Correct popup light nodes for raphael 
+ - parts: popupcamera: Simplify popup lights handling 
+ - parts: Don't explicitely set android:theme for activities 
+ - parts: Remove onOptionsItemSelected 
+ - Import XiaomiParts from sm8250-common 
+ - sepolicy: Fix Neverallows
+ - Adapt sepolicy to Android 12
+ - Dont use blur
+ - Use Clang from source
+ 
+ #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! 🚥
+
+based on  O.S.S. vendor and Soviet star kernel (A11 Firmware)
+Recommended Recovery - Orang FOX Official
+Rom is decrypted by default so no need to flash dfe. Users who want to stay encrypted can flash efe by @PptOo7 to enable the encryption
+
+**** For this build is raccomanded CLEAN FLASH! dont report bug with dirty flash*****
+
+Clean Flash
+- Back up all your data
+- Flash Recommended Recovery
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- reboot system
+
+Enjoy the PEX
