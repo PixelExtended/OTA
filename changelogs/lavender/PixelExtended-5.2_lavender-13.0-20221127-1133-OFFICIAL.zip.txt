@@ -1,0 +1,13 @@
+Changelog - 13.0 v5.2
+Build Date - 27th November, 2022
+
+- November patch.
+- Built with latest source.
+- Clean flash mandatory.
+- Xiaomi Parts included.
+- CTS Passes by default.
+- Camera Freezing fixed
+
+Credits: 
+ • Thanks @AaradhayVijay for the trees.
+
