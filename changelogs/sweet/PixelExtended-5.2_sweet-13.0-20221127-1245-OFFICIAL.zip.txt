@@ -1,0 +1,13 @@
+Changelog - 13.0 v5.2
+Build Date - 27th November, 2022
+
+- Initial Android 13 build
+- November security patch
+- Import Oneplus Dolby
+- Fixed duplicate sepolicy entries
+- Switched to old sepolicy_vndr
+- Switched to testkeys.pem for AVB
+- Set TARGET_2ND_ARCH_VARIANT to armv8-a
+
+Credits: Thanks @zaidkhan0997 for device, vendor & kernel tree
+	 Thanks @Anmol1710 for testing
