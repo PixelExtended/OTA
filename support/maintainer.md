@@ -14,4 +14,4 @@
 | 11 | delano_tg     | OnePlus 9Pro          | lemonadep  |                5.1 | Active          |
 | 12 | kibria5       | Redmi Note 7 Pro      | violet     |                5.1 | Active          |
 | 13 | Jubscleisson  | Galaxy Note10+ 5G     | d2x        |                5   | Active          |
-| 14 | shizukachanwa | Redmi Note 7          | lavender   |                5   | Active          |
+| 14 | moonichanwa | Redmi Note 7          | lavender   |                5   | Active          |
