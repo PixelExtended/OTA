@@ -1,0 +1,65 @@
+Device:
+
+-Enabled system info
+-Drop updateable GPU drivers
+-Use HintManager for HWUI
+-disable BT SAP server
+-Fix Deepsleep with bluetooth on 
+- Power: Decrease launch boost to 3sec
+- Kill IMS logspam with fire
+- Add xiaomi cit sensor service
+- Import and switch to qti vibrator effect
+- Enable the pre-rendering feature
+- Optimise dex flags
+- Optimize package manager dexopt properties
+- Compile HWUI for performance
+- Properly declare our platform info
+- Drop palm sensor inits
+- Drop VULKAN_DEQP_LEVEL handling
+- Don't spam logspam when bt headset is connected
+- Allow citsensorservice use sysfs_leds
+- Added Dirac
+- Added one plus Dolby
+- update Audio config from 13.0.8.0 EEA
+- Update CarrierConfig from munch V13.0.4.0.SLMMIXM
+- Added HBM
+- Added Miui camera
+- address some sepolicy denails
+- drop lineage power profile and import AOSPA Trees Power Profile
+- Switch to WeebX clang
+- Misc Optimizations
+
+
+Slytherinkernel:
+- switched to immensity as base
+- merge 4.19.265
+- qcacld-3.0: Optimizations
+- mm/vmscan: decrease swappiness 
+- fs: increase vfs cache pressure to 200
+- sched/fair:  Optimizations
+- f2fs: Enlarge min_fsync_blocks to 20
+- ext4: Optimizations
+- smp: Optimize flush_smp_call_function_queue()
+- kernel: time: Reduce NTP wakeups
+- blk: disable IO_STAT completely
+- Misc Optimizations
+
+
+
+how flash: 
+
+- Flash firmware (13.0.8)
+- Flash rom
+- Format data
+- Reboot
+
+Notes:
+• Clean flash recommended
+• MIUI Camera included
+• Non EROFS ROM
+
+
+
+Credits:
+• @darkphnx
+• @UtsavTheCunt for kernel source
