@@ -15,7 +15,7 @@ VERSION=$(grep "org.pixelexperience.version=" out/target/product/$DEVICE/system/
 STATUS="Active"
 PEXV=$(grep "org.pex.version=" out/target/product/$DEVICE/system/build.prop | cut -d "=" -f 2)
 DONATE_URL="https://heisinbug.tech/pay"
-WEBSITE_URL="https://pixelextended.tech"
+WEBSITE_URL="PixelExtended.github.io"
 NEWS_URL="https://t.me/pexupdates"
 JSON_FMT='{\n\t"error":false,\n\t"filename":"%s",\n\t"datetime":%s,\n\t"size":%s,\n\t"url":"%s",\n\t"filehash":"%s",\n\t"version":"%s",\n\t"status":"%s",\n\t"pexv":"%s",\n\t"id":"%s",\n\t"tg_username":"%s",\n\t"device_name":"%s",\n\t"device":"%s",\n\t"xda_thread":"%s",\n\t"maintainers": [{\n\t\t"main_maintainer":false,\n\t\t"github_username":"%s",\n\t\t"name":"%s"\n\t}],\n\t"donate_url":"%s",\n\t"website_url":"%s",\n\t"news_url":"%s",\n\t"forum_url":"%s"\n}'
 
