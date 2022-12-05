@@ -41,6 +41,6 @@ jobs:
       - uses: yanzay/notify-telegram@v0.1.0
         if: always()
         with:
-          chat: ${{ secrets.CHAT }}
+          chat: ${{ secrets.PRIVATECHAT }}
           token: ${{ secrets.TOKEN }}
           status: ${{ job.status }}
