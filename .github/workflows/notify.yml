@@ -11,3 +11,9 @@ jobs:
         TOKEN: ${{ secrets.TOKEN }}
         CHAT_ID: ${{ secrets.CHAT }}
       run: bash tg_notify.sh
+    - uses: yanzay/notify-telegram@v0.1.0
+      if: always()
+      with:
+        chat: ${{ secrets.CHAT }}
+        token: ${{ secrets.TOKEN }}
+        status: ${{ job.status }}

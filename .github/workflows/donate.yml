@@ -38,3 +38,9 @@ jobs:
           git add .
           git commit -m "Update Maintainers List"
           git push
+      - uses: yanzay/notify-telegram@v0.1.0
+        if: always()
+        with:
+          chat: ${{ secrets.CHAT }}
+          token: ${{ secrets.TOKEN }}
+          status: ${{ job.status }}
