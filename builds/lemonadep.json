@@ -1,18 +1,24 @@
-[
-{
 "error":false,
-"filename": "PixelExtended-5.1_lemonadep-13.0-20221026-1652-OFFICIAL.zip",
-"datetime": 1666803120,
-"size":2182346132, 
-"url":"https://sourceforge.net/projects/pixelextended/files/lemonadep/PixelExtended-5.1_lemonadep-13.0-20221026-1652-OFFICIAL.zip/download", 
-"filehash":"0e722ed4eb82e5b0df671f5e449892ef", 
-"version": "13", 
-"status": "Active", 
-"pexv": "5.1", 
-"id": "b0b4e149a6e06beb768028940e74f0c0dba617b1b680718d4f7377cf95a218b3", 
-"tg_username": "delano_tg", 
-"device_name":"OnePlus 9Pro", 
-"device":"lemonadep", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-pixel-extended-rom-android-13-0-lemonadep-05-10-22.4456631/"
+"filename":"PixelExtended-5.2_lemonadep-13.0-20221208-1759-OFFICIAL.zip",
+"datetime":1670522340,
+"size":2428825372,
+"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonadep\/PixelExtended-5.2_lemonadep-13.0-20221208-1759-OFFICIAL.zip\/download",
+"filehash":"816a0e5b903091256d829141fa2df3ac",
+"version":"trece",
+"status":"Active",
+"pexv":"5.2",
+"id":"c8e28c507200eb7400344a770c5576d5b5d12e9a71fa4f9353e4e8de66110cca",
+"tg_username":"delano_tg",
+"device_name":"OnePlus 9Pro",
+"device":"lemonadep",
+"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-26-10-22.4456631\/",
+"maintainers": [{
+"main_maintainer":false,
+"github_username":"delano-git",
+"name":"Delano Noronha"
+}],
+"donate_url":"https:\/\/heisinbug.tech\/pay",
+"website_url":"https:\/\/pixelextended.github.io\/",
+"news_url":"https:\/\/t.me\/pexupdates",
+"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-26-10-22.4456631\/"
 }
-]
