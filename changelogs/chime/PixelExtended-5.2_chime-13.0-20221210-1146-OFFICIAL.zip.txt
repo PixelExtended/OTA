@@ -1,0 +1,7 @@
+Changelog - 10-12-2022
+
+- Initial A13 release
+- November security patch
+- Upstreamed PEX sources
+
+Enjoy the PEX

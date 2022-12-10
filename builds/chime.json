@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.2_chime-13.0-20221210-1146-OFFICIAL.zip",
+	"datetime":1670672760,
+	"size":1838713990,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/chime\/PixelExtended-5.2_chime-13.0-20221210-1146-OFFICIAL.zip\/download",
+	"filehash":"145da06766fda403e947610c45091a3e",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.2",
+	"id":"53d7e5bd211119c3cb320aac2ee0634e1646a4ed3e2fc8d3bededf2ba2b013d0",
+	"tg_username":"kiranpranay",
+	"device_name":"POCO M3 \/ Redmi 9T \/ Redmi 9 Power \/ Redmi Note 9 4G",
+	"device":"chime",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-a13-pixel-extended-5-2-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-chime.4528649\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"kiranpranay",
+		"name":"Pranay Kiran"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-a13-pixel-extended-5-2-for-poco-m3-redmi-9t-redmi-9-power-redmi-note-9-4g-juice-chime.4528649\/"
+}
