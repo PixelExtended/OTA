@@ -1,0 +1,15 @@
+Changelog - 2022/12/11
+- Android 13.0 November security patch update (13.0.0_r13)
+- Add Wireless PowerShare
+- Drop GCam as default camera (Lineage Aperture is the default camera now)
+- EROFS for /vendor
+- Enable Screen-off UDFPS
+- Enable UDFPS Customizations
+- Ship HVI4 firmware for easy flashing on devices running HVJ5
+- Update kernel to Linux 4.14.296
+
+Notes
+- S Firmware is mandatory
+- User build
+- This rom supports only LOS and PE recovery (PE Recovery provided in SourceForge) - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
