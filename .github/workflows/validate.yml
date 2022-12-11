@@ -18,7 +18,8 @@ jobs:
       with:
         directory: "builds/"
 
-    - uses: yanzay/notify-telegram@v0.1.0
+    - name: Notify on Validate()
+      uses: yanzay/notify-telegram@v0.1.0
       if: always()
       with:
         chat: ${{ secrets.PRIVATECHAT }}
