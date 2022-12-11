@@ -1,18 +1,25 @@
-[
 {
-"error":false,
-"filename": "PixelExtended-5.0_beyondx-13.0-20221004-0958-OFFICIAL.zip",
-"datetime": 1664877480,
-"size":1555993964, 
-"url":"https://sourceforge.net/projects/pixelextended/files/beyondx/PixelExtended-5.0_beyondx-13.0-20221004-0958-OFFICIAL.zip/download", 
-"filehash":"6b2e1ec3d5803ed1e8dec0f5c6063c39", 
-"version": "13", 
-"status": "Active", 
-"pexv": "5.0", 
-"id": "b0bcb5384346555df1ad1859789dc2417f8ce610e2829bebf88c3dc3b0ad7d07", 
-"tg_username": "Jubscleisson", 
-"device_name":"Galaxy S10 5G", 
-"device":"beyondx", 
-"xda_thread":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
+	"error":false,
+	"filename":"PixelExtended-5.2_beyondx-13.0-20221211-1520-OFFICIAL.zip",
+	"datetime":1670772000,
+	"size":1867662395,
+	"url":"https://sourceforge.net/projects/pixelextended/files/beyondx/PixelExtended-5.2_beyondx-13.0-20221211-1520-OFFICIAL.zip/download",
+	"filehash":"f2c9d2021178ee419a33306c9ce8ad71",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.2",
+	"id":"a3b0b6a079683bd56347ce83600ea39b34c9362817628746fb01a3c7e8723752",
+	"tg_username":"Jubscleisson",
+	"device_name":"Galaxy S10 5G",
+	"device":"beyondx",
+	"xda_thread":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"Jubscleisson",
+		"name":"Fellipe O. Lima"
+	}],
+	"donate_url":"https://heisinbug.tech/pay",
+	"website_url":"https://pixelextended.github.io/",
+	"news_url":"https://t.me/pexupdates",
+	"forum_url":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
 }
-]
