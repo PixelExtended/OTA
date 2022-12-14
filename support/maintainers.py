@@ -11,7 +11,7 @@ jsons_data = pd.DataFrame(columns=[ 'Maintainer', 'Device', 'Codename', 'Last Pe
 # we need both the json and an index number so use enumerate()
 for index, js in enumerate(json_files):
     with open(os.path.join(path_to_json, js)) as json_file:
-        json_text = json.load(json_file)
+        json_text = [json.load(json_file)]
 
         # here you need to know the layout of your json and each json has to have
         # the same structure (obviously not the structure I have here)
