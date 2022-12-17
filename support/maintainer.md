@@ -6,6 +6,6 @@
 |  3 | Jubscleisson         | Galaxy S10                                           | beyond1lte |                5.2 | Active          |
 |  4 | Jubscleisson         | Galaxy S10e                                          | beyond0lte |                5.2 | Active          |
 |  5 | Jubscleisson         | Galaxy Note10+ 5G                                    | d2x        |                5.2 | Active          |
-|  6 | ralf979 | @delano_tg | OnePlus 9                                            | lemonade   |                5.2 | Active          |
+|  6 | ralf979 & delano_tg  | OnePlus 9                                            | lemonade   |                5.2 | Active          |
 |  7 | Jubscleisson         | Galaxy S10+                                          | beyond2lte |                5.2 | Active          |
 |  8 | Jubscleisson         | Galaxy Note10                                        | d1         |                5.2 | Active          |
