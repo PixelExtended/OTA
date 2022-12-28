@@ -1,5 +1,14 @@
 # Changelog
 
+  # V5.3 (28.12.2022)
+
+  - OTA
+  - Pocket Mode
+  - Reverse wireless charging
+  - Colored status bar icons
+  - Game space
+  - Qs always black
+
   # V5.2 (25.11.2022) Rain Month !
 
   - November Security Patch
