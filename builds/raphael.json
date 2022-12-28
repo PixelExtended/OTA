@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.3_raphael-13.0-20221228-1340-OFFICIAL.zip",
+	"datetime":1672234800,
+	"size":2101550079,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/raphael\/PixelExtended-5.3_raphael-13.0-20221228-1340-OFFICIAL.zip\/download",
+	"filehash":"f86daea629a47c47ef7ff16d13c80041",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.3",
+	"id":"d42d1be49fdc510470a7cd0b3946fcf1260c7890c59db649366125eeb03de881",
+	"tg_username":"ralf979",
+	"device_name":"Xiaomi Mi 9T Pro",
+	"device":"raphael",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-26-11-2022.4146471\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"ralf979",
+		"name":"ralf979"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-26-11-2022.4146471\/"
+}
