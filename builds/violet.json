@@ -1,0 +1,25 @@
+{
+    "error":false,
+    "filename":"PixelExtended-5.3_violet-13.0-20221230-1522-OFFICIAL.zip",
+    "datetime":1672413720,
+    "size":1607028668,
+    "url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/violet\/PixelExtended-5.3_violet-13.0-20221230-1522-OFFICIAL.zip\/download",
+    "filehash":"2f0a022956c5fcb1e943815d9a1a20e5",
+    "version":"trece",
+    "status":"Active",
+    "pexv":"5.3",
+    "id":"c1ceeda30be90a8243ef304d46bdeba57f5053dec74733ced2d6228ff9b105d7",
+    "tg_username":"kibria5",
+    "device_name":"Redmi Note 7 Pro",
+    "device":"violet",
+    "xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-violet-official-pixel-extended-rom-26-10-2022.4496915\/",
+    "maintainers": [{
+            "main_maintainer":false,
+            "github_username":"kibria5",
+            "name":"kibria5"
+    }],
+    "donate_url":"https:\/\/heisinbug.tech\/pay",
+    "website_url":"https:\/\/pixelextended.github.io\/",
+    "news_url":"https:\/\/t.me\/pexupdates",
+    "forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-violet-official-pixel-extended-rom-26-10-2022.4496915\/"
+}
