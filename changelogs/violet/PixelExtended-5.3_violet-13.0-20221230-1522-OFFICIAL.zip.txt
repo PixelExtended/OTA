@@ -1,0 +1,17 @@
+Changelog - 2022/12/31
+
+- Disabled dial pad tones by default
+- Disabled screen locking sounds by default
+- Enabled vibrate for calls by default
+- Disable UI touch haptic feedback by default
+- Implement Clear Speaker
+- Enable suspend to RAM 
+- Add Pixel mod launcher
+- Pocket Mode 
+- Colored status bar icons
+- Game space
+- Qs always black
+- OTA
+- Other improvement
+
+Enjoy the PEX
