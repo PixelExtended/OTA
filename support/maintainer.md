@@ -9,3 +9,4 @@
 |  6 | Jubscleisson        | Galaxy S10e                                          | beyond0lte |                5.2 | Active          |
 |  7 | Jubscleisson        | Galaxy Note10+                                       | d2s        |                5.2 | Active          |
 |  8 | Jubscleisson        | Galaxy Note10+ 5G                                    | d2x        |                5.2 | Active          |
+|  9 | kibria5             | Redmi Note 7 Pro                                     | violet     |                5.3 | Active          |
