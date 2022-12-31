@@ -17,10 +17,3 @@ jobs:
       uses: RaaLabs/validate-json@v0.0.7
       with:
         directory: "builds/"
-
-    - uses: yanzay/notify-telegram@v0.1.0
-      if: always()
-      with:
-        chat: ${{ secrets.PRIVATECHAT }}
-        token: ${{ secrets.TOKEN }}
-        status: ${{ job.status }}
