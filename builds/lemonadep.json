@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.3_lemonadep-13.0-20221231-0950-OFFICIAL.zip",
+	"datetime":1672480200,
+	"size":2321343696,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonadep\/PixelExtended-5.3_lemonadep-13.0-20221231-0950-OFFICIAL.zip\/download",
+	"filehash":"394a880bb995038fb5f17ff1f1bc9541",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.3",
+	"id":"3530ca575f24418a3a3222b884761dd706d48e137a5bb741a17cbcdd54b3c05a",
+	"tg_username":"ralf979 & @delano_tg",
+	"device_name":"OnePlus 9 Pro",
+	"device":"lemonadep",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-26-10-22.4456631\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"delano-git",
+		"name":"Delano Noronha"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-26-10-22.4456631\/"
+}
