@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.3_alioth-13.0-20230101-1805-OFFICIAL.zip",
+	"datetime":1672596300,
+	"size":2001172521,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/alioth\/PixelExtended-5.3_alioth-13.0-20230101-1805-OFFICIAL.zip\/download",
+	"filehash":"fa2dfb0a6b6fd233d833f08ec53fc1d5",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.3",
+	"id":"b6b2ceee6e31a8cda36e6c64e4df86ef2864a375f83f4e9ab69f8b56b0be58f7",
+	"tg_username":"VEN0M98",
+	"device_name":"Poco F3",
+	"device":"alioth",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-alioth-official-pixel-extended-rom-25-10-2022.4510187\/#post-87630111",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"VEN0M98",
+		"name":"VEN0M98"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-alioth-official-pixel-extended-rom-25-10-2022.4510187\/#post-87630111"
+}
