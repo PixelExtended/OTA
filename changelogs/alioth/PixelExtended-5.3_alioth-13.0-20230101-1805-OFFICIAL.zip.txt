@@ -1,0 +1,62 @@
+device changelog:01/01/2023
+
+- Updated more Blobs from 13.0.8.0
+- follow status bar height on keyguard
+- update punch-hole cutout
+- update rounded corner value form AOSPA 
+- Update deprecated powerprofile items
+- wifi: Create another interface during driver load
+- Import additionally libcdsprpc_system libs
+- Import 32bit adsp/cdsp default listener libs
+- Do not use MMAP For Audio
+- Import more props for ril powersaving
+- Disable QCRIL power saving
+  (this should solve slow internet speed for some users)
+- disable SF backpressure 
+- Add parameters for Hotspot 2.0
+- Enable support for IEEE80211AX &IEEE80211AC
+- Allow more cached apps in the background 
+- Drop Qualcomm WFD
+- Leica cam added ( credits to  @darkphnx for it ) 
+- Other miscs changes 
+
+slytherine kernel: 
+
+- Merge tag 'v4.19.269'
+- wakeup_stats: Don't export device info to sysfs
+- devfreq: memlat: Don't ignore extremely latency sensitive workloads
+- u_bam_dmux: Fix memory leakage issue for RMNET
+- Kernel/sched: Reduce latency for better responsiveness
+- WorkQueue: correctly enable wq_power_efficient
+- drivers: add power efficient workqueues to some more subsystems 
+- dtc: Silence warnings by default 
+- msm: kgsl: Relax CPU latency requirements to save power msm: ipa: Do not acquire wakelocks
+- drivers: dma: Fix mem leak reported by kmemleak
+- alioth_defconfig: Disable NF ConnTrack NETLINK & Quota Interface
+- printk: silence healthd and batteryd logs 
+- Other miscs changes
+
+
+Note : Changing any settings in camera might break front video recording, clear cam app data to fix it
+with  48mpx when take photo  ,cam crashes
+
+
+
+How flash: 
+
+- Flash firmware (13.0.8)
+- Flash rom
+- Format data
+- Reboot
+
+Notes:
+• Clean flash recommended
+• MIUI Camera included
+• Non EROFS ROM
+
+
+
+Special Credits:
+• @darkphnx for trees bases and for leica cam 
+• @NextWorksGFX  for help and contribution to this release
+• @UtsavTheCunt for kernel source

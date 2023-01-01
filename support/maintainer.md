@@ -12,3 +12,4 @@
 |  9 | Jubscleisson         | Galaxy S10e                                          | beyond0lte |                5.2 | Active          |
 | 10 | Jubscleisson         | Galaxy Note10+                                       | d2s        |                5.2 | Active          |
 | 11 | Jubscleisson         | Galaxy Note10+ 5G                                    | d2x        |                5.2 | Active          |
+| 12 | VEN0m98              | Poco F3                                              | alioth     |                5.3 | Active          |
