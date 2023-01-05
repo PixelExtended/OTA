@@ -1,0 +1,3 @@
+HOT FIX 
+- fix Fix Gapps Permissions
+- added livedisplay antiflicker 
