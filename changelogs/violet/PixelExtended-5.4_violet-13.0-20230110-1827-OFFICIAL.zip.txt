@@ -1,0 +1,10 @@
+Changelog - 2023/1/11
+
+- January Security Patch
+- Fully Rebased Tree
+- Other improvement
+
+N.B: Firmware Included
+     clean Flash Recommended
+
+Enjoy the PEX
