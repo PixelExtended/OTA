@@ -1,25 +1,25 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.2_beyond0lte-13.0-20221211-1430-OFFICIAL.zip",
-	"datetime":1670769000,
-	"size":1707319792,
-	"url":"https://sourceforge.net/projects/pixelextended/files/beyond0lte/PixelExtended-5.2_beyond0lte-13.0-20221211-1430-OFFICIAL.zip/download",
-	"filehash":"a4f617a31b84f9a1bc3c15c06273f5d1",
+	"filename":"PixelExtended-5.4_beyond0lte-13.0-20230114-1815-OFFICIAL.zip",
+	"datetime":1673720100,
+	"size":1891055517,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/beyond0lte\/PixelExtended-5.4_beyond0lte-13.0-20230114-1815-OFFICIAL.zip\/download",
+	"filehash":"2d49ec2f7da1edf5dfe85f3b6958e0e6",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.2",
-	"id":"03158c1d828938ac15f08036fcbd6826ee062aa4dedea9f20d774515c568aea6",
+	"pexv":"5.4",
+	"id":"78da0846e092a7276d684c09dc759f43f8f53db2e7837cc44c72ee1735fe11c3",
 	"tg_username":"Jubscleisson",
 	"device_name":"Galaxy S10e",
 	"device":"beyond0lte",
-	"xda_thread":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"Jubscleisson",
 		"name":"Fellipe O. Lima"
 	}],
-	"donate_url":"https://heisinbug.tech/pay",
-	"website_url":"https://pixelextended.github.io/",
-	"news_url":"https://t.me/pexupdates",
-	"forum_url":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505/"
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-13-0-galaxy-s10-e-5g-pixelextended-aosp-encryption.4501505\/"
 }
