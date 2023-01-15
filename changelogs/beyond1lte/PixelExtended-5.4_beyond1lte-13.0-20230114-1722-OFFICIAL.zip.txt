@@ -1,0 +1,14 @@
+Changelog - 2023/01/14
+- Android 13.0 January security patch update (13.0.0_r23)
+- Add camera ID 51 for beyond2lte/beyondx
+- Enable config_vibrateOnIconAnimation
+- Enable haptic text cursor
+- HVJ1 firmware included
+- Limit screen recorder's to 60fps
+- Show audio panel on left side
+- Update kernel to Linux 4.14.302
+
+Notes
+- User build
+- This rom supports only LOS and PE recovery (PE Recovery provided in PEX SourceForge) - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
