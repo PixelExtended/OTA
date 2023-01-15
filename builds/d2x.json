@@ -1,25 +1,25 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.2_d2x-13.0-20221211-1611-OFFICIAL.zip",
-	"datetime":1670775060,
-	"size":1878849234,
-	"url":"https://sourceforge.net/projects/pixelextended/files/d2x/PixelExtended-5.2_d2x-13.0-20221211-1611-OFFICIAL.zip/download",
-	"filehash":"fb36a70de05be4366f54b04f71be5878",
+	"filename":"PixelExtended-5.4_d2x-13.0-20230115-1428-OFFICIAL.zip",
+	"datetime":1673792880,
+	"size":1919654360,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/d2x\/PixelExtended-5.4_d2x-13.0-20230115-1428-OFFICIAL.zip\/download",
+	"filehash":"fffa51d602ea150fd64c1638a006aef5",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.2",
-	"id":"1199fe588288aa37b5f76b498f19edbbefbbfa4c922d804916fad0a115707cfb",
+	"pexv":"5.4",
+	"id":"3645763bf130c28e6957bb99072167fb0ffdd79d55c69d4c8517c3941d3223fe",
 	"tg_username":"Jubscleisson",
 	"device_name":"Galaxy Note10+ 5G",
 	"device":"d2x",
-	"xda_thread":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"Jubscleisson",
 		"name":"Fellipe O. Lima"
 	}],
-	"donate_url":"https://heisinbug.tech/pay",
-	"website_url":"https://pixelextended.github.io/",
-	"news_url":"https://t.me/pexupdates",
-	"forum_url":"https://forum.xda-developers.com/t/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871/"
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-13-0-galaxy-note-10-5g-pixelextended-aosp-encryption.4501871\/"
 }
