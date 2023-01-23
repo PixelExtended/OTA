@@ -1,0 +1,55 @@
+-  Remove DiscoveryService & NearbyMessagesService from Disable component
+-   sepolicy: Provide sysfs access for batterysecret
+-  Audio: Enable audio adsprpcd daemon
+-   Audio Policy: Import Bluetooth Devices Encodings for Dolby Processing
+-  init: Set media XML codecs variant to _kona
+-  Dolby: Use correct props for android 13
+-  Tune dalvik values
+- Wip camera motor remnants
+- Powrhint: Fix up some values
+- Strip rootdir inits
+-  sepolicy: update graphics_composer rules
+- Remove inexistent lib from pinner list
+- fix miui cam (NOW NOT CRASHES)
+- misc changes
+
+
+slytherine kernel:
+- slimbus: Fix potential memory leak
+- [SQUASH] tree: Revert some deep sleep related commits
+- clk: qcom: mdss: Fix tons of memory leaks
+- cpufreq: schedutil: fix check for stale utilization values
+- ANDROID: sched: fair: balance for single core cluster
+- sched/walt: eval_need code and trace cleanup
+- sched/walt: Improve the scheduler
+- power: Enable and hardcode efficient workqueue
+- rcu: Fix a performance regression
+- power: supply: Use power efficient workingqueues
+- mm: Prevent modifications from userspace
+- mm: Reduce the frequency of page writebacks
+- miscs improvements
+
+
+Note : Changing any settings in camera might break front video recording, clear cam app data to fix it
+with  48mpx when take photo  ,cam crashes
+
+
+
+How flash:
+
+- Flash firmware (13.0.8/13.0.9)
+- Flash rom
+- Format data
+- Reboot
+
+Notes:
+• Clean flash recommended
+• MIUI Camera included
+• Non EROFS ROM
+
+
+
+Special Credits:
+• @darkphnx for trees bases and for leica cam
+• @NextWorksGFX  for help and contribution
+• @UtsavTheCunt for kernel source
