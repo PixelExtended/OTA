@@ -1,0 +1,18 @@
+Changelog - 5.4
+Build Date - 27 January, 2023
+
+- Switched to Vantom Kernel
+- Added battery saving props
+- Enabled zygote preforking
+- Enabled QCRIL Power saving
+- Enable seamless transfer support
+- Forced triple frame buffers for less jitter
+- Enabled IORAP and OFR
+- Added few performance related props
+- Improved UI Smoothness
+- Set gPowerSaveOffload for wifi to 5
+
+Credits: Thanks @zaidkhan0997 and other devs for device & vendor tree
+	 Thanks Vantom for the kernel source
+	 Thanks @Anmol1710 for testing the ROM.
+
