@@ -11,5 +11,6 @@
 |  8 | Jubscleisson         | Galaxy Note10+ 5G                                    | d2x        |                5.4 | Active          |
 |  9 | ralf979 & delano_tg  | OnePlus 9                                            | lemonade   |                5.3 | Active          |
 | 10 | ralf979 & @delano_tg | OnePlus 9 Pro                                        | lemonadep  |                5.3 | Active          |
-| 11 | kibria5              | Redmi Note 7 Pro                                     | violet     |                5.4 | Active          |
-| 12 | VEN0M98              | Poco F3                                              | alioth     |                5.3 | Active          |
+| 11 | afterallafk          | Redmi Note 10 Pro/Max                                | sweet      |                5.4 | Active          |
+| 12 | kibria5              | Redmi Note 7 Pro                                     | violet     |                5.4 | Active          |
+| 13 | VEN0M98              | Poco F3                                              | alioth     |                5.4 | Active          |
