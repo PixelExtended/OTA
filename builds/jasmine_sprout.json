@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.4_jasmine_sprout-13.0-20230206-1734-OFFICIAL-SIGNED.zip",
+	"datetime":1675706460,
+	"size":1777024159,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/jasmine_sprout\/PixelExtended-5.4_jasmine_sprout-13.0-20230206-1734-OFFICIAL-SIGNED.zip\/download",
+	"filehash":"ec2752629a5d04134d2366add362b956",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.4",
+	"id":"52e7eaefacf62c03811298c158925e6547339b4bf00ad422e151675ed522e0b1",
+	"tg_username":"iamimmanuelraj",
+	"device_name":"Xiaomi Mi A2",
+	"device":"jasmine_sprout",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-official-pixel-extended-rom-07-02-2023.4550155\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"iamimmanuelraj",
+		"name":"Immanuel Raj"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-official-pixel-extended-rom-07-02-2023.4550155\/"
+}
