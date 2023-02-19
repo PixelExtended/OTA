@@ -1,5 +1,15 @@
 # Changelog
 
+  # V5.5 (19.02.2023)
+
+  - February patch
+  - Safetynet fixed and pass by default
+  - QS tiles layout customizations
+  - QS vertical layout & hide label settings
+  - Implement full screen cutout force
+  - Switch to Stagbin for posting error logs
+  - ... and other small improvements
+
   # V5.4 (10.01.2023)
 
   - Total Source Rebase
