@@ -1,0 +1,16 @@
+Changelog - 2023/02/21
+
+- February Security Patch
+- Switch to xcalibur-v2 kernel 
+- Nuke more package
+- Switch to SkiaGL Threaded
+- Disable protected buffers support
+- Enable world phone bool 
+- Tune vibration pattern
+- Add two channels for echo referece
+- Disable ripple unlock animation
+- Minor improvemnt and fixes  
+
+N.B: Firmware Included
+
+Enjoy the PEX
