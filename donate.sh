@@ -1,13 +1,13 @@
 ##Variables
 LINK="https://www.paypal.com/paypalme/aryan65"
-INLINK="https://heisinbug.tech/pay"
+INLINK="https://heisinbug.github.io/pay/"
 
 # Run Maintainers Script too
 python  support/maintainers.py
 
 # Format post
 read -r -d '' msg <<EOF
-<b> Liked Our Worked on delivering a usable PE to you XD , then buy us some beer by donating </b>
+<b> We help you experience "true pixel experience" you help us keep continuing this by a donation.</b>
 
 <b>For International/PayPal Users</b>: <a href='${LINK}'>Click Here</a>
 <b>For Indian Users</b>: <a href='${INLINK}'>Click Here</a>
