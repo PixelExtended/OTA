@@ -1,0 +1,37 @@
+• hbm: Include a 7-second delay when turning off the HBM
+• perf: Enable the pre-rendering feature
+• Strip off some debug packages
+• sepolicy: Broaden domain and resolve power hal seLinux
+• init: Fix permissions setup for init.qcom.power.rc 
+• Pin msm_irqbalance to system-background 
+• sepolicy: Provide sysfs access for batterysecret
+•  rm package cache on early boot
+
+
+
+slytherine kernel:
+• qcacld-3.0: Do not allow any wakelocks to be held
+• qpnp-qg: fix battery coulomb count not monotonic
+• mm: memory: Add dummy tlb_remove_table_smp_sync() function 
+• power: smb-lib: Force suspend when cable out.
+• crypto: ice: Fix memory leak at qcom_ice_parse_clock_info()
+• Other miscs changes 
+
+How flash:
+
+- Flash firmware (13.0.8/13.0.9)
+- Flash rom
+- Format data
+- Reboot
+
+Notes:
+• dt2w not work 
+• Clean flash recommended
+• MIUI Camera included
+• Non EROFS ROM
+
+
+
+Special Credits:
+• @darkphnx for trees bases and for leica cam
+• @UtsavTheCunt for kernel source
