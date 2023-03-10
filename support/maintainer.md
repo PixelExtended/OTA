@@ -15,3 +15,4 @@
 | 12 | Jubscleisson   | Galaxy S10 5G                                        | beyondx        |                5.4 | Active          |
 | 13 | Jubscleisson   | Galaxy S10e                                          | beyond0lte     |                5.4 | Active          |
 | 14 | kibria5        | Redmi Note 7 Pro                                     | violet         |                5.5 | Active          |
+| 15 | vinc3nt        | Poco F4 / Redmi k40s                                 | munch          |                5.5 | Active          |
