@@ -1,0 +1,10 @@
+Changelog - 2023/03/12
+- Android 13.0 February security patch update (13.0.0_r30)
+- Disable blur for now (causes lags)
+- Switch back to non-threaded skiagl renderengine (causes lag in the first few frames of the boot animation)
+- Update kernel to Linux 4.14.307
+
+Notes
+- User build
+- This rom supports only LOS and PE recovery (PE Recovery provided in PEX SourceForge) - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
