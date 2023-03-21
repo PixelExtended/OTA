@@ -1,5 +1,19 @@
 # Changelog
 
+  # V5.6 (20.03.2023)
+
+  - Add Privacy indicators toogle
+  - Show daily data usage in QS footer 
+  - Add inverse navbar layout customization 
+  - Add Misc category in system
+  - Pextension: Re-added varius language translation
+  - Disable UDFPS setting if not supported
+  - Add Reset battery stats
+  - Add some improvement for Screenrecord
+  - Enable QR scanner shortcut in lock screen
+  - Add toggle to switch between AOSP/Google battery graphs 
+  - ... and other small improvements
+
   # V5.5 (19.02.2023)
 
   - February patch
