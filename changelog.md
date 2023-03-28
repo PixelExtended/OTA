@@ -1,7 +1,9 @@
 # Changelog
 
-  # V5.6 (20.03.2023)
+  # V5.6 (28.03.2023)
 
+  - Yes, another full ROM rebase
+  - March patches merged
   - Add Privacy indicators toogle
   - Show daily data usage in QS footer 
   - Add inverse navbar layout customization 
@@ -13,6 +15,9 @@
   - Enable QR scanner shortcut in lock screen
   - Add toggle to switch between AOSP/Google battery graphs 
   - ... and other small improvements
+
+Notes for this version (V5.6):
+Since the rebase was done, report the bugs (are there ??) only with clean flash and with respective log.
 
   # V5.5 (19.02.2023)
 
