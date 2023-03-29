@@ -1,0 +1,36 @@
+
+Changelog - 2023/03/28
+
+ - OTA pushed (check in System - Update - Settings)
+ - Convert brightness overlays to integers
+ - Adjust statusbar top padding
+ - Switch to Noxious kernel
+ - Remove aptX(HD) encoder shared libs
+ - Build ANT+ HIDL interface library from source
+ - Update blobs to V14.0.1.0.TLMMIXM
+ - March Patch Update
+ - And many more things which i can't remember
+
+** Notes for this version (V5.6): Since the rebase was done, report the bugs (are there ??) only with clean flash and with respective log. **
+
+  #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
+
+Recommended Recovery - Orang FOX Official
+
+Clean Flash
+
+- Flash Recommended Recovery
+- Flash rom
+- Format data
+- Reboot
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- reboot system
+
+Enjoy the PEX
