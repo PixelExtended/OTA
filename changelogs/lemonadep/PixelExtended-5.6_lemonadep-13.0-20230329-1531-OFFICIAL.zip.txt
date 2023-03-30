@@ -1,0 +1,47 @@
+Changelog - 2023/03/29
+
+Device:
+ - March Patch Update
+ - OTA Pushed
+ - Set 60Hz AOD & ambient display refresh rate
+ - Enable display burn-in-protection in Ambient Display
+ - Add google lens permission for oplus cam 
+ - Added Kprofiles (see in battery settings)
+ - Update Xtended Kernel
+ - Fixed Dt2w for lemonade (thanks @mukesh22584)
+ - ... and other small improvements
+
+** Notes for this version (V5.6): Since the rebase was done, report the bugs (are there ??) only with clean flash and with respective log. **
+
+
+
+FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites : Brain and ability to READ !
+
+NOTE:
+IF YOU HAVE PROBLEMS WITH TOUCH OR SENSORS, FLASH THE F18 FIRMWARE
+you can find it in the "lemonade/p" folder in sourceforge
+
+Clean Flash:
+1. Download boot.img, dtbo.img and vendor_boot.img from "A13.0 Flash-utility" folder in SourceForge.
+2. Reboot phone to bootloader.
+3. fastboot flash boot boot.img
+4. fastboot flash dtbo dtbo.img
+5. fastboot flash vendor_boot vendor_boot.img
+6. Reboot phone to recovery and FORMAT DATA.
+7. ADB sideload PixelExtended_lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p)
+8. Reboot system. Profit.
+
+Dirty Flash :
+1. Reboot phone to recovery.
+2. ADB sideload PixelExtended_lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p)
+3. Reboot system. Profit.
+
+Rooting:
+1. Download Magisk.zip
+2. Reboot phone to recovery.
+3. adb sideload Magisk_xxx.zip
+4. Reboot system. Profit.
