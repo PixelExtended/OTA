@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.5_lemonade-13.0-20230218-1709-OFFICIAL.zip",
-	"datetime":1676740140,
-	"size":2233336602,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonade\/PixelExtended-5.5_lemonade-13.0-20230218-1709-OFFICIAL.zip\/download",
-	"filehash":"ac0772208fb7cee18a8aa8cb3cded6be",
+	"filename":"PixelExtended-5.6_lemonade-13.0-20230329-1435-OFFICIAL.zip",
+	"datetime":1680100500,
+	"size":2222838851,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonade\/PixelExtended-5.6_lemonade-13.0-20230329-1435-OFFICIAL.zip\/download",
+	"filehash":"ec833732da78b6f0e2cfd63272d080fb",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.5",
-	"id":"9a370a4e44449b7eb95fa1c363777442a4cd3df76e910cdcb72f998ca31cfe27",
+	"pexv":"5.6",
+	"id":"7346708b0157ee9664589288abc85fafbb0965255372c3f34bc7a495022195fa",
 	"tg_username":"ralf979",
 	"device_name":"OnePlus 9",
 	"device":"lemonade",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-4-android-13-0-lemonade-02-02-2023.4447241\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-5-android-13-0-lemonade-18-02-2023.4447241\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-4-android-13-0-lemonade-02-02-2023.4447241\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-5-android-13-0-lemonade-18-02-2023.4447241\/"
 }
