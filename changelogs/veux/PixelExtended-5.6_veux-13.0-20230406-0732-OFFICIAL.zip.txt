@@ -1,0 +1,24 @@
+Changelog - 2023/04/06
+
+- First Official release
+- Can be flashed over existing unofficial build
+- Made with 13.0.7.0 Global Kernel and Vendor
+ 
+  #Flashing instructions
+
+
+Clean Flash
+- Back up all your data
+- Flash Aosp Recovery
+- Wipe Data / factory Reset 
+- Flash Rom via Adb sideload or use SD Card 
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Reboot to Recovery 
+- Flash Rom via Adb sideload or use SD Card
+- reboot system
+
+Enjoy the PEX
