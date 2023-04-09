@@ -22,7 +22,11 @@ JSON_FMT='{\n\t"error":false,\n\t"filename":"%s",\n\t"datetime":%s,\n\t"size":%s
 printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$STATUS" "$PEXV" "$ID" "$TG_USERNAME" "$DEVICE_NAME" "$DEVICE" "$XDA_THREAD" "$GHUN" "$NAME" "$DONATE_URL" "$WEBSITE_URL" "$NEWS_URL" "$XDA_THREAD" > OTA/builds/$DEVICE.json
 echo OTA/builds/$DEVICE.json file created
 
-BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 3)
+if [[ $DEVICE == *"_"* ]]; then
+    BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 4)
+else
+    BUILD_DATE=$(echo $FILENAME | cut -d "-" -f 3)
+fi
 BUILD_YEAR=${BUILD_DATE:0:4}
 BUILD_MONTH=${BUILD_DATE:4:2}
 BUILD_DAY=${BUILD_DATE:6:2}
