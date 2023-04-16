@@ -14,4 +14,4 @@
 | 11 | Jubscleisson   | Samsung Galaxy S10e          | beyond0lte     |                5.5 | Active          |
 | 12 | Jubscleisson   | Samsung Galaxy Note10        | d1             |                5.5 | Active          |
 | 13 | Jubscleisson   | Samsung Galaxy Note10+       | d2s            |                5.5 | Active          |
-| 14 | iamimmanuelraj | Mi A2                        | jasmine_sprout |                5.5 | Active          |
+| 14 | iamimmanuelraj | Xiaomi Mi A2                 | jasmine_sprout |                5.6 | Active          |
