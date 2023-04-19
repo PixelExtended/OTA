@@ -1,4 +1,23 @@
 # Changelog
+ 
+  # V5.7 (19/04/2023) ! Heat Waves 🔥
+  
+  - Merged April Security Patches 
+  - Major source rebase , excluding few features that was redundant in terms of stability  
+  - Added Pixel Theming 
+  - We are now following the Light/Dark theme on QS
+  - Enabled Screenshot for restricted apps 
+  - Added App Lock
+  - Cleanup and Features alignments inside PeXtension  
+  - Enabled CLO Framework boost 
+  - Added Multiple OEM cam port support 
+  - Added SystemUI restart button to cop-up with Pixel Theming 
+  - Added a shimmer Effect in QS media player 
+  - Added Dynamic Volte Icon
+  - Added WiFi Standard icon
+  - Major Improvements for smoothness and stability
+
+With addition now we're enabling seamless updates and device support through Jenkins , now our maintainer with exclusive access to our Jenkins build system would be able to deliver faster updates for officially supported devices .
 
   # V5.6 (28.03.2023)
 
