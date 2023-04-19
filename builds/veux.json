@@ -1,25 +1,25 @@
 {
-    "error":false,
-        "filename":"PixelExtended-5.6_veux-13.0-20230406-0732-OFFICIAL.zip",
-        "datetime":1680766320,
-        "size":1558976241,
-        "url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/veux\/PixelExtended-5.6_veux-13.0-20230406-0732-OFFICIAL.zip\/download",
-        "filehash":"b9dc970038a04de610811e28717e19c4",
-        "version":"trece",
-        "status":"Active",
-        "pexv":"5.6",
-        "id":"87eaf74c583422e874deaef9506efe0a1d3c69e76bfb1202b61239a1883fabea",
-        "tg_username":"Potthead1",
-        "device_name":"Poco X4 Pro 5G",
-        "device":"veux",
-        "xda_thread":"",
-        "maintainers": [{
-                "main_maintainer":false,
-                "github_username":"abhishekanand2507",
-                "name":"Abhishek Anand"
-        }],
-        "donate_url":"https:\/\/heisinbug.tech\/pay",
-        "website_url":"https:\/\/pixelextended.github.io\/",
-        "news_url":"https:\/\/t.me\/pexupdates",
-        "forum_url":""
+	"error":false,
+	"filename":"",
+	"datetime":,
+	"size":,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/veux\/\/download",
+	"filehash":"",
+	"version":"",
+	"status":"Active",
+	"pexv":"",
+	"id":"",
+	"tg_username":"test",
+	"device_name":"ttest",
+	"device":"veux",
+	"xda_thread":"test",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"test",
+		"name":"testtesttset"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"test"
 }
