@@ -7,22 +7,6 @@ import subprocess
 from os import path
 import time
 
-# Banner
-print ("")
-print ("")
-print ("")
-print("""
-█▀█ █ ▀▄▀ █▀▀ █░░ ▄▄ █▀▀ ▀▄▀ ▀█▀ █▀▀ █▄░█ █▀▄ █▀▀ █▀▄
-█▀▀ █ █░█ ██▄ █▄▄ ░░ ██▄ █░█ ░█░ ██▄ █░▀█ █▄▀ ██▄ █▄▀""")
-print ("")
-print ("")
-print ("")
-print ("ONLY FOR OFFICIAL BUILDS/USE , The whole Process can take 5-10 mins.")
-print ("")
-print ("")
-print ("")
-
-
 # Variables
 tgname=os.environ.get('tgname')
 codename=os.environ.get('codename')
@@ -31,11 +15,8 @@ xda=os.environ.get('xda')
 ghun=os.environ.get('ghun')
 name=os.environ.get('name')
 
-print ("These Inputs are For SourceForge Uploading, you will be asked password just after your sourceforge username")
-sf="aidanwarner"
-
-# Sf Uploading 
-os.system("scp out/target/product/%s/PixelExtended*.zip %s@frs.sourceforge.net://home/frs/project/pixelextended/%s/"%(codename,sf,codename))
+#Uploading 
+os.system("scp out/target/product/%s/PixelExtended*.zip aidanwarner@frs.sourceforge.net://home/frs/project/pixelextended/%s/"%(codename,codename))
 
 # OTA/TG
 os.system("bash OTA/support/ota.sh '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name))
