@@ -16,21 +16,21 @@ ghun=os.environ.get('ghun')
 name=os.environ.get('name')
 
 #Uploading 
-os.system("scp out/target/product/%s/PixelExtended*.zip aidanwarner@frs.sourceforge.net://home/frs/project/pixelextended/%s/"%(codename,codename))
+os.system("scp %s/PixelExtended*.zip aidanwarner@frs.sourceforge.net://home/frs/project/pixelextended/%s/"%(codename,codename))
 
 # OTA/TG
-os.system("bash OTA/support/ota.sh '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name))
+os.system("bash support/ota.sh '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name))
 
 # Open json for formatting
-init = open("OTA/builds/%s.json"%(codename), "rt")
+init = open("builds/%s.json"%(codename), "rt")
 #output file to write the result to
-fout = open("OTA/builds/%s_temp.json"%(codename), "wt")
+fout = open("builds/%s_temp.json"%(codename), "wt")
 #for each line in the input file
 for line in init:
 	#read replace the string and write to output file
 	fout.write(line.replace('/', '\/'))
 #close input and output files
-os.system("rm -rf  OTA/builds/%s.json"% (codename))
-os.system("mv OTA/builds/%s_temp.json OTA/builds/%s.json"% (codename,codename))
+os.system("rm -rf builds/%s.json"% (codename))
+os.system("mv builds/%s_temp.json builds/%s.json"% (codename,codename))
 init.close()
 fout.close()
