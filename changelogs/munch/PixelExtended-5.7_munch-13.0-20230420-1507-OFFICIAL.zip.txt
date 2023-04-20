@@ -1,0 +1,39 @@
+
+Changelog - 2023/04/20
+
+- OTA pushed (check in System - Update - Settings)
+- Upstream sources
+- munch: overlay: Blacklist gaze detection package from camera protection
+- munch: overlay: Exclude faceunlock from camera protection
+- munch: overlay: Configure display cutout 
+- munch: overlay-aosp: Use AOSP default ripple animation duration
+- munch: Enable NGA 
+- sm8250-common: Switch to AOSP Clang-17 
+- sm8250-common: Limit AOD to 60hz
+- Bring Kprofiles back
+- April Patch Update
+- And lots of performance improvements
+
+** Notes for this version (V5.7): Since the rebase was done, report the bugs (are there ??) only with clean flash and with respective log. **
+
+  #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
+
+Recommended Recovery - Orange FOX Official
+
+Clean Flash
+
+- Flash Recommended Recovery
+- Flash rom
+- Format data
+- Reboot
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- reboot system
+
+Enjoy the PEX
