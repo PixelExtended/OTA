@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.6_lemonadep-13.0-20230329-1531-OFFICIAL.zip",
-	"datetime":1680103860,
-	"size":2222968813,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonadep\/PixelExtended-5.6_lemonadep-13.0-20230329-1531-OFFICIAL.zip\/download",
-	"filehash":"bb51892cd7b6e4a82dafb2083e4f0233",
+	"filename":"PixelExtended-5.7_lemonadep-13.0-20230420-0728-OFFICIAL.zip",
+	"datetime":1681975680,
+	"size":2256237804,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/lemonadep\/PixelExtended-5.7_lemonadep-13.0-20230420-0728-OFFICIAL.zip\/download",
+	"filehash":"dc77f5483ee2958a6b4dcb0dec398bab",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.6",
-	"id":"bc426fd0e51346af2c9303c57c3329834a85512d26de143f6c9ac0ed3fdb9bb5",
+	"pexv":"5.7",
+	"id":"8cccd400eaf0c14aa7cb65e192a9fb02664af949b7c8f6a5285e50a2ba18134f",
 	"tg_username":"ralf979",
 	"device_name":"OnePlus 9 Pro",
 	"device":"lemonadep",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-19-02-23.4456631\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-oos-cam-pixel-extended-rom-android-13-0-lemonadep-29-03-23.4456631\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-android-13-0-lemonadep-19-02-23.4456631\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-oos-cam-pixel-extended-rom-android-13-0-lemonadep-29-03-23.4456631\/"
 }
