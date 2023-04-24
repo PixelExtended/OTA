@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.6_perseus-13.0-20230329-0616-OFFICIAL.zip",
-	"datetime":1680070560,
-	"size":1772315206,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/perseus\/PixelExtended-5.6_perseus-13.0-20230329-0616-OFFICIAL.zip\/download",
-	"filehash":"e20cd7ae0896c0e15f00709215ba5a8e",
+	"filename":"PixelExtended-5.7_perseus-13.0-20230424-0753-OFFICIAL.zip",
+	"datetime":1682322780,
+	"size":1811173356,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/perseus\/PixelExtended-5.7_perseus-13.0-20230424-0753-OFFICIAL.zip\/download",
+	"filehash":"7f4cf718ebec31061d5980909e492a0e",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.6",
-	"id":"d68883b26df87b298b02591328e826da59cd3d77e61ab4193d8975aed107b655",
+	"pexv":"5.7",
+	"id":"d66b037d46c9b83e777249d970fcb0f6f91e81aad08f498fcd75d9d3cafc3e22",
 	"tg_username":"aidanwarner",
 	"device_name":"Xiaomi Mi Mix 3",
 	"device":"perseus",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-perseus-13-pixel-extended-5-5-official.4541857\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-perseus-13-pixel-extended-5-6-official.4541857\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"AidanWarner97",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-perseus-13-pixel-extended-5-5-official.4541857\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-perseus-13-pixel-extended-5-6-official.4541857\/"
 }
