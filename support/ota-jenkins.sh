@@ -6,7 +6,7 @@ GHUN=$5
 NAME=$6
 
 DATETIME=$(grep "org.pixelexperience.build_date_utc=" $DEVICE/build.prop | cut -d "=" -f 2)
-FILENAME=$(find $DEVICE/PixelExtended*.zip | cut -d "/" -f 5)
+FILENAME=$(find $DEVICE/PixelExtended*.zip | cut -d "/" -f 2)
 ID=$(sha256sum $DEVICE/PixelExtended*.zip | cut -d " " -f 1)
 FILEHASH=$(md5sum $DEVICE/PixelExtended*.zip | cut -d " " -f 1)
 SIZE=$(wc -c $DEVICE/PixelExtended*.zip | awk '{print $1}')
