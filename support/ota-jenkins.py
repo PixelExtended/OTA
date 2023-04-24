@@ -19,7 +19,7 @@ name=os.environ.get('name')
 os.system("scp %s/PixelExtended*.zip aidanwarner@frs.sourceforge.net://home/frs/project/pixelextended/%s/"%(codename,codename))
 
 # OTA/TG
-os.system("bash OTA/support/ota.sh '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name))
+os.system("bash OTA/support/ota-jenkins.sh '%s' '%s' '%s' '%s' '%s' '%s'"%(codename,tgname,device,xda,ghun,name))
 
 # Open json for formatting
 init = open("OTA/builds/%s.json"%(codename), "rt")
