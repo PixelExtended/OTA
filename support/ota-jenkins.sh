@@ -5,15 +5,15 @@ XDA_THREAD=$4
 GHUN=$5
 NAME=$6
 
-DATETIME=$(grep "org.pixelexperience.build_date_utc=" $DEVICE/system/build.prop | cut -d "=" -f 2)
+DATETIME=$(grep "org.pixelexperience.build_date_utc=" $DEVICE/build.prop | cut -d "=" -f 2)
 FILENAME=$(find $DEVICE/PixelExtended*.zip | cut -d "/" -f 5)
 ID=$(sha256sum $DEVICE/PixelExtended*.zip | cut -d " " -f 1)
 FILEHASH=$(md5sum $DEVICE/PixelExtended*.zip | cut -d " " -f 1)
 SIZE=$(wc -c $DEVICE/PixelExtended*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/pixelextended/files/$DEVICE/$FILENAME/download"
-VERSION=$(grep "org.pixelexperience.version=" $DEVICE/system/build.prop | cut -d "=" -f 2)
+VERSION=$(grep "org.pixelexperience.version=" $DEVICE/build.prop | cut -d "=" -f 2)
 STATUS="Active"
-PEXV=$(grep "org.pex.version=" $DEVICE/system/build.prop | cut -d "=" -f 2)
+PEXV=$(grep "org.pex.version=" $DEVICE/build.prop | cut -d "=" -f 2)
 DONATE_URL="https://heisinbug.tech/pay"
 WEBSITE_URL="https://pixelextended.github.io/"
 NEWS_URL="https://t.me/pexupdates"
