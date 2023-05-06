@@ -1,4 +1,11 @@
 # Changelog
+
+  # V5.8 (06/05/2023)
+  
+  - Merged May Security Patches 
+  - Added double tap to sleep in lockscreen
+  - Added toggle for wake on plug
+  - ... and other small improvements
  
   # V5.7 (19/04/2023) ! Heat Waves 🔥
   
