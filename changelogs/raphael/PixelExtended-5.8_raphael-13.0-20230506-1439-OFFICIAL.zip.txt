@@ -1,1 +1,31 @@
-Changelog - 13.0//
+Changelog - 2023/05/06
+
+ - OTA pushed (check in System - Update - Settings)
+ - May Security patch merged
+ - nothing relevant 😎
+ 
+
+  #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
+
+based on  O.S.S. vendor and Englezos kernel (A11 Firmware)
+Recommended Recovery - Orang FOX Official
+Rom is decrypted by default so no need to flash dfe. Users who want to stay encrypted can flash efe by @PptOo7 to enable the encryption
+
+Clean Flash
+- Back up all your data
+- Flash Recommended Recovery
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware required by ROM
+- Flash Rom
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- reboot system
+
+Enjoy the PEX
