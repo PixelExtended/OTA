@@ -3,7 +3,7 @@
 |  0 | Jubscleisson   | Samsung Galaxy S10 5G                | beyondx        |                5.5 | Active          |
 |  1 | GioKas93       | Redmi Note 8 / Note 8t               | ginkgo         |                5.7 | Active          |
 |  2 | aidanwarner    | Xiaomi Mi Mix 3                      | perseus        |                5.7 | Active          |
-|  3 | ralf979        | Xiaomi Mi 9t Pro                     | raphael        |                5.7 | Active          |
+|  3 | ralf979        | Xiaomi Mi 9T Pro                     | raphael        |                5.8 | Active          |
 |  4 | ralf979        | OnePlus 9 Pro                        | lemonadep      |                5.7 | Active          |
 |  5 | Jubscleisson   | Samsung Galaxy S10e                  | beyond0lte     |                5.5 | Active          |
 |  6 | Jubscleisson   | Samsung Galaxy Note10                | d1             |                5.5 | Active          |
