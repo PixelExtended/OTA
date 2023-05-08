@@ -1,0 +1,60 @@
+Changelog - 2023/05/07
+
+Device:
+ - OTA Pushed
+ - Address vendor_sysfs_msm_perf denied 
+ - init: Add explorer_preisp ueventd entry 
+ - init: Optimize hwc 
+ - init: Extend audio rt cpuset 0-3 to avoid noise 
+ - init: Do not allow restricted tasks to run on big cores 
+ - Remove non existent regdb.bin blob
+ - Enable TARGET_GRALLOC_HANDLE_HAS_RESERVED_SIZE 
+ - init: Do not balance msm_drm and kgsl_3d0 IRQs 
+ - Remove aptX(HD) encoder shared libs 
+ - Update boot security patch
+ - Turn on auto restricted bucket on abusive bg battery u… 
+ - init: Move audio-app cpuset to 1-2 
+ - Disable kpti 
+ - Lower down rate limit for prime CPU 
+ - init: Avoid migrating foreground tasks to X1 
+ - Boot time tuning 
+ - Move background cpuset to CPU0-1 
+ - init: Import stock cpuset parameters 
+ - init: Fine tune the read_ahead size 
+ - Introduce a stub lahaina-post-boot script 
+ - Update Xtended Kernel
+
+** Notes for this version (V5.6): Since the rebase was done, report the bugs (are there ??) only with clean flash and with respective log. **
+
+
+
+FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites : Brain and ability to READ !
+
+NOTE:
+IF YOU HAVE PROBLEMS WITH TOUCH OR SENSORS, FLASH THE F18 FIRMWARE
+you can find it in the "lemonade/p" folder in sourceforge
+
+Clean Flash:
+1. Download boot.img, dtbo.img and vendor_boot.img from "A13.0 Flash-utility" folder in SourceForge.
+2. Reboot phone to bootloader.
+3. fastboot flash boot boot.img
+4. fastboot flash dtbo dtbo.img
+5. fastboot flash vendor_boot vendor_boot.img
+6. Reboot phone to recovery and FORMAT DATA.
+7. ADB sideload PixelExtended_lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p
+8. Reboot system. Profit.
+
+Dirty Flash :
+1. Reboot phone to recovery.
+2. ADB sideload PixelExtended_lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p
+3. Reboot system. Profit.
+
+Rooting:
+1. Download Magisk.zip
+2. Reboot phone to recovery.
+3. adb sideload Magisk_xxx.zip
+4. Reboot system. Profit.
