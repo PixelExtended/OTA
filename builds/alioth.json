@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.8_alioth-13.0-20230510-1637-OFFICIAL.zip",
+	"datetime":1683736620,
+	"size":1872119410,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/alioth\/PixelExtended-5.8_alioth-13.0-20230510-1637-OFFICIAL.zip\/download",
+	"filehash":"b71622f4b629d37944f04cf83c2a9e94",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.8",
+	"id":"15a3961369b11854c88974eb5a5ffc002c608ce0e80de9f463a1b4bf0890acb4",
+	"tg_username":"chaitanyakm",
+	"device_name":"Mi11x,PocoF3,RedmiK40",
+	"device":"alioth",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-8-android-13.4584655\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"chaitanyakm",
+		"name":"chaitanya"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-8-android-13.4584655\/"
+}

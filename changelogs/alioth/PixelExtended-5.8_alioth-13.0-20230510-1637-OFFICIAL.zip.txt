@@ -1,0 +1,16 @@
+Changelog - 11/05/2023
+
+ - Added Lecia camera
+
+ - Enbale 5g SA and NSA
+
+ - Imported Qti vibration Effects
+
+ - Switched to zyc clang 16
+
+ - Disabled sf EGL tracking to reduce overhead
+
+ - Fixed Bluetooth Audio Playback on Aptx Codec
+
+**NOTE - Use 14.0.7.0 eu Firmware
+       - can be dirty flashed over version 5.8 Unofficial and Version 5.7 Unofficial
