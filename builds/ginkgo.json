@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.7_ginkgo-13.0-20230426-0658-OFFICIAL.zip",
-	"datetime":1682492280,
-	"size":1694446182,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/ginkgo\/PixelExtended-5.7_ginkgo-13.0-20230426-0658-OFFICIAL.zip\/download",
-	"filehash":"548b2a8a998f39e3d961852991f9dd50",
+	"filename":"PixelExtended-5.8_ginkgo-13.0-20230512-1512-OFFICIAL.zip",
+	"datetime":1683904320,
+	"size":1695231592,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/ginkgo\/PixelExtended-5.8_ginkgo-13.0-20230512-1512-OFFICIAL.zip\/download",
+	"filehash":"e9665c448628112305b89e1cce1cd8b0",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.7",
-	"id":"a041c2248f73ccf0ffffc40a5e5d47e2817c97988e7024a52445c37471bed905",
+	"pexv":"5.8",
+	"id":"a84a05dd06097f331711214d232d39519d5b93dd5639574bd79dc962edf4e21a",
 	"tg_username":"GioKas93",
 	"device_name":"Redmi Note 8 \/ Note 8t",
 	"device":"ginkgo",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-7-26-04-2023.4570123\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-8-13-05-2023.4570123",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"GioKas93",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-7-26-04-2023.4570123\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-ginkgo-willow-unified-official-pixel-extended-rom-v5-8-13-05-2023.4570123"
 }
