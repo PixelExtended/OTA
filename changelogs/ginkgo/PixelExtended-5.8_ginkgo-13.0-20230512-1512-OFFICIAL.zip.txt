@@ -1,1 +1,26 @@
-Changelog - 13.0//
+Changelog - 2023-05-13
+
+- Updated with latest @ghostrider_reborn changes
+- Upstreamed Lightning Kernel with latest changes (and some changes on top )
+- Miscellanous improvements
+
+#Flashing instructions
+
+Clean Flash
+- Back up all your data
+- Flash Recommended Recovery
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware available for your Device region
+- Flash Rom
+- Flash DFE if you want to stay decypted
+- reboot system
+
+Dirty Flash
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE if you want to stay decrypted
+- reboot system
+
+Enjoy the PEX
