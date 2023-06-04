@@ -14,7 +14,7 @@ EOF
 #Make a nice post and send it to TG channel
 curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendPhoto" \
     -F chat_id="${CHAT_ID}" \
-    -F photo="support/Donate/Donate.jpg" \
+    -F photo="@support/Donate/Donate.jpg" \
     -F "caption=Optional caption text"
 
 curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
