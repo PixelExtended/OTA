@@ -1,0 +1,42 @@
+# This is a basic workflow to trigger donation post in tg channel every week
+
+name: Weekly Device List Updater
+on:
+  schedule:
+    - cron: "0 13 * * 0"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
+        with:
+          path: "support/requirements.txt"
+      - name: Update Maintainers List
+        run: python3 support/Maintainers/Maintainers.py
+      - name: push changes to remote
+        run: |
+          git config --global user.name "heisinbug"
+          git config --global user.email "guptaaryan189@gmail.com"
+          git commit --allow-empty -am "Weekly Maintainers List Update"
+          git push
+      - uses: yanzay/notify-telegram@v0.1.0
+        if: always()
+        with:
+          chat: ${{ secrets.PRIVATECHAT }}
+          token: ${{ secrets.TOKEN }}
+          status: ${{ job.status }}

@@ -26,4 +26,4 @@ for index, js in enumerate(json_files):
 # now that we have the pertinent json data in our DataFrame let's look at it
 print(jsons_data)
 #jsons_data.to_csv (r'/home/heisinbug/OTA/support/maintainer.csv', index = True)
-jsons_data.to_markdown (r'support/maintainer.md', index = True)
+jsons_data.to_markdown (r'support/Maintainers/Maintainer.md', index = True)
