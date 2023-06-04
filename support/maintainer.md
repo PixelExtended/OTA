@@ -15,4 +15,4 @@
 | 12 | Jubscleisson   | Samsung Galaxy Note10                | d1             |                5.5 | Active          |
 | 13 | GioKas93       | Redmi Note 8 / Note 8t               | ginkgo         |                5.8 | Active          |
 | 14 | ralf979        | Xiaomi Mi 9T Pro                     | raphael        |                5.8 | Active          |
-| 15 | vinc3nt_exe    | Poco F4                              | munch          |                5.7 | Active          |
+| 15 | vinc3nt_exe    | Poco F4                              | munch          |                5.7 | Dead          |
