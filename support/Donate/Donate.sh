@@ -3,6 +3,8 @@ PayPal="https://www.paypal.com/paypalme/aryan65"
 UPI="https://heisinbug.github.io/pay/"
 
 #Make a nice post and send it to TG channel
+curl -X POST -F sticker=@"sticker.tgs" https://api.telegram.org/bot"${TOKEN}"/sendSticker -F chat_id="${CHAT_ID}"
+
 curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendPhoto" \
     -F chat_id="${CHAT_ID}" \
     -F photo="@support/Donate/Donate.jpg" \
