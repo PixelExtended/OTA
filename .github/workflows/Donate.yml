@@ -30,7 +30,7 @@ jobs:
         env:
           TOKEN: '${{ secrets.TOKEN }}'
           CHAT_ID: '${{ secrets.CHAT }}'
-        run: bash Donate.sh
+        run: bash support/Donate/Donate.sh
       - uses: yanzay/notify-telegram@v0.1.0
         if: always()
         with:
