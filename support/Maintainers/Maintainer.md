@@ -4,9 +4,9 @@
 |  1 | Jubscleisson   | Samsung Galaxy S10 5G                | beyondx        |                5.5 | Active          |
 |  2 | Jubscleisson   | Samsung Galaxy S10                   | beyond1lte     |                5.5 | Active          |
 |  3 | ralf979        | OnePlus 9 Pro                        | lemonadep      |                5.8 | Active          |
-|  4 | vinc3nt_exe    | Poco F4                              | munch          |                5.7 | Active          |
+|  4 | vinc3nt_exe    | Poco F4                              | munch          |                5.7 | Not-Maintained  |
 |  5 | GioKas93       | Redmi Note 8 / Note 8t               | ginkgo         |                5.8 | Active          |
-|  6 | iamimmanuelraj | Xiaomi Mi A2                         | jasmine_sprout |                5.6 | Active          |
+|  6 | iamimmanuelraj | Xiaomi Mi A2                         | jasmine_sprout |                5.6 | In-Active       |
 |  7 | Jubscleisson   | Samsung Galaxy Note10+ 5G            | d2x            |                5.5 | Active          |
 |  8 | Jubscleisson   | Samsung Galaxy Note10                | d1             |                5.5 | Active          |
 |  9 | Jubscleisson   | Samsung Galaxy Note10+               | d2s            |                5.5 | Active          |
