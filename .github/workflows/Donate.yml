@@ -1,6 +1,6 @@
 # This is a basic workflow to trigger donation post in tg channel every week
 
-name: First Cron Job
+name: Donation Post
 on:
   schedule:
     - cron: "0 13 * * 0"
@@ -19,7 +19,7 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
       - name: Install Python dependencies
@@ -30,14 +30,7 @@ jobs:
         env:
           TOKEN: '${{ secrets.TOKEN }}'
           CHAT_ID: '${{ secrets.CHAT }}'
-        run: bash donate.sh
-      - name: push changes to remote
-        run: |
-          git config --global user.name "heisinbug"
-          git config --global user.email "guptaaryan189@gmail.com"
-          git add .
-          git commit -m "Update Maintainers List"
-          git push
+        run: bash Donate.sh
       - uses: yanzay/notify-telegram@v0.1.0
         if: always()
         with:
