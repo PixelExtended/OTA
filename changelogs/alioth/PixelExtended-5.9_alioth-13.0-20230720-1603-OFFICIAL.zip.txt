@@ -1,0 +1,11 @@
+Changelog - 20/07/2023
+
+  - Updated leica cam to version 4.9
+  - Better HBM and Dc dimming support
+  - Fixed ldac and aptx playback
+  - Updated blobs from 14.0.7.0 global 
+  - Using latest N0 kernel compiled with aosp-17 clang
+  - Implemented FastCharge 
+
+*******NOTE****************
+clean flash mandatory
