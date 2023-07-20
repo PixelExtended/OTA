@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.8_raphael-13.0-20230506-1439-OFFICIAL.zip",
-	"datetime":1683383940,
-	"size":1978388178,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/raphael\/PixelExtended-5.8_raphael-13.0-20230506-1439-OFFICIAL.zip\/download",
-	"filehash":"6c408bd225e5ad466c2905d95feff018",
+	"filename":"PixelExtended-5.9_raphael-13.0-20230720-0504-OFFICIAL.zip",
+	"datetime":1689829440,
+	"size":2004146762,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/raphael\/PixelExtended-5.9_raphael-13.0-20230720-0504-OFFICIAL.zip\/download",
+	"filehash":"8af49a342fa5282f7182121c751e8fbf",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.8",
-	"id":"8d33b3b86a5911cd1de6ec43ba1212816d6866609307c698ffa89da0a7280f60",
+	"pexv":"5.9",
+	"id":"a8d18440f79bf946d692f02526d0af37aaae026494134ed46036272468ac17bd",
 	"tg_username":"ralf979",
 	"device_name":"Xiaomi Mi 9T Pro",
 	"device":"raphael",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-v5-7-24-04-2023.4146471\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-v5-8-06-05-2023.4146471\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"ralf979",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-v5-7-24-04-2023.4146471\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-raphael-official-pixel-extended-rom-v5-8-06-05-2023.4146471\/"
 }
