@@ -1,5 +1,13 @@
 # Changelog
 
+  # V5.9 (20/07/2023)
+  
+  - Merged July Security Patches 
+  - Surce rebased again :(
+  - Added Hide IME space feature
+  - Restored Qs Allways Black
+  - ... and other small improvements
+
   # V5.8 (06/05/2023)
   
   - Merged May Security Patches 
