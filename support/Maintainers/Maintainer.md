@@ -1,7 +1,7 @@
 |    | Maintainer     | Device                               | Codename       |   Last Pex Version | Device Status   |
 |---:|:---------------|:-------------------------------------|:---------------|-------------------:|:----------------|
-|  0 | chaitanyakm    | Mi11x,PocoF3,RedmiK40                | alioth         |                5.8 | Active          |
-|  1 | ralf979        | Xiaomi Mi 9T Pro                     | raphael        |                5.8 | Active          |
+|  0 | chaitanyakm    | Mi11x/Poco F3/Redmi K40              | alioth         |                5.9 | Active          |
+|  1 | ralf979        | Xiaomi Mi 9T Pro                     | raphael        |                5.9 | Active          |
 |  2 | Jubscleisson   | Samsung Galaxy S10+                  | beyond2lte     |                5.5 | In-Active       |
 |  3 | Jubscleisson   | Samsung Galaxy Note10+               | d2s            |                5.5 | In-Active       |
 |  4 | Jubscleisson   | Samsung Galaxy Note10+ 5G            | d2x            |                5.5 | In-Active       |
