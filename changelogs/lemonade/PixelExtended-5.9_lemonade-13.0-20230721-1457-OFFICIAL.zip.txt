@@ -1,0 +1,78 @@
+Changelog - V5.9 21/07/2023
+
+sm8350-common: Use postproc service from OOS 11.F.20 
+sm8350-common: Update from 13.1.0.500(EX01) 
+sm8350-common: powerhint: Set to powersave governor when device is idle 
+sm8350-common: powerhint: Tune uclamp parameters 
+sm8350-common: Fine-tune and cleanup powerhint 
+sm8350-common: powerhint: Set screen-off schedutil ratelimits 
+sm8350-common: powerhint: Setup uclamp boosting 
+sm8350-common: powerhint: Adapt and tune for lahaina 
+sm8350-common: powerhint: Add Flipendo powerhint 
+sm8350-common: powerhint: Drop PM QoS boosting 
+sm8350-common: powerhint: Remove audio hints 
+sm8350-common: powerhint: Decrease launch boost to 3sec 
+sm8350-common: powerhint: Remove Google-specific camera hints 
+sm8350-common: powerhint: Remove hints for Adaptive Battery CPU Throt… 
+sm8350-common: powerhint: Drop EnergyAware node 
+sm8350-common: powerhint: Don't mess with UFS clkgate 
+sm8350-common: Import powerhint.json from coral 
+sm8350-common: inherit power-libperfmgr product 
+sm8350-common: overlay: Mock LinearmotorVibratorService 
+sm8350-common: Enable compr_voip feature 
+sm8350-common: Extend audio offload buffer size to 256kb 
+sm8350-common: Remove bdroid_buildcfg.h 
+sm8350-common: Update QCOM scripts to LA.UM.9.14.r1-21600-LAHAINA.QSS… 
+sm8350-common: Sync config.fs to LA.UM.9.14.r1-21200-LAHAINA.QSSI13.0 
+sm8350-common: Symlink libvndfwk_detect_jni.qti for CneApp 
+sm8350-common: overlay: configure SQLite to operate in MEMORY mode 
+sm8350-common: overlay: enable 5G SA and NSA 
+sm8350-common: Tune schedutil parameters 
+sm8350-common: Retrict cpuset for non-critical groups 
+sm8350-common: init: Reset readahead values for 128 always 
+sm8350-common: init: Disable multiple kswapd threads 
+sm8350-common: init: Set task min colocation threshold 
+sm8350-common: init: Always use lz4 for zram 
+sm8350-common: init: Revert few CAF changes 
+sm8350-common: Move few kernel scripts to device tree  
+sm8350-common: Unmount /firmware after fastbootd starts
+
+lemonadep: Sync audio configs from COS 11.F.23 
+lemonadep: Update from OOS 13.1.0.500(EX01) 
+lemonadep: Drop unused camera configs
+
+Kernel : Update Xtened Kernel and Merged LOS kernel
+
+FLASH INSTRUCTIONS:
+
+🚦 Before flashing any rom, make a backup of your data! 🚥
+
+Pre-requisites :
+ - Brain and ability to READ !
+ - Update your device to OOS 13
+ - OOS 13.1 - 13.1.0.500(EX01) firmware is required (link in telegram group or in XDA Post) 
+ - Gapps included so no need to flash/sideload GApps
+
+NOTE:
+It is recommended to flash the firmware before following the rom installation guide
+in order to flash the firmware, you need to install a recovery, which can be the blki one or the TWRP / Ofox (I recommend one of these on XDA)
+
+Clean Flash (If comming from OxygenOS or from anyother ROM):
+1. Download and Extract flash_utility package zip from "A13.0 Flash-utility" folder in SourceForge.
+2. Reboot to bootloader & connect your phone to PC
+3. Double click on flash.bat
+4. Reboot to recovery & Factory reset > Format data/factory reset
+5. Back to recovery home page & tap > Apply update > Apply from ADB
+6. Now sideload rom using command adb sideload PixelExtended-lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p)
+7. Reboot system. Profit.
+
+Dirty Flash :
+1. Reboot phone to recovery.
+2. ADB sideload PixelExtended-lemonade/p-xxxxxxxxxxx.zip (lemonade for op9 or lemonadep for op9p)
+3. Reboot system. Profit.
+
+Rooting:
+1. Download Magisk.zip
+2. Reboot phone to recovery.
+3. adb sideload Magisk_xxx.zip
+4. Reboot system. Profit!
