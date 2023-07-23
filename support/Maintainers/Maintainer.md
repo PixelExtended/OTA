@@ -5,7 +5,7 @@
 |  2 | Jubscleisson   | Samsung Galaxy S10+                  | beyond2lte     |                5.5 | In-Active       |
 |  3 | Jubscleisson   | Samsung Galaxy Note10+               | d2s            |                5.5 | In-Active       |
 |  4 | Jubscleisson   | Samsung Galaxy Note10+ 5G            | d2x            |                5.5 | In-Active       |
-|  5 | ralf979        | OnePlus 9                            | lemonade       |                5.8 | Active          |
+|  5 | ralf979        | OnePlus 9                            | lemonade       |                5.9 | Active          |
 |  6 | Potthead1      | POCO X4 PRO / REDMI NOTE 11 PRO PLUS | veux           |                5.7 | In-Active       |
 |  7 | Jubscleisson   | Samsung Galaxy S10e                  | beyond0lte     |                5.5 | In-Active       |
 |  8 | iamimmanuelraj | Xiaomi Mi A2                         | jasmine_sprout |                5.6 | In-Active       |
