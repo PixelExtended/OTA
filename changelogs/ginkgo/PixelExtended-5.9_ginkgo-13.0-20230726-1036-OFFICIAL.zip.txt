@@ -1,1 +1,28 @@
-Changelog - 13.0//
+Changelog - 26-07-2023
+
+- Upstreamed Lightning Kernel with latest changes
+- switched to bool-x clang 17
+- enabled AUX cameras for aperture
+- Miscellanous improvements
+
+#Flashing instructions
+
+Clean Flash
+- Back up all your data
+- Flash Recommended Recovery
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware available for your Device region
+- Flash Rom
+- Flash DFE if you want to stay decypted
+- reboot system
+
+Dirty Flash
+**source got rebased, clean flash is recommended!!**
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE if you want to stay decrypted
+- reboot system
+
+Enjoy the PEX
