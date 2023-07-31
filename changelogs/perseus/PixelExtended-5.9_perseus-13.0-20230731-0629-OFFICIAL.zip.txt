@@ -1,1 +1,3 @@
 Changelog - 13.0//
+- Reverted changes to camera
+  - You can now use the slider to open front camera again
