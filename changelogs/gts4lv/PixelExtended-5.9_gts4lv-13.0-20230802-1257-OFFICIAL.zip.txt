@@ -1,1 +1,4 @@
 Changelog - 13.0//
+
+Initial Release
+KernelSU support
