@@ -1,1 +1,14 @@
-Changelog - 13.0//
+Changelog - 2023/08/09
+- Android 13.0 July security patch update (13.0.0_r63)
+- Compile the kernel without GCC
+- Configure aux cameras for Aperture
+- Replace libutils-v32 with a shim
+- Set rounded corners and rounded mask (To make the recents, lockscreen, predictive gestures and others fit perfectly with the corners of the device and not look pointlessly square)
+- Set status bar padding (for align with notch and make it look like stock)
+- Show audio panel on left side 
+- Update kernel to Linux 4.14.320
+- Use linaro BSP 
+
+Notes
+- This rom supports only LOS and PE recovery (PE Recovery provided in PEX SourceForge or inside ROM zip) - Please don't report bugs if you using TWRP.
+- Please report bugs with logs if you found any
