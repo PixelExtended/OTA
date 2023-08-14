@@ -1,5 +1,12 @@
 # Changelog
 
+  # V5.10 (14/08/2023)
+  
+  - Merged August Security Patches 
+  - Pixel Launcher/ASI drain fixes
+  - Last A13 update ?!?
+  - ... and other small improvements
+
   # V5.9 (20/07/2023)
   
   - Merged July Security Patches 
