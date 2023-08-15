@@ -1,0 +1,11 @@
+Changelog - 15/08/2023
+
+  - Initial official release
+  - August security patch
+  - SELinux is Enforcing
+
+===== Notes =====
+
+  - Gapps build
+  - Use pixel recovery
+  - Clean flash recommended
