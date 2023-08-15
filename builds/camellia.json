@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.10_camellia-13.0-20230815-0639-OFFICIAL.zip",
+	"datetime":1692081540,
+	"size":1523961276,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/camellia\/PixelExtended-5.10_camellia-13.0-20230815-0639-OFFICIAL.zip\/download",
+	"filehash":"7b0beb0f30508cd01880e58c696c2a86",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.10",
+	"id":"cbc232ad667e9ad290482ecd4e842d4f883068fada8c0d5f1718a5ef496ba88a",
+	"tg_username":"ramshell688",
+	"device_name":"Poco M3 Pro\/Redmi Note 10T\/10 5G\/11 SE",
+	"device":"camellia",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-camellia-official-pixel-extended-rom-v5-10-15-08-2023.4594869\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"ramshell688",
+		"name":"Rams (ramshell688)"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-13-0-camellia-official-pixel-extended-rom-v5-10-15-08-2023.4594869\/"
+}
