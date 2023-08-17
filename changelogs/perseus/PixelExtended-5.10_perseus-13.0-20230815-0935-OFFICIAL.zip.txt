@@ -1,1 +1,3 @@
 Changelog - 13.0//
+
+- Updated KernelSU to fully work
