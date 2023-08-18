@@ -1,0 +1,31 @@
+Changelog - 18/08/2023
+
+ - Initial Official build
+ - August Security patch merged
+ - Added Livedisplay back
+ - updated Adreno to V@600
+ - Fixed OOS Slo-mo crash
+ - Other minor Improvements
+
+  #Flash instructions
+
+🚦 Before flashing any rom, make a backup of your persist! and your data !!! 🚥
+
+based on OOS 13.1.0.590(EX01) (A13.1 Firmware Included)
+
+Clean Flash
+- Backup your data
+- Download and flash boot, dtbo, vendor_boot imgs
+- Format Data
+- Flash the rom.zip via adb sideload
+- Reboot
+- Enjoy
+
+
+Dirty Flash
+
+- Back up all your data
+- Flash Rom
+- reboot system
+
+Enjoy the PEX
