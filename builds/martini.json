@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.10_martini-13.0-20230818-1151-OFFICIAL.zip",
+	"datetime":1692359460,
+	"size":2413646983,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/martini\/PixelExtended-5.10_martini-13.0-20230818-1151-OFFICIAL.zip\/download",
+	"filehash":"7f5b4423f8e21c2ae4f713eb163e6fde",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.10",
+	"id":"3c5cf6d6cfdc3ab2246e0aeb412f45310802754ce2bb5acb737c92ced27a3106",
+	"tg_username":"Mrick343",
+	"device_name":"OnePlus 9RT",
+	"device":"martini",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-10-android-13-martini-17-08-23.4609307\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"Mrick343",
+		"name":"Mrick"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-10-android-13-martini-17-08-23.4609307\/"
+}
