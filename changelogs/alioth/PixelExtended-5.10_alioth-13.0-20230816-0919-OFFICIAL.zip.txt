@@ -1,0 +1,6 @@
+Changelog - 19/08/2023
+
+  - Using 4.7 leica cam 
+  - Using latest N0 kernel
+  - removed fastcharging impl
+  - removed wake to check phone 

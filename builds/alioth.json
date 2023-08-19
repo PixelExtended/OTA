@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.9_alioth-13.0-20230720-1603-OFFICIAL.zip",
-	"datetime":1689868980,
-	"size":1967486883,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/alioth\/PixelExtended-5.9_alioth-13.0-20230720-1603-OFFICIAL.zip\/download",
-	"filehash":"5e470d2436ea20bce9b7659435335ed1",
+	"filename":"PixelExtended-5.10_alioth-13.0-20230816-0919-OFFICIAL.zip",
+	"datetime":1692177540,
+	"size":1915553414,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/alioth\/PixelExtended-5.10_alioth-13.0-20230816-0919-OFFICIAL.zip\/download",
+	"filehash":"1b83368de06ae7fe94dfb11055aedd02",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.9",
-	"id":"d9742d7a91efa4a545db16d6268d5b382228614730d54d9a4d9033e20f5d9dfc",
+	"pexv":"5.10",
+	"id":"48b7474fe9b17111b5d0e2832f805cbb02eebd7d0ba762654c1268813e643db4",
 	"tg_username":"chaitanyakm",
-	"device_name":"Mi11x\/Poco F3\/Redmi K40",
+	"device_name":"PocoF3\/Mi11x\/RedmiK40",
 	"device":"alioth",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-9-android-13.4584655\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-10-android-13.4584655\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"chaitanyakm",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-9-android-13.4584655\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-rom-v5-10-android-13.4584655\/"
 }
