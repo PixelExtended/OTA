@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"PixelExtended-5.10_gts4lvwifi-13.0-20230822-1053-OFFICIAL.zip",
+	"datetime":1692701580,
+	"size":1589822637,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/gts4lvwifi\/PixelExtended-5.10_gts4lvwifi-13.0-20230822-1053-OFFICIAL.zip\/download",
+	"filehash":"dea60b9182f0d082341367194bf8fd42",
+	"version":"trece",
+	"status":"Active",
+	"pexv":"5.10",
+	"id":"afc9c6ef306e65a0f06a64011713e8cf04fcbefa5fcec0898b7b2a7b63d1941c",
+	"tg_username":"aidanwarner",
+	"device_name":"Samsung Galaxy Tab S5e (WiFi)",
+	"device":"gts4lvwifi",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9-official.4612023\/",
+	"maintainers": [{
+		"main_maintainer":false,
+		"github_username":"AidanWarner97",
+		"name":"Aidan Warner"
+	}],
+	"donate_url":"https:\/\/heisinbug.tech\/pay",
+	"website_url":"https:\/\/pixelextended.github.io\/",
+	"news_url":"https:\/\/t.me\/pexupdates",
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9-official.4612023\/"
+}
