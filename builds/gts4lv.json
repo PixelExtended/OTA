@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.9_gts4lv-13.0-20230802-1257-OFFICIAL.zip",
-	"datetime":1690981020,
-	"size":1616444925,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/gts4lv\/PixelExtended-5.9_gts4lv-13.0-20230802-1257-OFFICIAL.zip\/download",
-	"filehash":"1d88218efaa5fcf9bb4a10241670ba3e",
+	"filename":"PixelExtended-5.10_gts4lv-13.0-20230817-1153-OFFICIAL.zip",
+	"datetime":1692273180,
+	"size":1614712043,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/gts4lv\/PixelExtended-5.10_gts4lv-13.0-20230817-1153-OFFICIAL.zip\/download",
+	"filehash":"69a494fe14b95f42475a2baef7dace2f",
 	"version":"trece",
 	"status":"Active",
-	"pexv":"5.9",
-	"id":"056f2b25fd867ae7964f3755dae75fb6f1abff4600b15fd0677f129aeffe7e42",
+	"pexv":"5.10",
+	"id":"b77bc3a375315da59be0aa3f6e20e07923c816d31f90efd8b32a5fffc4dd45d7",
 	"tg_username":"aidanwarner",
-	"device_name":"Samsung Galaxy Tab S5e",
+	"device_name":"Samsung Galaxy Tab S5e (LTE)",
 	"device":"gts4lv",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9.4612023\/",
+	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9-official.4612023\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"AidanWarner97",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9.4612023\/"
+	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-gts4lv-13-pixel-extended-5-9-official.4612023\/"
 }
