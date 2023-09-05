@@ -1,1 +1,28 @@
-Changelog - 13.0//
+Changelog - 22-08-2023
+
+- Switched to CUH-Kernel
+- Switched to xiaomi power AIDL HAL
+- Set ZSTD as default zram compression algorithm
+- Miscellanous improvements
+
+#Flashing instructions
+
+Clean Flash
+- Back up all your data
+- Flash Recommended Recovery
+- Wipe Cache - Dalvik - System - Data - Vendor
+- Flash latest firmware available for your Device region
+- Flash Rom
+- Flash DFE if you want to stay decypted
+- reboot system
+
+Dirty Flash
+**source got rebased, clean flash is recommended!!**
+
+- Back up all your data
+- Wipe Cache - Dalvik
+- Flash Rom
+- Flash DFE if you want to stay decrypted
+- reboot system
+
+Enjoy the PEX
