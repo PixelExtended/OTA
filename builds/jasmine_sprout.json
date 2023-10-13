@@ -1,18 +1,18 @@
 {
 	"error":false,
-	"filename":"PixelExtended-5.6_jasmine_sprout-13.0-20230409-1012-OFFICIAL-SIGNED.zip",
-	"datetime":1681035120,
-	"size":1597490393,
-	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/jasmine_sprout\/PixelExtended-5.6_jasmine_sprout-13.0-20230409-1012-OFFICIAL-SIGNED.zip\/download",
-	"filehash":"99e8e0c9275ea8a708b92782135e07a1",
+	"filename":"PixelExtended-5.10_jasmine_sprout-13.0-20231005-1409-OFFICIAL.zip",
+	"datetime":1696514940,
+	"size":1608476273,
+	"url":"https:\/\/sourceforge.net\/projects\/pixelextended\/files\/jasmine_sprout\/PixelExtended-5.10_jasmine_sprout-13.0-20231005-1409-OFFICIAL.zip\/download",
+	"filehash":"a2e27510198bc73c6ba8e64a48eb5340",
 	"version":"trece",
-	"status":"In-Active",
-	"pexv":"5.6",
-	"id":"81018bf1bdd27f5a5bd062b6db0c87f3ca56c39376dd1b2029e31b0fefad7fff",
+	"status":"Active",
+	"pexv":"5.10",
+	"id":"88ce69e63aa3b48b6c58994f51f94a043fc7bbbd294501ad0b29b3d44179960b",
 	"tg_username":"iamimmanuelraj",
-	"device_name":"Xiaomi Mi A2",
+	"device_name":"Mi A2",
 	"device":"jasmine_sprout",
-	"xda_thread":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-mi-a2-jasmine_sprout.4550155\/",
+	"xda_thread":"https:\/\/xdaforums.com\/t\/rom-official-pixel-extended-mi-a2-jasmine_sprout.4550155\/",
 	"maintainers": [{
 		"main_maintainer":false,
 		"github_username":"iamimmanuelraj",
@@ -21,5 +21,5 @@
 	"donate_url":"https:\/\/heisinbug.tech\/pay",
 	"website_url":"https:\/\/pixelextended.github.io\/",
 	"news_url":"https:\/\/t.me\/pexupdates",
-	"forum_url":"https:\/\/forum.xda-developers.com\/t\/rom-official-pixel-extended-mi-a2-jasmine_sprout.4550155\/"
+	"forum_url":"https:\/\/xdaforums.com\/t\/rom-official-pixel-extended-mi-a2-jasmine_sprout.4550155\/"
 }
