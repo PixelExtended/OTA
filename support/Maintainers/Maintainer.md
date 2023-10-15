@@ -15,7 +15,7 @@
 | 12 | ralf979        | OnePlus 9 Pro                          | lemonadep      |                5.8 | Active          |
 | 13 | aidanwarner    | Samsung Galaxy Tab S5e (WiFi)          | gts4lvwifi     |                5.1 | Active          |
 | 14 | chaitanyakm    | PocoF3/Mi11x/RedmiK40                  | alioth         |                5.1 | Active          |
-| 15 | GioKas93       | Redmi Note 8 | Note 8t                 | ginkgo         |                5.1 | Active          |
+| 15 | GioKas93       | Redmi Note 8 / Note 8t                 | ginkgo         |                5.1 | Active          |
 | 16 | Jubscleisson   | Samsung Galaxy Note10                  | d1             |                5.9 | Active          |
 | 17 | Jubscleisson   | Samsung Galaxy S10e                    | beyond0lte     |                5.9 | Active          |
 | 18 | ralf979        | OnePlus 9                              | lemonade       |                5.9 | Active          |
