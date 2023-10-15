@@ -1,6 +1,6 @@
 # This is a basic workflow to trigger donation post in tg channel every week
 
-name: Daily Device List Updater
+name: Weekly Device List Updater
 on:
   schedule:
     - cron: "0 0 * * 1"
@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "heisinbug"
           git config --global user.email "guptaaryan189@gmail.com"
-          git commit --allow-empty -am "Daily Maintainers List Update"
+          git commit --allow-empty -am "Weekly Maintainers List Update"
           git push
       - uses: yanzay/notify-telegram@v0.1.0
         if: always()
