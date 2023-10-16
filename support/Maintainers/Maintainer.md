@@ -7,7 +7,7 @@
 |  4 | Jubscleisson   | Samsung Galaxy Note10+ 5G              | d2x            |                5.9 | Active          |
 |  5 | ralf979        | Xiaomi Mi 9T Pro                       | raphael        |                5.1 | Active          |
 |  6 | Jubscleisson   | Samsung Galaxy Note10+                 | d2s            |                5.9 | Active          |
-|  7 | iamimmanuelraj | Xiaomi Mi A2                           | jasmine_sprout |                5.6 | In-Active       |
+|  7 | iamimmanuelraj | Mi A2                                  | jasmine_sprout |                5.1 | Active          |
 |  8 | Jubscleisson   | Samsung Galaxy S10                     | beyond1lte     |                5.9 | Active          |
 |  9 | ramshell688    | Poco M3 Pro/Redmi Note 10T/10 5G/11 SE | camellia       |                5.1 | Active          |
 | 10 | Jubscleisson   | Samsung Galaxy S10+                    | beyond2lte     |                5.9 | Active          |
